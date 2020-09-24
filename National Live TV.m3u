@@ -1,0 +1,94 @@
+#EXTM3U
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/1176px-CBS_logo.svg.png" group-title="USA",CBS
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/1000px-ABC_%282013%29_Dark_Grey.svg.png" group-title="USA",ABC
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/1137px-NBC_logo_%282013%29.svg.png" group-title="USA",NBC
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="USA",FOX
+https://content-ausw2-up-1.uplynk.com/channel/ca51b53845774342b173485202865d3c/e.m3u8?pbs=66fe77a9d62c4ce493a1b654fae9ed6c
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1280px-PBS_logo.svg.png" group-title="USA",PBS
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/1200px-The_CW.svg.png" group-title="USA",The CW
+
+
+#EXTINF:0 tvg-logo="https://fatherandsonmovers.com/wp-content/uploads/2016/08/mnt.jpg" group-title="USA",MyNetworkTV
+
+
+#EXTINF:0 tvg-logo="https://ef4053d636c8c3c65fe5-53dd2d41f5e8f71ab7be7bde4d129736.ssl.cf5.rackcdn.com/documents/ion-television/logo/ion-television-logo.png" group-title="USA",ION Television
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="USA",Telemundo
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="USA",Univision
+https://unidfpclnlds155.akamaized.net/linear/hls/pa/event/pa2-p-dKTaCqDOi0eFyHXw/stream/0299c873-9993-47b6-bf98-fb39ca6af7c2:MRN/variant/2c67b312940b383c270c54370b90c6b7/bandwidth/4500000.m3u8?hdntl=exp=1600995469~acl=*~id=a14cc402-46aa-474f-8315-4ce66dfa23bc~data=hdntl~hmac=27b94c0f58581878dda61709e6912511e9d007d1322604a168c0ed12910059d5
+
+#EXTINF:0 tvg-logo="" group-title="USA",Boomerang
+
+
+#EXTINF:0 tvg-logo="" group-title="USA",Cartoon Network
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Charge!_Logo_2020.svg/1000px-Charge!_Logo_2020.svg.png" group-title="USA",Charge!
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+
+#EXTINF:0 tvg-logo="https://i2.wp.com/morbidlybeautiful.com/wp-content/uploads/2017/02/cometblackandwhite.png" group-title="USA",Comet TV
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="USA",Disney Channel
+
+
+#EXTINF:0 tvg-logo="" group-title="USA",Disney Junior
+
+
+#EXTINF:0 tvg-logo="" group-title="USA",Disney XD
+
+
+#EXTINF:0 tvg-logo="https://images.squarespace-cdn.com/content/v1/5bbd35792727be3d5c4e940a/1539197726847-ZZ9YSW6D2RB1237IN5VJ/ke17ZwdGBToddI8pDm48kHJj22hTd3mkiVY0yls1b7IUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcAQoyZDb1JME1M52DX_nWUk2qBzd8fWRB_HbpvnBAeSWW11ij-JWkHzr1Z4OGPCWU/Kabillion_LOGO.png" group-title="USA",Kabillion
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxkabillion/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/KidsClickLogo.png" group-title="USA",KidsClick
+https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="USA",Nick Jr.
+
+
+#EXTINF:0 tvg-logo="" group-title="USA",Nickelodeon
+
+
+#EXTINF:0 tvg-logo="" group-title="USA",Nicktoons
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/1024px-PBS_Kids_Logo.svg.png" group-title="USA",PBS Kids
+https://live-cdn.pbskids.org/out/u/est.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="USA",Qubo
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Smile_TV.jpg" group-title="USA",Smile TV
+https://playback.akamaized.net/streams/27460990_8266916_lsior976xwzwuc60bm9_1/master.m3u8?dw=14400&hdnts=exp=1600906866~acl=/streams/27460990_8266916_lsior976xwzwuc60bm9_1/master.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TBD_Logo_2019.svg/1200px-TBD_Logo_2019.svg.png" group-title="USA",TBD
+https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6f/TBN_logo_2015.jpg" group-title="USA",TBN
+https://playback.akamaized.net/streams/27460990_8266920_lsidcduh5ns2uur3y4n_1/master.m3u8?dw=14400&hdnts=exp=1600906694~acl=/streams/27460990_8266920_lsidcduh5ns2uur3y4n_1/master.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1000px-TBS_logo_2016.svg.png" group-title="USA",TBS
+https://tve-live-lln.warnermediacdn.com/hls/live/572094/tbse/aes_slate/VIDEO_2_1964000.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="USA",TeenNick
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/This_TV_logo.svg/1200px-This_TV_logo.svg.png" group-title="USA",This TV
+https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="USA",Universal Kids
+
