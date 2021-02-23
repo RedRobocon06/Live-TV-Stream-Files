@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="(Eastern)PBS">
+    <display-name lang="en">(Eastern)PBS</display-name>
+    <url>http://www.tvguide.com</url>
+  </channel>
+  <channel id="HSN">
+    <display-name lang="en">HSN</display-name>
+    <url>http://www.zap2it.com</url>
+  </channel>
+</tv>
