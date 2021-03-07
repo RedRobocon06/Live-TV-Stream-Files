@@ -91,7 +91,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d486b2ee
 
 
 #EXTINF:0 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nyc-life.png" group-title="USA",NYC TV Life
-https://hls.locastnet.org/proxy/nyc/variant/1YDcpSRwjjcvpas2NnTkkgW7tS14ePb3ffXvYYnDj0aPAV1YWI0yDxamOvWxXMHSODecGrCL9muRgMNhqe8p57t4qwSwvqpW2IrBTYP3TzLr.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="USA",NYC TV Gov
+
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="USA",Telemundo
 
