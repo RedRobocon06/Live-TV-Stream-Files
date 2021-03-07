@@ -43,7 +43,7 @@ https://pbs.lls.cdn.pbs.org/est/index.m3u8
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
 
 #EXTINF:0 tvg-logo="https://ef4053d636c8c3c65fe5-53dd2d41f5e8f71ab7be7bde4d129736.ssl.cf5.rackcdn.com/documents/ion-television/logo/ion-television-logo.png" group-title="USA",ION Television
-http://tvmedia2.com:8080/Hunter2/Hunter2/164271.m3u8
+
 
 #EXTINF:0 tvg-logo="https://qubo.com/images/qubo-logo.png" group-title="USA",Qubo
 https://ion-qubo-1.samsung.wurl.com/manifest/playlist.m3u8
@@ -58,7 +58,7 @@ https://lsqvc1uscln-lh.akamaihd.net/i/lsqvc1uscln_01@809410/master.m3u8
 https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/800px-Antenna_TV_logo.svg.png" group-title="USA",Antenna TV
-http://tvmedia2.com:8080/Hunter2/Hunter2/164357.m3u8
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Bounce_TV_2017_Logo.png" group-title="USA",Bounce TV
 https://bozztv.com/teleyupp/teleup-bounce/playlist.m3u8
@@ -79,7 +79,7 @@ https://bozztv.com/teleyupp/teleup-grit/playlist.m3u8
 https://bozztv.com/teleyupp/teleup-laff/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/1920px-MeTV_Logo.svg.png" group-title="USA",MeTV
-http://tvmedia2.com:8080/Hunter2/Hunter2/164265.m3u8
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" group-title="USA",Retro TV
 https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
@@ -94,16 +94,16 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d486b2ee
 https://hls.locastnet.org/proxy/nyc/variant/1YDcpSRwjjcvpas2NnTkkgW7tS14ePb3ffXvYYnDj0aPAV1YWI0yDxamOvWxXMHSODecGrCL9muRgMNhqe8p57t4qwSwvqpW2IrBTYP3TzLr.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="USA",Telemundo
-https://hls.locastnet.org/proxy/nyc/variant/6QVPyo9OGXem9qV7eJ2HASWQPxNVFqokwfSrVKCjkHD96erzVaO5x8xGuxcWnwFVH1gjYsgi9lCo9qEsk7CB5jB5FCLgGMp1DXuyJjxnbmDv.m3u8
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/TeleXitos_TV.png" group-title="USA",TeleXitos
-https://hls.locastnet.org/proxy/nyc/variant/kFVS9OENOmwfKtV4rICgQoMc5aO41egessrHUfFl4aTnlZwC6yt20DzhNkeLM6oHa0vb79SCOg57rkNDAyKINdpwnoN9cbiJkZxEcDX6Esh.m3u8
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="USA",Univision
-http://tvmedia2.com:8080/Hunter2/Hunter2/164172.m3u8
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/220px-Logo_UniM%C3%A1s.svg.png" group-title="USA",UniMas
-http://tvmedia2.com:8080/Hunter2/Hunter2/164174.m3u8
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="USA",Comedy Central
 
