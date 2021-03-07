@@ -64,7 +64,7 @@ https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
 https://bozztv.com/teleyupp/teleup-bounce/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Buzzr_%28TV_Network%29_Logo.png" group-title="USA",Buzzr
-https://buzzrota-web.amagi.tv/playlist1080.m3u8
+https://buzzr-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="USA",Court TV
 https://bozztv.com/teleyupp/teleup-courttv/playlist.m3u8
