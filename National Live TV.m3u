@@ -52,7 +52,7 @@ https://ion-qubo-1.samsung.wurl.com/manifest/playlist.m3u8
 https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/QVC_logo_2015.png" group-title="USA",QVC
-https://lsqvc1uscln-lh.akamaihd.net/i/lsqvc1uscln_01@809410/master.m3u8
+https://lsqvc1usott-lh.akamaihd.net/i/lsqvc1usott_01@838836/index_1600_av-b.m3u8?sd=10&dw=60&set-akamai-hls-revision=4&set-segment-duration=smoothest&rebase=on
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="USA",HSN
 https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
