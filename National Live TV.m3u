@@ -130,13 +130,13 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWi
 https://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1000px-TBS_logo_2016.svg.png" group-title="USA",TBS
-
+https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/TNT_logo_White.png/revision/latest?cb=20210114211400" group-title="USA",TNT
-
+https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/TruTV_2014_Green.svg/revision/latest/scale-to-width-down/800?cb=20170725091207" group-title="USA",TruTV
-
+https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="USA",The Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
