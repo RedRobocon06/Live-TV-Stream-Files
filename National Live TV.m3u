@@ -27,17 +27,14 @@ https://bozztv.com/teleyupp/e5CGxWp8iU/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/KidsClickLogo.png" group-title="USA",KidsClick
 https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TBD_Logo_2019.svg/1200px-TBD_Logo_2019.svg.png" group-title="USA",TBD
+https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/1920px-Charge%21_Logo_2020.svg.png" group-title="USA",Charge!
 https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
 
 #EXTINF:0 tvg-logo="https://i2.wp.com/morbidlybeautiful.com/wp-content/uploads/2017/02/cometblackandwhite.png" group-title="USA",Comet TV
 http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TBD_Logo_2019.svg/1200px-TBD_Logo_2019.svg.png" group-title="USA",TBD
-https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/This_TV_logo.svg/1200px-This_TV_logo.svg.png" group-title="USA",This TV
-https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1280px-PBS_logo.svg.png" group-title="USA",PBS
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
@@ -95,6 +92,9 @@ https://test.com/file/placeholder.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" group-title="USA",Retro TV
 https://test.com/file/placeholder.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/This_TV_logo.svg/1200px-This_TV_logo.svg.png" group-title="USA",This TV
+https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
 
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6f/TBN_logo_2015.jpg" group-title="USA",TBN
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d486b2eeddd9576d66f9066/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
