@@ -96,16 +96,16 @@ https://test.com/file/placeholder.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/This_TV_logo.svg/1200px-This_TV_logo.svg.png" group-title="USA",This TV
 https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
 
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6f/TBN_logo_2015.jpg" group-title="USA",TBN
+#EXTINF:0 tvg-logo="https://help.yippee.tv/hs-fs/hubfs/TBN%20Logo.jpg?width=5674&name=TBN%20Logo.jpg" group-title="USA",TBN
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d486b2eeddd9576d66f9066/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Smile_TV.jpg" group-title="USA",Smile TV
+#EXTINF:0 tvg-logo="https://i.imgur.com/HL4phgR.png" group-title="USA",Smile TV
 https://test.com/file/placeholder.m3u8
 
-#EXTINF:0 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nyc-life.png" group-title="USA",NYC TV Life
+#EXTINF:0 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nyc-life.png" group-title="USA",NYC Life
 https://test.com/file/placeholder.m3u8
 
-#EXTINF:0 tvg-logo="https://lh6.googleusercontent.com/P0tpwPcb5vAqMf6CpP3DMGLQREbgO71FXgrU_0ubg1iJ2RtQPmNQC2psQEkDvnt8SNhZ2jEcoENeSqP2TdDF=w901-h625" group-title="USA",NYC TV Gov
+#EXTINF:0 tvg-logo="https://i.imgur.com/i7TRNOg.png" group-title="USA",NYC Gov
 https://test.com/file/placeholder.m3u8
 
 #EXTINF:0 tvg-name="TELE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="USA",Telemundo
@@ -167,6 +167,18 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3
 
 #EXTINF:0 tvg-name="WEATH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="USA",The Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Current_logo_for_CBC_Television.png" group-title="Canada",CBC
+https://test.com/file/placeholder.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/1920px-Citytv_logo.svg.png" group-title="Canada",CityTV
+https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/1920px-CTV_logo_2018.svg.png" group-title="Canada",CTV
+https://test.com/file/placeholder.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/240px-Global_Television_Network_Logo.svg.png" group-title="Canada",Global
+https://test.com/file/placeholder.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/TVO_logo.svg/1200px-TVO_logo.svg.png" group-title="Canada",TVO
 https://bozztv.com/teleyupp1/teleup-OMZsmYVUMp/playlist.m3u8
