@@ -108,7 +108,7 @@ https://test.com/file/placeholder.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/i7TRNOg.png" group-title="USA",NYC Gov
 https://test.com/file/placeholder.m3u8
 
-#EXTINF:0 tvg-name="TELE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="USA",Telemundo
+#EXTINF:0 tvg-name="TELE" tvg-logo="https://i.imgur.com/0fbIM3o.png" group-title="USA",Telemundo
 https://test.com/file/placeholder.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/TeleXitos_TV.png" group-title="USA",TeleXitos
