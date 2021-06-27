@@ -91,7 +91,7 @@ https://bozztv.com/teleyupp/teleup-gettv/playlist.m3u8
 https://test.com/file/placeholder.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" group-title="USA",Retro TV
-https://test.com/file/placeholder.m3u8
+https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/This_TV_logo.svg/1200px-This_TV_logo.svg.png" group-title="USA",This TV
 https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
