@@ -51,13 +51,13 @@ https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 #EXTINF:0 tvg-name="ION" tvg-logo="https://ef4053d636c8c3c65fe5-53dd2d41f5e8f71ab7be7bde4d129736.ssl.cf5.rackcdn.com/documents/ion-television/logo/ion-television-logo.png" group-title="USA",ION Television
 https://test.com/file/placeholder.m3u8
 
-#EXTINF:0 tvg-logo="https://qubo.com/images/qubo-logo.png" group-title="USA",Qubo
+#EXTINF:0 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87fe7c9f-a6f4-42d3-96fd-9924de610773/deelf6b-2ec71f2a-2538-479b-a75a-521697cf5330.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg3ZmU3YzlmLWE2ZjQtNDJkMy05NmZkLTk5MjRkZTYxMDc3M1wvZGVlbGY2Yi0yZWM3MWYyYS0yNTM4LTQ3OWItYTc1YS01MjE2OTdjZjUzMzAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KG6RkX2Lscn6Pm1g4gj2bTSj8auFgO319blXsPHPx7g" group-title="USA",Qubo
 https://ion-qubo-1.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/800px-ION_Plus_logo.svg.png" group-title="USA",ION Plus
 https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/QVC_logo_2015.png" group-title="USA",QVC
+#EXTINF:0 tvg-logo="https://i.imgur.com/CkIxX82.png" group-title="USA",QVC
 https://lsqvc1usott-lh.akamaihd.net/i/lsqvc1usott_01@838836/index_1600_av-b.m3u8?sd=10&dw=60&set-akamai-hls-revision=4&set-segment-duration=smoothest&rebase=on
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="USA",HSN
