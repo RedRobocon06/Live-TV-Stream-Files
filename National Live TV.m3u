@@ -43,7 +43,7 @@ https://pbs.lls.cdn.pbs.org/est/index.m3u8
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/800px-Create_TV_network_logo.svg.png" group-title="USA",Create
-https://test.com/file/placeholder.m3u8
+https://d1mxoeplf1ak5a.cloudfront.net/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png" group-title="USA",World
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
