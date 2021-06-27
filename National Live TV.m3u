@@ -96,11 +96,14 @@ https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/This_TV_logo.svg/1200px-This_TV_logo.svg.png" group-title="USA",This TV
 https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/x0JzXdF.png" group-title="USA",Dabl
+https://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
+
 #EXTINF:0 tvg-logo="https://help.yippee.tv/hs-fs/hubfs/TBN%20Logo.jpg?width=5674&name=TBN%20Logo.jpg" group-title="USA",TBN
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d486b2eeddd9576d66f9066/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+https://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8?Faith
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/HL4phgR.png" group-title="USA",Smile TV
-https://test.com/file/placeholder.m3u8
+https://api.new.livestream.com/accounts/27460990/events/8266916/live.m3u8?Faith
 
 #EXTINF:0 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nyc-life.png" group-title="USA",NYC Life
 https://test.com/file/placeholder.m3u8
