@@ -1,25 +1,25 @@
 #EXTM3U
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/1000px-ABC_%282013%29_Dark_Grey.svg.png" group-title="USA",ABC
-https://test.com/file/placeholder.m3u8
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/1176px-CBS_logo.svg.png" group-title="USA",CBS
-https://test.com/file/placeholder.m3u8
+
 
 #EXTINF:0 tvg-id="5" tvg-name="CW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/1200px-The_CW.svg.png" group-title="USA",The CW
-https://test.com/file/placeholder.m3u8
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/1137px-NBC_logo_%282013%29.svg.png" group-title="USA",NBC
-https://test.com/file/placeholder.m3u8
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Universal_Kids_2019_Logo.svg/1200px-Universal_Kids_2019_Logo.svg.png" group-title="USA",Universal Kids
-https://test.com/file/placeholder.m3u8
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/1920px-Cozi_TV_logo.svg.png" group-title="USA",Cozi TV
 https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="USA",FOX
-https://test.com/file/placeholder.m3u8
+
 
 #EXTINF:0 tvg-id="7" tvg-name="MNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="USA",MyNetworkTV
 https://bozztv.com/teleyupp/e5CGxWp8iU/playlist.m3u8
@@ -49,7 +49,7 @@ https://d1mxoeplf1ak5a.cloudfront.net/index.m3u8
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 
 #EXTINF:0 tvg-name="ION" tvg-logo="https://ef4053d636c8c3c65fe5-53dd2d41f5e8f71ab7be7bde4d129736.ssl.cf5.rackcdn.com/documents/ion-television/logo/ion-television-logo.png" group-title="USA",ION Television
-https://test.com/file/placeholder.m3u8
+
 
 #EXTINF:0 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87fe7c9f-a6f4-42d3-96fd-9924de610773/deelf6b-2ec71f2a-2538-479b-a75a-521697cf5330.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg3ZmU3YzlmLWE2ZjQtNDJkMy05NmZkLTk5MjRkZTYxMDc3M1wvZGVlbGY2Yi0yZWM3MWYyYS0yNTM4LTQ3OWItYTc1YS01MjE2OTdjZjUzMzAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KG6RkX2Lscn6Pm1g4gj2bTSj8auFgO319blXsPHPx7g" group-title="USA",Qubo
 https://ion-qubo-1.samsung.wurl.com/manifest/playlist.m3u8
@@ -64,7 +64,7 @@ https://lsqvc1usott-lh.akamaihd.net/i/lsqvc1usott_01@838836/index_1600_av-b.m3u8
 https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
 
 #EXTINF:0 tvg-name="ANTENNA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/800px-Antenna_TV_logo.svg.png" group-title="USA",Antenna TV
-https://test.com/file/placeholder.m3u8
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Bounce_TV_2017_Logo.png" group-title="USA",Bounce TV
 https://bozztv.com/teleyupp/teleup-bounce/playlist.m3u8
@@ -88,7 +88,7 @@ https://bozztv.com/teleyupp/teleup-laff/playlist.m3u8
 https://bozztv.com/teleyupp/teleup-gettv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/1920px-MeTV_Logo.svg.png" group-title="USA",MeTV
-https://test.com/file/placeholder.m3u8
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" group-title="USA",Retro TV
 https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
@@ -106,22 +106,22 @@ https://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8?Faith
 https://api.new.livestream.com/accounts/27460990/events/8266916/live.m3u8?Faith
 
 #EXTINF:0 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nyc-life.png" group-title="USA",NYC Life
-https://test.com/file/placeholder.m3u8
+
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/i7TRNOg.png" group-title="USA",NYC Gov
-https://test.com/file/placeholder.m3u8
+
 
 #EXTINF:0 tvg-name="TELE" tvg-logo="https://i.imgur.com/0fbIM3o.png" group-title="USA",Telemundo
-https://test.com/file/placeholder.m3u8
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/TeleXitos_TV.png" group-title="USA",TeleXitos
-https://test.com/file/placeholder.m3u8
+
 
 #EXTINF:0 tvg-name="UNI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="USA",Univision
-https://test.com/file/placeholder.m3u8
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/220px-Logo_UniM%C3%A1s.svg.png" group-title="USA",UniMas
-https://test.com/file/placeholder.m3u8
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/800px-Bravo_2017_logo.svg.png" group-title="USA",Bravo
 https://bozztv.com/teleyupp/teleup-bravo/playlist.m3u8
@@ -181,7 +181,7 @@ https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/playlist.m3u8
 https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/240px-Global_Television_Network_Logo.svg.png" group-title="Canada",Global
-https://test.com/file/placeholder.m3u8
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/TVO_logo.svg/1200px-TVO_logo.svg.png" group-title="Canada",TVO
 https://bozztv.com/teleyupp1/teleup-OMZsmYVUMp/playlist.m3u8
