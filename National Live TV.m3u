@@ -102,7 +102,7 @@ https://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
 #EXTINF:0 tvg-logo="https://help.yippee.tv/hs-fs/hubfs/TBN%20Logo.jpg?width=5674&name=TBN%20Logo.jpg" group-title="USA",TBN
 https://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8?Faith
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/HL4phgR.png" group-title="USA",Smile TV
+#EXTINF:0 tvg-logo="https://i.imgur.com/HL4phgR.png" group-title="USA",Smile
 https://api.new.livestream.com/accounts/27460990/events/8266916/live.m3u8?Faith
 
 #EXTINF:0 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nyc-life.png" group-title="USA",NYC Life
