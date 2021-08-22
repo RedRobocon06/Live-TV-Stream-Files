@@ -147,7 +147,7 @@ https://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-name="DSC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png" group-title="USA",058 - Discovery Channel
 https://bozztv.com/teleyupp/teleup-discovery/playlist.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="USA",067 - ESPN
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="USA",067 - ESPN
 https://content.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4.m3u8 
 
 #EXTINF:0 tvg-name="FNC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/800px-Fox_News_Channel_logo.svg.png" group-title="USA",071 - Fox News Channel
