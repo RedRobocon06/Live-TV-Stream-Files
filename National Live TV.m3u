@@ -118,7 +118,7 @@ https://cdn87.theus6tv.tk/locals/NewYorkCity/wnye-dt2.m3u8
 https://cdn87.theus6tv.tk/locals/Pheonix/ktaz-dt1.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/TeleXitos_TV.png" group-title="USA",040 - TeleXitos
-
+https://cdn87.theus6tv.tk/locals/SanDiego/kuan-ld2.m3u8
 
 #EXTINF:0 tvg-name="UNI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="USA",041 - Univision
 https://cdn87.theus6tv.tk/locals/NewYorkCity/wxtv-dt1.m3u8
@@ -139,7 +139,7 @@ https://cdn87.theus6tv.tk/locals/NewYorkCity/wxtv-dt1.m3u8
 https://bozztv.com/teleyupp/teleup-bravo/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png" group-title="USA",056 - CNN
-https://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:0 tvg-name="COMEDY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="USA",057 - Comedy Central
 
@@ -167,6 +167,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.
 
 #EXTINF:0 tvg-logo="https://images.squarespace-cdn.com/content/v1/5bbd35792727be3d5c4e940a/1539197726847-ZZ9YSW6D2RB1237IN5VJ/ke17ZwdGBToddI8pDm48kHJj22hTd3mkiVY0yls1b7IUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcAQoyZDb1JME1M52DX_nWUk2qBzd8fWRB_HbpvnBAeSWW11ij-JWkHzr1Z4OGPCWU/Kabillion_LOGO.png" group-title="USA",087 - Kabillion
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxkabillion/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="USA",093 - MSNBC
+http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/playlist.m3u8
 
 #EXTINF:0 tvg-name="POPSD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png" group-title="USA",104 - Pop
 http://n1.klowdtv.net/live2/pop_720p/chunks.m3u8
