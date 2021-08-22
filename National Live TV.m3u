@@ -126,13 +126,13 @@ https://cdn87.theus6tv.tk/locals/NewYorkCity/wxtv-dt1.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/220px-Logo_UniM%C3%A1s.svg.png" group-title="USA",042 - UniMas
 
 
-#EXTINF:0 tvg-logo="" group-title="USA",043 - V-me
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/V-me_Channel_Logo.png" group-title="USA",043 - V-me
 
 
-#EXTINF:0 tvg-logo="" group-title="USA",044 - V-me Kids
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Vme_Kids_Logo.png" group-title="USA",044 - V-me Kids
 
 
-#EXTINF:0 tvg-logo="" group-title="USA",045 - Primo TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Primo_TV_logo.png" group-title="USA",045 - Primo TV
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/800px-Bravo_2017_logo.svg.png" group-title="USA",051 - Bravo
@@ -189,7 +189,7 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3
 #EXTINF:0 tvg-name="WEATH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="USA",121 - The Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Current_logo_for_CBC_Television.png" group-title="Canada",CBC
+#EXTINF:0 tvg-logo="https://uploads-ssl.webflow.com/58bc812f0a7c9e445e1dc555/60be78a4119ed3b4d0746fd6_CBC-Television-Logo.png" group-title="Canada",CBC
 https://bozztv.com/teleyupp1/teleup-ydcl2V1MVC/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/1920px-Citytv_logo.svg.png" group-title="Canada",CityTV
