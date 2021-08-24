@@ -216,7 +216,7 @@ https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/240px-Global_Television_Network_Logo.svg.png" group-title="Canada",Global
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/TVO_logo.svg/1200px-TVO_logo.svg.png" group-title="Canada",TVO
+#EXTINF:0 tvg-name="CICADT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/TVO_logo.svg/1200px-TVO_logo.svg.png" group-title="Canada",TVO
 https://bozztv.com/teleyupp1/teleup-OMZsmYVUMp/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://stro.ycdsb.ca/wp-content/uploads/sites/86/2020/03/TVOKids.jpg" group-title="Canada",TVO Kids
