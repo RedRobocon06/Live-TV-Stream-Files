@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/800px-ABC-2021-LOGO.svg.png" group-title="USA",001 - ABC
+#EXTINF:0 tvg-name="ABC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/800px-ABC-2021-LOGO.svg.png" group-title="USA",001 - ABC
 https://cdn87.theus6tv.tk/locals/NewYorkCity/wabc-dt1.m3u8
 
 #EXTINF:0 tvg-name="CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/1176px-CBS_logo.svg.png" group-title="USA",002 - CBS
