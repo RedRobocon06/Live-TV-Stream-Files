@@ -54,7 +54,7 @@ https://cdn87.theus6tv.tk/locals/BayArea/kkpx-dt1.m3u8
 #EXTINF:0 tvg-name="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87fe7c9f-a6f4-42d3-96fd-9924de610773/deelf6b-2ec71f2a-2538-479b-a75a-521697cf5330.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg3ZmU3YzlmLWE2ZjQtNDJkMy05NmZkLTk5MjRkZTYxMDc3M1wvZGVlbGY2Yi0yZWM3MWYyYS0yNTM4LTQ3OWItYTc1YS01MjE2OTdjZjUzMzAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KG6RkX2Lscn6Pm1g4gj2bTSj8auFgO319blXsPHPx7g" group-title="USA",018 - Qubo
 https://ion-qubo-1.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:0 tvg-id="USAJ2200014K9" tvg-name="ION Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/800px-ION_Plus_logo.svg.png" group-title="USA",019 - ION Plus
+#EXTINF:0 tvg-name="IONPlus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/800px-ION_Plus_logo.svg.png" group-title="USA",019 - ION Plus
 https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:0 tvg-name="" tvg-logo="https://i.imgur.com/CkIxX82.png" group-title="USA",020 - QVC
