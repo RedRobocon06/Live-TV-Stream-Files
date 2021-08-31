@@ -6,7 +6,7 @@ https://cdn87.theus6tv.tk/locals/NewYorkCity/wabc-dt1.m3u8
 #EXTINF:0 tvg-name="CBS East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/1176px-CBS_logo.svg.png" group-title="USA",002 - CBS
 https://cdn87.theus6tv.tk/locals/NewYorkCity/wcbs-dt1.m3u8
 
-#EXTINF:0 tvg-name="CW East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/1200px-The_CW.svg.png" group-title="USA",003 - The CW
+#EXTINF:0 tvg-name="The CW East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/1200px-The_CW.svg.png" group-title="USA",003 - The CW
 https://bozztv.com/teleyupp1/teleup-cw-whp/playlist.m3u8
 
 #EXTINF:0 tvg-name="NBC East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/1137px-NBC_logo_%282013%29.svg.png" group-title="USA",004 - NBC
@@ -21,7 +21,7 @@ https://cdn87.theus6tv.tk/locals/NewYorkCity/wnbc-dt2.m3u8
 #EXTINF:0 tvg-name="Fox East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="USA",007 - FOX
 https://cdn87.theus6tv.tk/locals/NewYorkCity/wnyw-dt1.m3u8
 
-#EXTINF:0 tvg-name="MNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="USA",008 - MyNetworkTV
+#EXTINF:0 tvg-name="MyNetworkTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="USA",008 - MyNetworkTV
 https://bozztv.com/teleyupp/e5CGxWp8iU/playlist.m3u8
 
 #EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TBD_Logo_2019.svg/1200px-TBD_Logo_2019.svg.png" group-title="USA",009 - TBD
@@ -36,7 +36,7 @@ https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:0 tvg-name="Comet" tvg-logo="https://i2.wp.com/morbidlybeautiful.com/wp-content/uploads/2017/02/cometblackandwhite.png" group-title="USA",012 - Comet TV
 https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 
-#EXTINF:0 tvg-name="PBS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1280px-PBS_logo.svg.png" group-title="USA",013 - PBS
+#EXTINF:0 tvg-name="PBS East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1280px-PBS_logo.svg.png" group-title="USA",013 - PBS
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 
 #EXTINF:0 tvg-name="PBS Kids 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/1024px-PBS_Kids_Logo.svg.png" group-title="USA",014 - PBS Kids
@@ -48,7 +48,7 @@ https://d1mxoeplf1ak5a.cloudfront.net/index.m3u8
 #EXTINF:0 tvg-name="PBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png" group-title="USA",016 - World
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 
-#EXTINF:0 tvg-name="ION Television East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/1920px-Ion_logo.svg.png" group-title="USA",017 - ION Television
+#EXTINF:0 tvg-name="ION TV East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/1920px-Ion_logo.svg.png" group-title="USA",017 - ION Television
 https://cdn87.theus6tv.tk/locals/BayArea/kkpx-dt1.m3u8
 
 #EXTINF:0 tvg-name="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87fe7c9f-a6f4-42d3-96fd-9924de610773/deelf6b-2ec71f2a-2538-479b-a75a-521697cf5330.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg3ZmU3YzlmLWE2ZjQtNDJkMy05NmZkLTk5MjRkZTYxMDc3M1wvZGVlbGY2Yi0yZWM3MWYyYS0yNTM4LTQ3OWItYTc1YS01MjE2OTdjZjUzMzAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KG6RkX2Lscn6Pm1g4gj2bTSj8auFgO319blXsPHPx7g" group-title="USA",018 - Qubo
@@ -57,7 +57,7 @@ https://ion-qubo-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="USAJ2200014K9" tvg-name="ION Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/800px-ION_Plus_logo.svg.png" group-title="USA",019 - ION Plus
 https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:0 tvg-name="" tvg-logo="https://i.imgur.com/CkIxX82.png" group-title="USA",020 - QVC
+#EXTINF:0 tvg-name="QVC US" tvg-logo="https://i.imgur.com/CkIxX82.png" group-title="USA",020 - QVC
 https://lsqvc1usott-lh.akamaihd.net/i/lsqvc1usott_01@838836/index_1600_av-b.m3u8?sd=10&dw=60&set-akamai-hls-revision=4&set-segment-duration=smoothest&rebase=on
 
 #EXTINF:0 tvg-name="HSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="USA",021 - HSN
@@ -138,19 +138,19 @@ https://cdn87.theus6tv.tk/locals/NewYorkCity/wxtv-dt1.m3u8
 #EXTINF:0 tvg-name="BLOOM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/512px-New_Bloomberg_Logo.svg.png" group-title="USA",051 - Bloomberg TV
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
-#EXTINF:0 tvg-name="BRAVO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/800px-Bravo_2017_logo.svg.png" group-title="USA",052 - Bravo
+#EXTINF:0 tvg-name="Bravo East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/800px-Bravo_2017_logo.svg.png" group-title="USA",052 - Bravo
 https://bozztv.com/teleyupp/teleup-bravo/playlist.m3u8
 
 #EXTINF:0 tvg-name="CSPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/1920px-C-SPAN_Logo_%282019%29.svg.png" group-title="USA",053 - C-SPAN
 https://bozztv.com/teleyupp/teleup-cspan/playlist.m3u8
 
-#EXTINF:0 tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png" group-title="USA",060 - CNN
+#EXTINF:0 tvg-name="CNN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png" group-title="USA",060 - CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:0 tvg-name="COMEDY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="USA",061 - Comedy Central
+#EXTINF:0 tvg-name="Comedy Central East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="USA",061 - Comedy Central
 
 
-#EXTINF:0 tvg-name="DSC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png" group-title="USA",062 - Discovery Channel
+#EXTINF:0 tvg-name="Discovery Channel East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png" group-title="USA",062 - Discovery Channel
 https://bozztv.com/teleyupp/teleup-discovery/playlist.m3u8
 
 #EXTINF:0 tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="USA",070 - ESPN
@@ -159,16 +159,16 @@ https://content.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/1920px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="USA",074 - EWTN
 https://d3je5q1nueb5wn.cloudfront.net/p/DOME.m3u8
 
-#EXTINF:0 tvg-name="FNC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/800px-Fox_News_Channel_logo.svg.png" group-title="USA",075 - Fox News Channel
+#EXTINF:0 tvg-name="Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/800px-Fox_News_Channel_logo.svg.png" group-title="USA",075 - Fox News Channel
 https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 
-#EXTINF:0 tvg-name="FREEFRM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Freeform_2018.svg/1920px-Freeform_2018.svg.png" group-title="USA",077 - Freeform
+#EXTINF:0 tvg-name="Freeform East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Freeform_2018.svg/1920px-Freeform_2018.svg.png" group-title="USA",077 - Freeform
 https://bozztv.com/teleyupp/IxagghMvR8/playlist.m3u8
 
-#EXTINF:0 tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1024px-FX_International_logo.svg.png" group-title="USA",080 - FX
+#EXTINF:0 tvg-name="FX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1024px-FX_International_logo.svg.png" group-title="USA",080 - FX
 https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
 
-#EXTINF:0 tvg-name="GSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/800px-Game_Show_Network_2018.svg.png" group-title="USA",085 - Game Show Network
+#EXTINF:0 tvg-name="Game Show Network East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/800px-Game_Show_Network_2018.svg.png" group-title="USA",085 - Game Show Network
 https://bozztv.com/teleyupp/teleup-gsn-sd/index.m3u8
 
 #EXTINF:0 tvg-name="HLN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/800px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="USA",089 - HLN
@@ -180,25 +180,25 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWi
 #EXTINF:0 tvg-name="MSNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/MSNBC_2021.svg/1920px-MSNBC_2021.svg.png" group-title="USA",097 - MSNBC
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/playlist.m3u8
 
-#EXTINF:0 tvg-name="POPSD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png" group-title="USA",109 - Pop
+#EXTINF:0 tvg-name="Pop East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png" group-title="USA",109 - Pop
 http://n1.klowdtv.net/live2/pop_720p/chunks.m3u8
 
-#EXTINF:0 tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/800px-SYFY.svg.png" group-title="USA",114 - Syfy
+#EXTINF:0 tvg-name="Syfy East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/800px-SYFY.svg.png" group-title="USA",114 - Syfy
 https://bozztv.com/teleyupp/teleup-syfy/playlist.m3u8
 
-#EXTINF:0 tvg-name="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1000px-TBS_logo_2016.svg.png" group-title="USA",115 - TBS
+#EXTINF:0 tvg-name="TBS East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1000px-TBS_logo_2016.svg.png" group-title="USA",115 - TBS
 https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:0 tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1920px-TCM_logo.svg.png" group-title="USA",116 - TCM
+#EXTINF:0 tvg-name="TCM US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1920px-TCM_logo.svg.png" group-title="USA",116 - TCM
 https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 
-#EXTINF:0 tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/185px-TLC_Logo.svg.png" group-title="USA",117 - TLC
+#EXTINF:0 tvg-name="TLC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/185px-TLC_Logo.svg.png" group-title="USA",117 - TLC
 https://bozztv.com/teleyupp/teleup-tlc/playlist.m3u8
 
-#EXTINF:0 tvg-name="TNT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/TNT_logo_White.png/revision/latest?cb=20210114211400" group-title="USA",118 - TNT
+#EXTINF:0 tvg-name="TNT East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/TNT_logo_White.png/revision/latest?cb=20210114211400" group-title="USA",118 - TNT
 https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:0 tvg-name="TRUTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/TruTV_2014_Green.svg/revision/latest/scale-to-width-down/800?cb=20170725091207" group-title="USA",120 - TruTV
+#EXTINF:0 tvg-name="truTV East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/TruTV_2014_Green.svg/revision/latest/scale-to-width-down/800?cb=20170725091207" group-title="USA",120 - TruTV
 https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:0 tvg-name="The Weather Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="USA",126 - The Weather Channel
