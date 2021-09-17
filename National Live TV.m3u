@@ -150,7 +150,7 @@ https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-
 #EXTINF:0 tvg-name="Bravo East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/800px-Bravo_2017_logo.svg.png" group-title="USA",052 - Bravo
 https://bozztv.com/teleyupp/teleup-bravo/playlist.m3u8
 
-#EXTINF:0 tvg-name="CSPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/1920px-C-SPAN_Logo_%282019%29.svg.png" group-title="USA",053 - C-SPAN
+#EXTINF:0 tvg-name="C-SPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/1920px-C-SPAN_Logo_%282019%29.svg.png" group-title="USA",053 - C-SPAN
 https://bozztv.com/teleyupp/teleup-cspan/playlist.m3u8
 
 #EXTINF:0 tvg-name="CNN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png" group-title="USA",061 - CNN
