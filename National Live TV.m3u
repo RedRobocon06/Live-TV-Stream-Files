@@ -13,7 +13,7 @@ https://bozztv.com/teleyupp1/teleup-cw-whp/playlist.m3u8
 https://cdn87.theus6tv.tk/locals/NewYorkCity/wnbc-dt1.m3u8
 
 #EXTINF:0 tvg-name="Universal Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Universal_Kids_2019_Logo.svg/1200px-Universal_Kids_2019_Logo.svg.png" group-title="USA",005 - Universal Kids
-
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000410
 
 #EXTINF:0 tvg-name="Cozi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/1920px-Cozi_TV_logo.svg.png" group-title="USA",006 - Cozi TV
 https://cdn87.theus6tv.tk/locals/NewYorkCity/wnbc-dt2.m3u8
@@ -160,7 +160,7 @@ https://bozztv.com/teleyupp/teleup-cspan/playlist.m3u8
 
 
 #EXTINF:0 tvg-name="Boomerang US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/300px-Boomerang_2014_logo.svg.png" group-title="USA",058 - Boomerang
-http://new-pro.tv:8080/Hotel-2021/Allroom/70384
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000749
 
 #EXTINF:0 tvg-name="CNN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png" group-title="USA",061 - CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -173,6 +173,9 @@ https://bozztv.com/teleyupp/teleup-discovery/playlist.m3u8
 
 #EXTINF:0 tvg-name="Disney Channel East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/800px-2019_Disney_Channel_logo.svg.png" group-title="USA",066 - Disney Channel
 http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8
+
+#EXTINF:0 tvg-name="Disney XD East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/725px-Disney_XD_-_2015.svg.png" group-title="USA",068 - Disney XD
+http://ysfiptv.club:8080/7YQVV9JnLY/EAhoSqJSyJ/137441
 
 #EXTINF:0 tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="USA",071 - ESPN
 http://31.220.41.88:8081/live/espnusahd.stream/chunks.m3u8
