@@ -169,10 +169,13 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:0 tvg-name="Comedy Central East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="USA",063 - Comedy Central
-
+http://ysfiptv.club:8080/7YQVV9JnLY/EAhoSqJSyJ/137234
 
 #EXTINF:0 tvg-name="Discovery Channel East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png" group-title="USA",064 - Discovery Channel
 https://bozztv.com/teleyupp/teleup-discovery/playlist.m3u8
+
+#EXTINF:0 tvg-name="Discovery Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Discovery_Family_logo.svg/100px-Discovery_Family_logo.svg.png" group-title="USA",065 - Discovery Family
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1052660
 
 #EXTINF:0 tvg-name="Disney Channel East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/800px-2019_Disney_Channel_logo.svg.png" group-title="USA",067 - Disney Channel
 http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8
