@@ -24,7 +24,7 @@ https://cdn87.theus6tv.tk/locals/NewYorkCity/wnyw-dt1.m3u8
 #EXTINF:0 tvg-name="MyNetworkTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="USA",008 - MyNetworkTV
 https://bozztv.com/teleyupp/e5CGxWp8iU/playlist.m3u8
 
-#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TBD_Logo_2019.svg/1200px-TBD_Logo_2019.svg.png" group-title="USA",009 - TBD
+#EXTINF:0 tvg-name="WXBU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TBD_Logo_2019.svg/1200px-TBD_Logo_2019.svg.png" group-title="USA",009 - TBD
 https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 
 #EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/KidsClickLogo.png" group-title="USA",010 - KidsClick
@@ -63,34 +63,34 @@ https://lsqvc1usott-lh.akamaihd.net/i/lsqvc1usott_01@838836/index_1600_av-b.m3u8
 #EXTINF:0 tvg-name="HSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="USA",021 - HSN
 https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
 
-#EXTINF:0 tvg-name="ANTENNA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/800px-Antenna_TV_logo.svg.png" group-title="USA",022 - Antenna TV
-
+#EXTINF:0 tvg-name="Antenna TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/800px-Antenna_TV_logo.svg.png" group-title="USA",022 - Antenna TV
+https://live.mybtv.net/manifest/4f0f25b338c3293216e8b36b00f3248b08be929d/ca-prd/991db251-74e2-442c-bda9-bf4d732e3d98/0.m3u8
 
 #EXTINF:0 tvg-name="" tvg-logo="" group-title="USA",023 - Rewind TV
 
 
-#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Bounce_TV_2017_Logo.png" group-title="USA",024 - Bounce TV
+#EXTINF:0 tvg-name="Bounce" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Bounce_TV_2017_Logo.png" group-title="USA",024 - Bounce TV
 https://bozztv.com/teleyupp/teleup-bounce/playlist.m3u8
 
 #EXTINF:0 tvg-name="Buzzr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Buzzr_%28TV_Network%29_Logo.png" group-title="USA",025 - Buzzr
 https://buzzr-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="USA",026 - Court TV
+#EXTINF:0 tvg-name="WLWC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="USA",026 - Court TV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 
 #EXTINF:0 tvg-name="Court TV Mystery" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Court_TV_Mystery_logo.png" group-title="USA",027 - Court TV Mystery
 https://bozztv.com/teleyupp/teleup-mystery/playlist.m3u8
 
-#EXTINF:0 tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Gritl-ogo1.gif/revision/latest/scale-to-width-down/200?cb=20140814235648" group-title="USA",028 - Grit
+#EXTINF:0 tvg-name="Grit" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Gritl-ogo1.gif/revision/latest/scale-to-width-down/200?cb=20140814235648" group-title="USA",028 - Grit
 https://bozztv.com/teleyupp/teleup-grit/playlist.m3u8
 
-#EXTINF:0 tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/LAFF_%28You_Know_You_Want_To%29.png/revision/latest?cb=20150810143650" group-title="USA",029 - Laff
+#EXTINF:0 tvg-name="Laff" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/LAFF_%28You_Know_You_Want_To%29.png/revision/latest?cb=20150810143650" group-title="USA",029 - Laff
 https://bozztv.com/teleyupp/teleup-laff/playlist.m3u8
 
-#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/GetTV-logo.png" group-title="USA",030 - GetTV
+#EXTINF:0 tvg-name="GetTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/GetTV-logo.png" group-title="USA",030 - GetTV
 https://bozztv.com/teleyupp/teleup-gettv/playlist.m3u8
 
-#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/1920px-MeTV_Logo.svg.png" group-title="USA",031 - MeTV
+#EXTINF:0 tvg-name="MeTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/1920px-MeTV_Logo.svg.png" group-title="USA",031 - MeTV
 https://cdn87.theus6tv.tk/locals/Pheonix/kazt-dt2.m3u8
 
 #EXTINF:0 tvg-name="Retro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" group-title="USA",032 - Retro TV
@@ -99,7 +99,7 @@ https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/61839
 #EXTINF:0 tvg-name="This TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/This_TV_logo.svg/1200px-This_TV_logo.svg.png" group-title="USA",033 - This TV
 https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
 
-#EXTINF:0 tvg-name="" tvg-logo="https://i.imgur.com/x0JzXdF.png" group-title="USA",034 - Dabl
+#EXTINF:0 tvg-name="KOVR3" tvg-logo="https://i.imgur.com/x0JzXdF.png" group-title="USA",034 - Dabl
 https://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
 
 #EXTINF:0 tvg-name="TBN East" tvg-logo="https://help.yippee.tv/hs-fs/hubfs/TBN%20Logo.jpg?width=5674&name=TBN%20Logo.jpg" group-title="USA",035 - TBN
@@ -135,7 +135,7 @@ https://cdn87.theus6tv.tk/locals/NewYorkCity/wxtv-dt1.m3u8
 #EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Primo_TV_logo.png" group-title="USA",045 - Primo TV
 
 
-#EXTINF:0 tvg-name="BLOOM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/512px-New_Bloomberg_Logo.svg.png" group-title="USA",051 - Bloomberg TV
+#EXTINF:0 tvg-name="Bloomberg TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/512px-New_Bloomberg_Logo.svg.png" group-title="USA",051 - Bloomberg TV
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
 #EXTINF:0 tvg-name="Bravo East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/800px-Bravo_2017_logo.svg.png" group-title="USA",052 - Bravo
