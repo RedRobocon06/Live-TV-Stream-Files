@@ -108,7 +108,7 @@ https://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8?Faith
 #EXTINF:0 tvg-name="Smile TV" tvg-logo="https://i.imgur.com/HL4phgR.png" group-title="USA",036 - Smile
 https://api.new.livestream.com/accounts/27460990/events/8266916/live.m3u8?Faith
 
-#EXTINF:0 tvg-name="NYC Life (WNYE-DT1)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nyc-life.png" group-title="USA",037 - NYCTV Life
+#EXTINF:0 tvg-name="WNYE-DT1" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nyc-life.png" group-title="USA",037 - NYCTV Life
 https://cdn87.theus6tv.tk/locals/NewYorkCity/wnye-dt1.m3u8
 
 #EXTINF:0 tvg-name="NYC Gov (WNYE-DT2)" tvg-logo="https://i.imgur.com/i7TRNOg.png" group-title="USA",038 - NYCTV Gov
