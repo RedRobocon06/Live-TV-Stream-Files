@@ -33,7 +33,7 @@ https://content.uplynk.com/channel/1698bf57810a48c486b83d542bca298d.m3u8
 #EXTINF:0 tvg-name="Charge!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/1920px-Charge%21_Logo_2020.svg.png" group-title="USA",011 - Charge!
 https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 
-#EXTINF:0 tvg-name="Comet" tvg-logo="https://i2.wp.com/morbidlybeautiful.com/wp-content/uploads/2017/02/cometblackandwhite.png" group-title="USA",012 - Comet TV
+#EXTINF:0 tvg-name="Comet" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Comet_TV.png" group-title="USA",012 - Comet
 https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 
 #EXTINF:0 tvg-name="PBS East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1280px-PBS_logo.svg.png" group-title="USA",013 - PBS
@@ -183,7 +183,7 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWi
 #EXTINF:0 tvg-name="MSNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/MSNBC_2021.svg/1920px-MSNBC_2021.svg.png" group-title="USA",098 - MSNBC
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/playlist.m3u8
 
-#EXTINF:0 tvg-name="Nickelodeon East" tvg-logo="" group-title="USA",103 - Nickelodeon
+#EXTINF:0 tvg-name="Nickelodeon East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/798px-Nickelodeon_2009_logo.svg.png" group-title="USA",103 - Nickelodeon
 http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
 
 #EXTINF:0 tvg-name="Pop East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png" group-title="USA",110 - Pop
