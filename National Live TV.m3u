@@ -66,8 +66,8 @@ https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
 #EXTINF:0 tvg-name="Antenna TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/800px-Antenna_TV_logo.svg.png" group-title="USA",022 - Antenna TV
 https://live.mybtv.net/manifest/4f0f25b338c3293216e8b36b00f3248b08be929d/ca-prd/991db251-74e2-442c-bda9-bf4d732e3d98/0.m3u8
 
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="USA",023 - Rewind TV
-
+#EXTINF:0 tvg-name="" tvg-logo="https://rewindtv.com/wp-content/uploads/2021/08/RewindTV_logo_primary_white_withtagline-1024x313.png" group-title="USA",023 - Rewind TV
+https://cdn87.theus6tv.tk/locals/NewYorkCity/wpix-dt4.m3u8
 
 #EXTINF:0 tvg-name="Bounce" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Bounce_TV_2017_Logo.png" group-title="USA",024 - Bounce TV
 https://bozztv.com/teleyupp/teleup-bounce/playlist.m3u8
@@ -107,12 +107,6 @@ https://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8?Faith
 
 #EXTINF:0 tvg-name="Smile TV" tvg-logo="https://i.imgur.com/HL4phgR.png" group-title="USA",036 - Smile
 https://api.new.livestream.com/accounts/27460990/events/8266916/live.m3u8?Faith
-
-#EXTINF:0 tvg-name="WNYE-DT1" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nyc-life.png" group-title="USA",037 - NYCTV Life
-https://cdn87.theus6tv.tk/locals/NewYorkCity/wnye-dt1.m3u8
-
-#EXTINF:0 tvg-name="WNYE-DT2" tvg-logo="https://i.imgur.com/i7TRNOg.png" group-title="USA",038 - NYCTV Gov
-https://cdn87.theus6tv.tk/locals/NewYorkCity/wnye-dt2.m3u8
 
 #EXTINF:0 tvg-name="Telemundo Este" tvg-logo="https://i.imgur.com/0fbIM3o.png" group-title="USA",039 - Telemundo
 https://cdn87.theus6tv.tk/locals/Pheonix/ktaz-dt1.m3u8
