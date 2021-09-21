@@ -67,11 +67,11 @@ https://cdn87.theus6tv.tk/locals/BayArea/kfsf-dt1.m3u8
 #EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="San Francisco, California",66.2 - Univision (KFSF-DT2)
 https://cdn87.theus6tv.tk/locals/BayArea/kfsf-dt2.m3u8
 
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="Indianapolis, Indiana",08.4 - Diya TV (WISH-DT4)
+#EXTINF:0 tvg-name="" tvg-logo="https://i0.wp.com/www.wishtv.com/wp-content/uploads/2021/02/Plain-Diya-TV-R-LOGO.png?fit=2224%2C1364&ssl=1" group-title="Indianapolis, Indiana",08.4 - Diya TV (WISH-DT4)
 https://cdn87.theus6tv.tk/locals/Indy/8.4.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="Indianapolis, Indiana",63.5 - Defy TV (WIPX-DT5) 
+#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Defy_TV_logo.png" group-title="Indianapolis, Indiana",63.5 - Defy TV (WIPX-DT5) 
 https://cdn87.theus6tv.tk/locals/Indy/63.5.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="Indianapolis, Indiana",63.6 - TrueReal (WIPX-DT6)
+#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/TrueReal_logo.png" group-title="Indianapolis, Indiana",63.6 - TrueReal (WIPX-DT6)
 https://cdn87.theus6tv.tk/locals/Indy/63.6.m3u8
 
 #EXTINF:0 tvg-name="WCBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/1176px-CBS_logo.svg.png" group-title="New York City, New York",02.1 - CBS (WCBS-DT1)
