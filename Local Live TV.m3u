@@ -9,13 +9,13 @@ https://cdn87.theus6tv.tk/locals/Pheonix/kazt-dt5.m3u8
 #EXTINF:0 tvg-name="KTAZ" tvg-logo="https://i.imgur.com/0fbIM3o.png" group-title="Prescott, Arizona",39.1 - Telemundo (KTAZ-DT1)
 https://cdn87.theus6tv.tk/locals/Pheonix/ktaz-dt1.m3u8
 
-#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Decades_Logo.svg/800px-Decades_Logo.svg.png" group-title="Frenso, California",08.2 - Decades (KFAZ-CA)
+#EXTINF:0 tvg-name="KFAZ-DT2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Decades_Logo.svg/800px-Decades_Logo.svg.png" group-title="Frenso, California",08.2 - Decades (KFAZ-DT2)
 https://cdn87.theus6tv.tk/locals/Fresno/kfaz-8.2.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2c/StartTV_logo.png" group-title="Frenso, California",13.2 - StartTV (KVBC-LP)
+#EXTINF:0 tvg-name="KVBC-DT2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2c/StartTV_logo.png" group-title="Frenso, California",13.2 - StartTV (KVBC-DT2)
 https://cdn87.theus6tv.tk/locals/Fresno/kvbc-13.2.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png" group-title="Frenso, California",13.3 - Movies! (KVBC-LP)
+#EXTINF:0 tvg-name="KVBC-DT3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png" group-title="Frenso, California",13.3 - Movies! (KVBC-DT3)
 https://cdn87.theus6tv.tk/locals/Fresno/kvbc-13.3.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/True_Crime_TV.png" group-title="Frenso, California",13.5 - True Crime Network (KVBC-LP)
+#EXTINF:0 tvg-name="KVBC-DT5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/True_Crime_TV.png" group-title="Frenso, California",13.5 - True Crime Network (KVBC-DT5)
 https://cdn87.theus6tv.tk/locals/Fresno/kvbc-13.5.m3u8
 #EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/800px-Antenna_TV_logo.svg.png" group-title="Frenso, California",43.5 - Antenna TV (KMSG-LD)
 https://cdn87.theus6tv.tk/locals/Fresno/kmsg-43.5.m3u8
@@ -24,47 +24,47 @@ https://cdn87.theus6tv.tk/locals/Fresno/kmsg-43.9.m3u8
 #EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="Frenso, California",53.1 - MyNetworkTV (KMSG-LD)
 https://cdn87.theus6tv.tk/locals/Fresno/kmsg-53.1.m3u8
 
-#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/800px-ABC-2021-LOGO.svg.png" group-title="Los Angeles, California",07.1 - ABC (KABC-DT1)
+#EXTINF:0 tvg-name="KABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/800px-ABC-2021-LOGO.svg.png" group-title="Los Angeles, California",07.1 - ABC (KABC-DT1)
 https://cdn87.theus6tv.tk/locals/SoCal/kabc-dt1.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Localish_Logo.png" group-title="Los Angeles, California",07.2 - Localish (KABC-DT2)
+#EXTINF:0 tvg-name="KABC-DT2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Localish_Logo.png" group-title="Los Angeles, California",07.2 - Localish (KABC-DT2)
 https://cdn87.theus6tv.tk/locals/SoCal/kabc-dt2.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="Los Angeles, California",13.1 - MyNetworkTV (KCOP-DT)
+#EXTINF:0 tvg-name="KCOP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="Los Angeles, California",13.1 - MyNetworkTV (KCOP-DT)
 https://cdn87.theus6tv.tk/locals/SoCal/kcop-dt1.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="Los Angeles, California",56.1 - Independent (KDOC-DT1)
+#EXTINF:0 tvg-name="KDOC" tvg-logo="" group-title="Los Angeles, California",56.1 - Independent (KDOC-DT1)
 https://cdn87.theus6tv.tk/locals/SoCal/kdoc-dt1.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1280px-PBS_logo.svg.png" group-title="Los Angeles, California",58.1 - PBS (KLCS-DT1)
+#EXTINF:0 tvg-name="KLCS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1280px-PBS_logo.svg.png" group-title="Los Angeles, California",58.1 - PBS (KLCS-DT1)
 https://cdn87.theus6tv.tk/locals/SoCal/klcs-dt1.m3u8
 
-#EXTINF:0 tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Gritl-ogo1.gif/revision/latest/scale-to-width-down/200?cb=20140814235648" group-title="San Diego, California",08.3 - Grit (KFMB-DT3)
+#EXTINF:0 tvg-name="KFMB-TV3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Gritl-ogo1.gif/revision/latest/scale-to-width-down/200?cb=20140814235648" group-title="San Diego, California",08.3 - Grit (KFMB-DT3)
 https://cdn87.theus6tv.tk/locals/SanDiego/kfmb-dt3.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1280px-PBS_logo.svg.png" group-title="San Diego, California",15.1 - PBS (KPBS-DT1)
+#EXTINF:0 tvg-name="KPBS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1280px-PBS_logo.svg.png" group-title="San Diego, California",15.1 - PBS (KPBS-DT1)
 https://cdn87.theus6tv.tk/locals/SanDiego/kpbs-dt1.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png" group-title="San Diego, California",15.2 - World (KPBS-DT2)
+#EXTINF:0 tvg-name="KPBS-DT2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png" group-title="San Diego, California",15.2 - World (KPBS-DT2)
 https://cdn87.theus6tv.tk/locals/SanDiego/kpbs-dt2.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/1024px-PBS_Kids_Logo.svg.png" group-title="San Diego, California",15.4 - PBS Kids (KPBS-DT4)
+#EXTINF:0 tvg-name="KPBS-DT4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/1024px-PBS_Kids_Logo.svg.png" group-title="San Diego, California",15.4 - PBS Kids (KPBS-DT4)
 https://cdn87.theus6tv.tk/locals/SanDiego/kpbs-dt4.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/1137px-NBC_logo_%282013%29.svg.png" group-title="San Diego, California",39.1 - NBC (KNSD-DT1)
+#EXTINF:0 tvg-name="KNSD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/1137px-NBC_logo_%282013%29.svg.png" group-title="San Diego, California",39.1 - NBC (KNSD-DT1)
 https://cdn87.theus6tv.tk/locals/SanDiego/knsd-dt1.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/1920px-Cozi_TV_logo.svg.png" group-title="San Diego, California",39.2 - Cozi TV (KNSD-DT2)
+#EXTINF:0 tvg-name="KNSD-DT2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/1920px-Cozi_TV_logo.svg.png" group-title="San Diego, California",39.2 - Cozi TV (KNSD-DT2)
 https://cdn87.theus6tv.tk/locals/SanDiego/knsd-dt2.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/TeleXitos_TV.png" group-title="San Diego, California",48.2 - TeleXitos (KUAN-LD2)
+#EXTINF:0 tvg-name="KUAN-LD2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/TeleXitos_TV.png" group-title="San Diego, California",48.2 - TeleXitos (KUAN-LD2)
 https://cdn87.theus6tv.tk/locals/SanDiego/kuan-ld2.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Diego, California",51.1 - Independent (KUSI-DT)
+#EXTINF:0 tvg-name="KUSI" tvg-logo="" group-title="San Diego, California",51.1 - Independent (KUSI-DT)
 https://cdn87.theus6tv.tk/locals/SanDiego/kusi-dt1.m3u8
 
-#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="San Francisco, California",04.1 - MyNetworkTV (KRON-DT1)
+#EXTINF:0 tvg-name="KRON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="San Francisco, California",04.1 - MyNetworkTV (KRON-DT1)
 https://cdn87.theus6tv.tk/locals/BayArea/kron-dt1.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/800px-ABC-2021-LOGO.svg.png" group-title="San Francisco, California",07.1 - ABC (KGO-DT1)
+#EXTINF:0 tvg-name="KGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/800px-ABC-2021-LOGO.svg.png" group-title="San Francisco, California",07.1 - ABC (KGO-DT1)
 https://cdn87.theus6tv.tk/locals/BayArea/kgo-dt1.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/1137px-NBC_logo_%282013%29.svg.png" group-title="San Francisco, California",11.1 - NBC (KNTV-DT1)
+#EXTINF:0 tvg-name="KNTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/1137px-NBC_logo_%282013%29.svg.png" group-title="San Francisco, California",11.1 - NBC (KNTV-DT1)
 https://cdn87.theus6tv.tk/locals/BayArea/kntv-dt1.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Francisco, California",20.1 - Independent (KOFY-DT1)
+#EXTINF:0 tvg-name="KOFY" tvg-logo="" group-title="San Francisco, California",20.1 - Independent (KOFY-DT1)
 https://cdn87.theus6tv.tk/locals/BayArea/kofy-dt1.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/1920px-Ion_logo.svg.png" group-title="San Francisco, California",65.1 - ION Television (KKPX-DT1)
+#EXTINF:0 tvg-name="KKPX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/1920px-Ion_logo.svg.png" group-title="San Francisco, California",65.1 - ION Television (KKPX-DT1)
 https://cdn87.theus6tv.tk/locals/BayArea/kkpx-dt1.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/220px-Logo_UniM%C3%A1s.svg.png" group-title="San Francisco, California",66.1 - UniMas (KFSF-DT1)
+#EXTINF:0 tvg-name="KFSF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/220px-Logo_UniM%C3%A1s.svg.png" group-title="San Francisco, California",66.1 - UniMas (KFSF-DT1)
 https://cdn87.theus6tv.tk/locals/BayArea/kfsf-dt1.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="San Francisco, California",66.2 - Univision (KFSF-DT2)
+#EXTINF:0 tvg-name="KFSF-DT2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="San Francisco, California",66.2 - Univision (KFSF-DT2)
 https://cdn87.theus6tv.tk/locals/BayArea/kfsf-dt2.m3u8
 
 #EXTINF:0 tvg-name="" tvg-logo="https://i0.wp.com/www.wishtv.com/wp-content/uploads/2021/02/Plain-Diya-TV-R-LOGO.png?fit=2224%2C1364&ssl=1" group-title="Indianapolis, Indiana",08.4 - Diya TV (WISH-DT4)
