@@ -1,0 +1,61 @@
+#EXTM3U
+
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Prescott, AZ",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Prescott, AZ",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Prescott, AZ",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Prescott, AZ",
+
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Frenso, CA",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Frenso, CA",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Frenso, CA",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Frenso, CA",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Frenso, CA",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Frenso, CA",
+
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Los Angeles, CA",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Los Angeles, CA",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Los Angeles, CA",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Los Angeles, CA",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Los Angeles, CA",
+
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Diego, CA",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Diego, CA",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Diego, CA",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Diego, CA",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Diego, CA",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Diego, CA",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Diego, CA",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Diego, CA",
+
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Francisco, CA",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Francisco, CA",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Francisco, CA",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Francisco, CA",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Francisco, CA",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Francisco, CA",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Francisco, CA",
+
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Indianapolis, IN",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Indianapolis, IN",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Indianapolis, IN",
+
+#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/1176px-CBS_logo.svg.png" group-title="New York City, NY",02.1 - CBS (WCBS-DT1)
+https://cdn87.theus6tv.tk/locals/NewYorkCity/wcbs-dt1.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/1137px-NBC_logo_%282013%29.svg.png" group-title="New York City, NY",04.1 - NBC (WNBC-DT1)
+https://cdn87.theus6tv.tk/locals/NewYorkCity/wnbc-dt1.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/1920px-Cozi_TV_logo.svg.png" group-title="New York City, NY",04.2 - Cozi TV (WNBC-DT2)
+https://cdn87.theus6tv.tk/locals/NewYorkCity/wnbc-dt2.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="New York City, NY",05.1 - Fox (WNYW-DT1)
+https://cdn87.theus6tv.tk/locals/NewYorkCity/wnyw-dt1.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/800px-ABC-2021-LOGO.svg.png" group-title="New York City, NY",07.1 - ABC (WABC-DT1)
+https://cdn87.theus6tv.tk/locals/NewYorkCity/wabc-dt1.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="New York City, NY",11.4 - Rewind TV (WPIX-DT4)
+https://cdn87.theus6tv.tk/locals/NewYorkCity/wpix-dt4.m3u8
+#EXTINF:0 tvg-name="WNYE-DT1" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nyc-life.png" group-title="New York City, NY",25.1 - NYC Life (WNYE-DT1)
+https://cdn87.theus6tv.tk/locals/NewYorkCity/wnye-dt1.m3u8
+#EXTINF:0 tvg-name="WNYE-DT2" tvg-logo="https://i.imgur.com/i7TRNOg.png" group-title="New York City, NY",25.2 - NYC Gov (WNYE-DT2)
+https://cdn87.theus6tv.tk/locals/NewYorkCity/wnye-dt2.m3u8
+#EXTINF:0 tvg-name="WNYE-DT3" tvg-logo="" group-title="New York City, NY",25.3 - CUNY TV (WNYE-DT3)
+https://cdn87.theus6tv.tk/locals/NewYorkCity/wnye-dt3.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="New York City, NY",41.1 - Univision (WXTV-DT1)
+https://cdn87.theus6tv.tk/locals/NewYorkCity/wxtv-dt1.m3u8
