@@ -1,27 +1,27 @@
 #EXTM3U
 
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="Prescott, Arizona",07.2 - MeTV (KAZT-DT2)
+#EXTINF:0 tvg-name="KAZT-TV2" tvg-logo="" group-title="Prescott, Arizona",07.2 - MeTV (KAZT-DT2)
 https://cdn87.theus6tv.tk/locals/Pheonix/kazt-dt2.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="Prescott, Arizona",07.3 - HSN (KAZT-DT3)
+#EXTINF:0 tvg-name="KAZT-TV3" tvg-logo="" group-title="Prescott, Arizona",07.3 - HSN (KAZT-DT3)
 https://cdn87.theus6tv.tk/locals/Pheonix/kazt-dt3.m3u8
 #EXTINF:0 tvg-name="" tvg-logo="" group-title="Prescott, Arizona",07.5 - Arizona Daily Mix (KAZT-DT5)
 https://cdn87.theus6tv.tk/locals/Pheonix/kazt-dt5.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="Prescott, Arizona",39.1 - Telemundo (KTAZ-DT1)
+#EXTINF:0 tvg-name="KTAZ" tvg-logo="" group-title="Prescott, Arizona",39.1 - Telemundo (KTAZ-DT1)
 https://cdn87.theus6tv.tk/locals/Pheonix/ktaz-dt1.m3u8
 
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="Frenso, California",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Frenso, California",08.2 - Decades (KFAZ-CA)
 https://cdn87.theus6tv.tk/locals/Fresno/kfaz-8.2.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="Frenso, California",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Frenso, California",13.2 - StartTV (KVBC-LP)
 https://cdn87.theus6tv.tk/locals/Fresno/kvbc-13.2.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="Frenso, California",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Frenso, California",13.3 - Movies! (KVBC-LP)
 https://cdn87.theus6tv.tk/locals/Fresno/kvbc-13.3.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="Frenso, California",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Frenso, California",13.5 - True Crime Network (KVBC-LP)
 https://cdn87.theus6tv.tk/locals/Fresno/kvbc-13.5.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="Frenso, California",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Frenso, California",43.5 - Antenna TV (KMSG-LD)
 https://cdn87.theus6tv.tk/locals/Fresno/kmsg-43.5.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="Frenso, California",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Frenso, California",43.9 - Laff (KMSG-LD)
 https://cdn87.theus6tv.tk/locals/Fresno/kmsg-43.9.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="Frenso, California",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="Frenso, California",53.1 - MyNetworkTV (KMSG-LD)
 https://cdn87.theus6tv.tk/locals/Fresno/kmsg-53.1.m3u8
 
 #EXTINF:0 tvg-name="" tvg-logo="" group-title="Los Angeles, California",07.1 - ABC (KABC-DT1)
@@ -35,36 +35,36 @@ https://cdn87.theus6tv.tk/locals/SoCal/kdoc-dt1.m3u8
 #EXTINF:0 tvg-name="" tvg-logo="" group-title="Los Angeles, California",58.1 - PBS (KLCS-DT1)
 https://cdn87.theus6tv.tk/locals/SoCal/klcs-dt1.m3u8
 
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Diego, California",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Diego, California",08.3 - Grit (KFMB-DT3)
 https://cdn87.theus6tv.tk/locals/SanDiego/kfmb-dt3.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Diego, California",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Diego, California",15.1 - PBS (KPBS-DT1)
 https://cdn87.theus6tv.tk/locals/SanDiego/kpbs-dt1.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Diego, California",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Diego, California",15.2 - World (KPBS-DT2)
 https://cdn87.theus6tv.tk/locals/SanDiego/kpbs-dt2.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Diego, California",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Diego, California",15.4 - PBS Kids (KPBS-DT4)
 https://cdn87.theus6tv.tk/locals/SanDiego/kpbs-dt4.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Diego, California",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Diego, California",39.1 - NBC (KNSD-DT1)
 https://cdn87.theus6tv.tk/locals/SanDiego/knsd-dt1.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Diego, California",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Diego, California",39.2 - Cozi TV (KNSD-DT2)
 https://cdn87.theus6tv.tk/locals/SanDiego/knsd-dt2.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Diego, California",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Diego, California",48.2 - TeleXitos (KUAN-LD2)
 https://cdn87.theus6tv.tk/locals/SanDiego/kuan-ld2.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Diego, California",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Diego, California",51.1 - Independent (KUSI-DT)
 https://cdn87.theus6tv.tk/locals/SanDiego/kusi-dt1.m3u8
 
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Francisco, California",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Francisco, California",04.1 - MyNetworkTV (KRON-DT1)
 https://cdn87.theus6tv.tk/locals/BayArea/kron-dt1.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Francisco, California",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Francisco, California",07.1 - ABC (KGO-DT1)
 https://cdn87.theus6tv.tk/locals/BayArea/kgo-dt1.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Francisco, California",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Francisco, California",11.1 - NBC (KNTV-DT1)
 https://cdn87.theus6tv.tk/locals/BayArea/kntv-dt1.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Francisco, California",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Francisco, California",20.1 - Independent (KOFY-DT1)
 https://cdn87.theus6tv.tk/locals/BayArea/kofy-dt1.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Francisco, California",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Francisco, California",65.1 - ION Television (KKPX-DT1)
 https://cdn87.theus6tv.tk/locals/BayArea/kkpx-dt1.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Francisco, California",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Francisco, California",66.1 - UniMas (KFSF-DT1)
 https://cdn87.theus6tv.tk/locals/BayArea/kfsf-dt1.m3u8
-#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Francisco, California",
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="San Francisco, California",66.2 - Univision (KFSF-DT2)
 https://cdn87.theus6tv.tk/locals/BayArea/kfsf-dt2.m3u8
 
 #EXTINF:0 tvg-name="" tvg-logo="" group-title="Indianapolis, Indiana",08.4 - Diya TV (WISH-DT4)
