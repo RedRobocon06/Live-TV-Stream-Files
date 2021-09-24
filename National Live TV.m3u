@@ -60,6 +60,8 @@ https://bozztv.com/teleyupp/teleup-mystery/playlist.m3u8
 https://bozztv.com/teleyupp/teleup-grit/playlist.m3u8
 #EXTINF:0 tvg-name="Laff" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/LAFF_%28You_Know_You_Want_To%29.png/revision/latest?cb=20150810143650" group-title="USA",10.6 - Laff
 https://bozztv.com/teleyupp/teleup-laff/playlist.m3u8
+#EXTINF:0 tvg-name="Newsy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/Newsy_2015_Logo.png" group-title="USA",10.7 - Newsy
+https://newsy.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-name="Buzzr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Buzzr_%28TV_Network%29_Logo.png" group-title="USA",11.1 - Buzzr
 https://buzzr-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-name="GetTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/GetTV-logo.png" group-title="USA",12.1 - GetTV
