@@ -228,10 +228,10 @@ https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/playlist.m3u8
 https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8
 #EXTINF:0 tvg-name="Global (CIII)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/240px-Global_Television_Network_Logo.svg.png" group-title="Canada",Global
 
-#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/798px-Nickelodeon_2009_logo.svg.png" group-title="USA",Nickelodeon (Canada)
+#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/798px-Nickelodeon_2009_logo.svg.png" group-title="Canada",Nickelodeon (Canada)
 http://encodercdn1.frontline.ca/vantrix/ltv/Bell_NICKH_AtopItci_2015_01_12_HD/hls_hd.m3u8
 #EXTINF:0 tvg-name="TVO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/TVO_logo.svg/1200px-TVO_logo.svg.png" group-title="Canada",TVO
-https://bozztv.com/teleyupp1/teleup-OMZsmYVUMp/playlist.m3u8
+http://encodercdn1.frontline.ca/encoder181/output/TVO_720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://stro.ycdsb.ca/wp-content/uploads/sites/86/2020/03/TVOKids.jpg" group-title="Canada",TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF:0 tvg-name="Adult Swim East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/660px-Adult_Swim_2003_logo.svg.png" group-title="Canada",Adult Swim
