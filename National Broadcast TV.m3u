@@ -92,7 +92,7 @@ https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
 https://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8?Faith
 #EXTINF:0 tvg-id="HillsongChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/TBN_Inspire_Logo.png" group-title="USA",18.2 - TBN Inspire
 https://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
-#EXTINF:0 tvg-id="WSFGLD3.us" tvg-logo="https://i.imgur.com/HL4phgR.png" group-title="USA",18.3 - Smile
+#EXTINF:0 tvg-id="WSSFLD3.us" tvg-logo="https://i.imgur.com/HL4phgR.png" group-title="USA",18.3 - Smile
 https://api.new.livestream.com/accounts/27460990/events/8266916/live.m3u8?Faith
 #EXTINF:0 tvg-id="Enlace.cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Enlace_Televisi%C3%B3n_logo.svg/100px-Enlace_Televisi%C3%B3n_logo.svg.png" group-title="USA",18.4 - Enlace
 
