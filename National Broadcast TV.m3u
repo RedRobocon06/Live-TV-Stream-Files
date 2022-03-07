@@ -47,9 +47,9 @@ https://lsqvc1usott-lh.akamaihd.net/i/lsqvc1usott_01@838836/index_1600_av-b.m3u8
 #EXTINF:0 tvg-id="HSN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="USA",08.5 - HSN
 https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
 #EXTINF:0 tvg-id="AntennaTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/800px-Antenna_TV_logo.svg.png" group-title="USA",09.1 - Antenna TV
-
+https://v-pi.theus6tv.tk/hls/17.2/playlist.m3u8
 #EXTINF:0 tvg-id="WPIXDT4.us" tvg-logo="https://rewindtv.com/wp-content/uploads/2021/08/RewindTV_logo_primary_white_withtagline-1024x313.png" group-title="USA",09.2 - Rewind TV
-
+https://v-ny.theus6tv.tk/hls/11.4/playlist.m3u8
 #EXTINF:0 tvg-id="Bounce.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/692px-Bounce_TV_logo.svg.png" group-title="USA",10.1 - Bounce TV
 https://5e6cea03e25b6.streamlock.net/live/BOUNCE.stream/playlist.m3u8
 #EXTINF:0 tvg-id="WPIXDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="USA",10.2 - Court TV
@@ -59,7 +59,7 @@ https://5e6cea03e25b6.streamlock.net/live/QVC.stream/playlist.m3u8
 #EXTINF:0 tvg-id="Grit.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Gritl-ogo1.gif/revision/latest/scale-to-width-down/200?cb=20140814235648" group-title="USA",10.5 - Grit
 https://5e6cea03e25b6.streamlock.net/live/GRIT.stream/playlist.m3u8
 #EXTINF:0 tvg-id="Laff.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/LAFF_%28You_Know_You_Want_To%29.png/revision/latest?cb=20150810143650" group-title="USA",10.6 - Laff
-
+https://v-pi.theus6tv.tk/hls/61.5/playlist.m3u8
 #EXTINF:0 tvg-id="Newsy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/799px-Newsy_2021.svg.png" group-title="USA",10.7 - Newsy
 https://newsy.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="Buzzr.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Buzzr_%28TV_Network%29_Logo.png" group-title="USA",11.1 - Buzzr
