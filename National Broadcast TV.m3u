@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 tvg-id="ABCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/800px-ABC-2021-LOGO.svg.png" group-title="USA",01.1 - ABC
-
+https://5e6cea03e25b6.streamlock.net/live/WTXLHD.stream/playlist.m3u8
 #EXTINF:0 tvg-id="WABCDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Localish_Logo.png" group-title="USA",01.2 - Localish
 https://content.uplynk.com/channel/ext/c9aa5ed442aa42758f7788ecc0236e5e/Localish_National_Feed.m3u8
 #EXTINF:0 tvg-id="CBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/1176px-CBS_logo.svg.png" group-title="USA",02.1 - CBS
@@ -10,14 +10,14 @@ https://5e6cea03e25b6.streamlock.net/live/WCTVDT.stream/playlist.m3u8
 https://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
 #EXTINF:0 tvg-id="TheCWEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/1200px-The_CW.svg.png" group-title="USA",03.1 - The CW
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/The_CW_Plus.png/1200px-The_CW_Plus.png" group-title="USA",03.2 - The CW Plus
-
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/2021_The_CW_Plus_Logo.png" group-title="USA",03.2 - The CW Plus
+https://5e6cea03e25b6.streamlock.net/live/WTLHCW.stream/playlist.m3u8
 #EXTINF:0 tvg-id="NBCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/1137px-NBC_logo_%282013%29.svg.png" group-title="USA",04.1 - NBC
-
+https://5e6cea03e25b6.streamlock.net/live/WTWC-NB.stream/playlist.m3u8
 #EXTINF:0 tvg-id="CoziTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/1920px-Cozi_TV_logo.svg.png" group-title="USA",04.2 - Cozi TV
 
 #EXTINF:0 tvg-id="FoxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="USA",05.1 - Fox
-
+https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/playlist.m3u8
 #EXTINF:0 tvg-id="MyNetworkTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="USA",05.2 - MyNetworkTV
 
 #EXTINF:0 tvg-id="WUTVDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TBD_Logo_2019.svg/1200px-TBD_Logo_2019.svg.png" group-title="USA",06.1 - TBD
@@ -51,13 +51,13 @@ https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
 #EXTINF:0 tvg-id="WPIXDT4.us" tvg-logo="https://rewindtv.com/wp-content/uploads/2021/08/RewindTV_logo_primary_white_withtagline-1024x313.png" group-title="USA",09.2 - Rewind TV
 
 #EXTINF:0 tvg-id="Bounce.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/692px-Bounce_TV_logo.svg.png" group-title="USA",10.1 - Bounce TV
-
+https://5e6cea03e25b6.streamlock.net/live/BOUNCE.stream/playlist.m3u8
 #EXTINF:0 tvg-id="WPIXDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="USA",10.2 - Court TV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
-#EXTINF:0 tvg-id="CourtTVMystery.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Court_TV_Mystery_logo.png" group-title="USA",10.3 - Court TV Mystery
-
+#EXTINF:0 tvg-id="CourtTVMystery.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/800px-ION_Mystery_logo.svg.png" group-title="USA",10.3 - Ion Mystery
+https://5e6cea03e25b6.streamlock.net/live/QVC.stream/playlist.m3u8
 #EXTINF:0 tvg-id="Grit.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Gritl-ogo1.gif/revision/latest/scale-to-width-down/200?cb=20140814235648" group-title="USA",10.5 - Grit
-
+https://5e6cea03e25b6.streamlock.net/live/GRIT.stream/playlist.m3u8
 #EXTINF:0 tvg-id="Laff.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/LAFF_%28You_Know_You_Want_To%29.png/revision/latest?cb=20150810143650" group-title="USA",10.6 - Laff
 
 #EXTINF:0 tvg-id="Newsy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/799px-Newsy_2021.svg.png" group-title="USA",10.7 - Newsy
@@ -73,7 +73,7 @@ https://buzzr-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="Decades.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Decades_Logo.svg/800px-Decades_Logo.svg.png" group-title="USA",13.3 - Decades
 
 #EXTINF:0 tvg-id="HeroesIcons.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Heroes_%26_Icons_logo.svg/442px-Heroes_%26_Icons_logo.svg.png" group-title="USA",13.4 - Heroes & Icons
-
+https://5e6cea03e25b6.streamlock.net/live/HI.stream/playlist.m3u8
 #EXTINF:0 tvg-id="Movies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png" group-title="USA",13.5 - Movies!
 
 #EXTINF:0 tvg-id="StartTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Start_TV_logo.svg/679px-Start_TV_logo.svg.png" group-title="USA",13.6 - Start TV
@@ -90,8 +90,8 @@ https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
 
 #EXTINF:0 tvg-id="TBNEast.us" tvg-logo="https://help.yippee.tv/hs-fs/hubfs/TBN%20Logo.jpg?width=5674&name=TBN%20Logo.jpg" group-title="USA",18.1 - TBN
 https://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8?Faith
-#EXTINF:0 tvg-id="HillsongChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Hillsong_Channel_Logo.png" group-title="USA",18.2 - Hillsong Channel
-http://playback.akamaized.net/streams/27460990_8266909_lsivj0kctpbqwagbt1s_1/master.m3u8?dw=32&hdnts=exp=1632172333~acl=/streams/27460990_8266909_lsivj0kctpbqwagbt1s_1/master.m3u8
+#EXTINF:0 tvg-id="HillsongChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/TBN_Inspire_Logo.png" group-title="USA",18.2 - TBN Inspire
+https://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/HL4phgR.png" group-title="USA",18.3 - Smile
 https://api.new.livestream.com/accounts/27460990/events/8266916/live.m3u8?Faith
 #EXTINF:0 tvg-id="Enlace.cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Enlace_Televisi%C3%B3n_logo.svg/100px-Enlace_Televisi%C3%B3n_logo.svg.png" group-title="USA",18.4 - Enlace
