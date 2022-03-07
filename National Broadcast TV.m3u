@@ -11,11 +11,11 @@ https://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
 #EXTINF:0 tvg-id="TheCWEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/1200px-The_CW.svg.png" group-title="USA",03.1 - The CW
 
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/2021_The_CW_Plus_Logo.png" group-title="USA",03.2 - The CW Plus
-https://5e6cea03e25b6.streamlock.net/live/WTLHCW.stream/playlist.m3u8
+http://trn03.tulix.tv/teleup-cw-whp/playlist.m3u8
 #EXTINF:0 tvg-id="NBCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/1137px-NBC_logo_%282013%29.svg.png" group-title="USA",04.1 - NBC
 https://5e6cea03e25b6.streamlock.net/live/WTWC-NB.stream/playlist.m3u8
 #EXTINF:0 tvg-id="CoziTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/1920px-Cozi_TV_logo.svg.png" group-title="USA",04.2 - Cozi TV
-
+https://v-ny.mybtv.net/live/549.m3u8
 #EXTINF:0 tvg-id="FoxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="USA",05.1 - Fox
 https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/playlist.m3u8
 #EXTINF:0 tvg-id="MyNetworkTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="USA",05.2 - MyNetworkTV
@@ -107,9 +107,9 @@ https://api.new.livestream.com/accounts/27460990/events/8266916/live.m3u8?Faith
 #EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/6/6e/Telemundo_Puerto_Rico.png/revision/latest?cb=20210613155940" group-title="USA",19.4 - Telemundo Puerto Rico
 
 #EXTINF:0 tvg-id="UnivisionEste.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="USA",20.1 - Univisión
-
+https://v-ny.mybtv.net/live/643.m3u8
 #EXTINF:0 tvg-id="UniMasEste.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/220px-Logo_UniM%C3%A1s.svg.png" group-title="USA",20.2 - UniMás
-
+https://dai.google.com/linear/hls/event/fQCAqHLkSPeYW0FmDm7aOQ/master.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/172px-Galavision_Logo_2013.svg.png" group-title="USA",20.3 - Galavisión
 
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/500px-TUDN_Logo.svg.png" group-title="USA",20.4 - TUDN
