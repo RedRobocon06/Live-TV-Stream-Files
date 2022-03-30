@@ -47,19 +47,19 @@ https://d3je5q1nueb5wn.cloudfront.net/p/DOME.m3u8
 #EXTINF:0 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/800px-Fox_News_Channel_logo.svg.png" group-title="USA",Fox News Channel
 
 #EXTINF:0 tvg-id="FreeformEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Freeform_2018.svg/1920px-Freeform_2018.svg.png" group-title="USA",Freeform
-http://ustvgo.net/freeform-channel-live-free/|webpronoagent$$start=file: '$$end=',\$$replace=file: '$$replacewith=$$add=
+
 #EXTINF:0 tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/150px-2015_Fox_Sports_1_logo.svg.png" group-title="USA",FS1
 
 #EXTINF:0 tvg-id="FXEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1024px-FX_International_logo.svg.png" group-title="USA",FX
-http://ustvgo.net/fx-channel-live/|webpronoagent$$start=file: '$$end=',\$$replace=file: '$$replacewith=$$add=
+
 #EXTINF:0 tvg-id="FXXEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/751px-FXX_Logo.svg.png" group-title="USA",FXX
 
 #EXTINF:0 tvg-id="GameShowNetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/800px-Game_Show_Network_2018.svg.png" group-title="USA",Game Show Network
 
 #EXTINF:0 tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/800px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="USA",HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/v1/5bbd35792727be3d5c4e940a/1539197726847-ZZ9YSW6D2RB1237IN5VJ/ke17ZwdGBToddI8pDm48kHJj22hTd3mkiVY0yls1b7IUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcAQoyZDb1JME1M52DX_nWUk2qBzd8fWRB_HbpvnBAeSWW11ij-JWkHzr1Z4OGPCWU/Kabillion_LOGO.png" group-title="USA",Kabillion
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxkabillion/CDN/1280x720_5000000/index.m3u8
+#EXTINF:0 tvg-id="kabillion.us" tvg-logo="https://images.squarespace-cdn.com/content/v1/5bbd35792727be3d5c4e940a/1539197726847-ZZ9YSW6D2RB1237IN5VJ/ke17ZwdGBToddI8pDm48kHJj22hTd3mkiVY0yls1b7IUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcAQoyZDb1JME1M52DX_nWUk2qBzd8fWRB_HbpvnBAeSWW11ij-JWkHzr1Z4OGPCWU/Kabillion_LOGO.png" group-title="USA",Kabillion
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="USA",Kids Street
 
 #EXTINF:0 tvg-id="LifetimeEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/800px-Logo_Lifetime_2020.svg.png" group-title="USA",Lifetime
