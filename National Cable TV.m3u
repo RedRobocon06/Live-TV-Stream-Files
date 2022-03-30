@@ -51,7 +51,7 @@ http://ustvgo.net/freeform-channel-live-free/|webpronoagent$$start=file: '$$end=
 #EXTINF:0 tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/150px-2015_Fox_Sports_1_logo.svg.png" group-title="USA",FS1
 
 #EXTINF:0 tvg-id="FXEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1024px-FX_International_logo.svg.png" group-title="USA",FX
-
+http://ustvgo.net/fx-channel-live/|webpronoagent$$start=file: '$$end=',\$$replace=file: '$$replacewith=$$add=
 #EXTINF:0 tvg-id="FXXEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/751px-FXX_Logo.svg.png" group-title="USA",FXX
 
 #EXTINF:0 tvg-id="GameShowNetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/800px-Game_Show_Network_2018.svg.png" group-title="USA",Game Show Network
