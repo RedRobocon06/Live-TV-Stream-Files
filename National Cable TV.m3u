@@ -21,7 +21,7 @@ https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/800px-Cartoonito_-_Logo_2021.svg.png" group-title="USA",Cartoonito
 
 #EXTINF:0 tvg-id="BoomerangUS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/300px-Boomerang_2014_logo.svg.png" group-title="USA",Boomerang
-https://ustvgo.tv/boomerang/
+
 #EXTINF:0 tvg-id="AdultSwimEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/660px-Adult_Swim_2003_logo.svg.png" group-title="USA",Adult Swim
 https://tve-live-lln.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:0 tvg-id="CNNUS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png" group-title="USA",CNN
@@ -47,7 +47,7 @@ https://d3je5q1nueb5wn.cloudfront.net/p/DOME.m3u8
 #EXTINF:0 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/800px-Fox_News_Channel_logo.svg.png" group-title="USA",Fox News Channel
 
 #EXTINF:0 tvg-id="FreeformEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Freeform_2018.svg/1920px-Freeform_2018.svg.png" group-title="USA",Freeform
-
+http://ustvgo.net/freeform-channel-live-free/|webpronoagent$$start=file: '$$end=',\$$replace=file: '$$replacewith=$$add=
 #EXTINF:0 tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/150px-2015_Fox_Sports_1_logo.svg.png" group-title="USA",FS1
 
 #EXTINF:0 tvg-id="FXEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1024px-FX_International_logo.svg.png" group-title="USA",FX
