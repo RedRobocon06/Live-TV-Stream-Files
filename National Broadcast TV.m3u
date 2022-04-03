@@ -19,7 +19,7 @@ https://v-ny.mybtv.net/live/549.m3u8
 #EXTINF:0 tvg-id="FoxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="USA",05.1 - Fox
 https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/playlist.m3u8
 #EXTINF:0 tvg-id="MyNetworkTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="USA",05.2 - MyNetworkTV
-
+https://v-pi.theus6tv.tk/hls/17.1/playlist.m3u8
 #EXTINF:0 tvg-id="WUTVDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TBD_Logo_2019.svg/1200px-TBD_Logo_2019.svg.png" group-title="USA",06.1 - TBD
 https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/KidsClickLogo.png" group-title="USA",06.2 - KidsClick
@@ -87,7 +87,7 @@ https://myiptvplayer.xyz/btv/la.php?channel=THISTV
 #EXTINF:0 tvg-id="TheCountryNetwork.us" tvg-logo="https://watch.tcncountry.net/assets/images/default.png" group-title="USA",16.1 - The Country Network
 
 #EXTINF:0 tvg-id="TrueCrimeNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/True_Crime_TV.png" group-title="USA",17.1 - True Crime Network
-
+https://v-pi.theus6tv.tk/hls/65.3/playlist.m3u8
 #EXTINF:0 tvg-id="TBNEast.us" tvg-logo="https://help.yippee.tv/hs-fs/hubfs/TBN%20Logo.jpg?width=5674&name=TBN%20Logo.jpg" group-title="USA",18.1 - TBN
 https://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8?Faith
 #EXTINF:0 tvg-id="HillsongChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/TBN_Inspire_Logo.png" group-title="USA",18.2 - TBN Inspire
