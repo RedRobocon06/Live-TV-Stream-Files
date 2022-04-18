@@ -134,5 +134,10 @@ https://v-ny.theus6tv.tk/hls/48.3/playlist.m3u8
 #EXTINF:-1 tvg-id="WRNNDT4.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CkIxX82.png" group-title="New York City, New York",48.4 - QVC (WRNN-DT4)
 https://v-ny.theus6tv.tk/hls/48.4/playlist.m3u8
 
+#EXTINF:-1 tvg-id="WSYTDT3.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="Syracuse, New York",43.1 - MyNetworkTV (WSYT-DT3)
+https://dai2-playlistserver.aws.syncbak.com/cpl/14332568/dai2v5/1.0/7b2264657669636554797065223a382c226361706162696c6974696573223a7b7d7d/master.m3u8
+#EXTINF:-1 tvg-id="WSYTDT1.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="Syracuse, New York",68.1 - Fox (WSYT-DT1)
+https://dai2-playlistserver.aws.syncbak.com/cpl/13871899/dai2v5/1.0/7b2264657669636554797065223a382c226361706162696c6974696573223a7b7d7d/master.m3u8
+
 #EXTINF:-1 tvg-id="WZTSCD1.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/1920px-Cozi_TV_logo.svg.png" group-title="Summerville, West Virginia",16.1 - Cozi TV (WZTS-CD1)
 https://v-bluecbl.theus6tv.tk/hls/16.1/playlist.m3u8
