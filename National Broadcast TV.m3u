@@ -92,13 +92,13 @@ https://v-pi.theus6tv.tk/hls/65.3/playlist.m3u8
 https://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8?Faith
 #EXTINF:0 tvg-id="HillsongChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/TBN_Inspire_Logo.png" group-title="USA",18.2 - TBN Inspire
 https://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
-#EXTINF:0 tvg-id="WSSFLD3.us" tvg-logo="https://i.imgur.com/HL4phgR.png" group-title="USA",18.3 - Smile
+#EXTINF:0 tvg-id="SmileTV.us" tvg-logo="https://i.imgur.com/HL4phgR.png" group-title="USA",18.3 - Smile
 https://api.new.livestream.com/accounts/27460990/events/8266916/live.m3u8?Faith
 #EXTINF:0 tvg-id="Enlace.cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Enlace_Televisi%C3%B3n_logo.svg/100px-Enlace_Televisi%C3%B3n_logo.svg.png" group-title="USA",18.4 - Enlace
 
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Positiv_TV_Network_Logo.png" group-title="USA",18.5 - Positiv
 
-#EXTINF:0 tvg-id="TelemundoEste.us" tvg-logo="https://i.imgur.com/0fbIM3o.png" group-title="USA",19.1 - Telemundo
+#EXTINF:0 tvg-id="TelemundoEast.us" tvg-logo="https://i.imgur.com/0fbIM3o.png" group-title="USA",19.1 - Telemundo
 
 #EXTINF:0 tvg-id="TeleXitos.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/TeleXitos_TV.png" group-title="USA",19.2 - TeleXitos
 
@@ -106,9 +106,9 @@ https://api.new.livestream.com/accounts/27460990/events/8266916/live.m3u8?Faith
 
 #EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/6/6e/Telemundo_Puerto_Rico.png/revision/latest?cb=20210613155940" group-title="USA",19.4 - Telemundo Puerto Rico
 
-#EXTINF:0 tvg-id="UnivisionEste.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="USA",20.1 - Univisión
+#EXTINF:0 tvg-id="UnivisionEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="USA",20.1 - Univisión
 https://v-ny.mybtv.net/live/643.m3u8
-#EXTINF:0 tvg-id="UniMasEste.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/220px-Logo_UniM%C3%A1s.svg.png" group-title="USA",20.2 - UniMás
+#EXTINF:0 tvg-id="UniMasEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/220px-Logo_UniM%C3%A1s.svg.png" group-title="USA",20.2 - UniMás
 https://dai.google.com/linear/hls/event/fQCAqHLkSPeYW0FmDm7aOQ/master.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/172px-Galavision_Logo_2013.svg.png" group-title="USA",20.3 - Galavisión
 
