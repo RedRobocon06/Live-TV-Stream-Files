@@ -17,7 +17,7 @@ https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="USA",C-SPAN 3
 https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
 #EXTINF:0 tvg-id="CartoonNetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/330px-Cartoon_Network_2010_logo.svg.png" group-title="USA",Cartoon Network
-
+https://tve-live-lln.warnermediacdn.com/hls/live/2023167/tooneast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/800px-Cartoonito_-_Logo_2021.svg.png" group-title="USA",Cartoonito
 
 #EXTINF:0 tvg-id="BoomerangUS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/300px-Boomerang_2014_logo.svg.png" group-title="USA",Boomerang
@@ -79,7 +79,7 @@ http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/playlist.m3u8
 #EXTINF:0 tvg-id="PopEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png" group-title="USA",Pop
 http://n1.klowdtv.net/live2/pop_720p/chunks.m3u8
 #EXTINF:0 tvg-id="SyfyEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/800px-SYFY.svg.png" group-title="USA",Syfy
-
+http://38.127.211.18/live/c2eds/SYFY/HLS/index.m3u8
 #EXTINF:0 tvg-id="TBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1000px-TBS_logo_2016.svg.png" group-title="USA",TBS
 https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-id="TCMUS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1920px-TCM_logo.svg.png" group-title="USA",TCM
