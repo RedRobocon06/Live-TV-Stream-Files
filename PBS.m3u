@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:0 tvg-id="PBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1280px-PBS_logo.svg.png" group-title="USA",PBS (Eastern)
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:0 tvg-id="PBSWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1280px-PBS_logo.svg.png" group-title="USA",PBS (Pacific)
+https://pbs.lls.cdn.pbs.org/pst/index.m3u8
