@@ -10,7 +10,7 @@ https://content.uplynk.com/channel/ext/c9aa5ed442aa42758f7788ecc0236e5e/Localish
 https://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
 #EXTINF:0 tvg-id="TheCWEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/1200px-The_CW.svg.png" group-title="USA (Eastern)",03.1 - The CW
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/2021_The_CW_Plus_Logo.png" group-title="USA (Eastern)",03.2 - The CW Plus
+#EXTINF:0 tvg-id="TheCWPlusEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/2021_The_CW_Plus_Logo.png" group-title="USA (Eastern)",03.2 - The CW Plus
 
 #EXTINF:0 tvg-id="NBCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/1137px-NBC_logo_%282013%29.svg.png" group-title="USA (Eastern)",04.1 - NBC
 
