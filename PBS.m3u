@@ -4,6 +4,8 @@
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:0 tvg-id="PBSWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1280px-PBS_logo.svg.png" group-title="USA",PBS (Pacific)
 https://pbs.lls.cdn.pbs.org/pst/index.m3u8
+#EXTINF:0 tvg-id="KETSDT1.us" group-title="USA",Arkansas PBS
+https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8
 #EXTINF:0 tvg-id="KHETDT1.us" group-title="USA",PBS Honolulu HI (KHET)
 https://khetdt.lls.pbs.org/out/v1/7ec7903413294b72bb64f83963d8ea9b/index.m3u8
 #EXTINF:0 tvg-id="KUONDT1.us" group-title="USA",PBS Lincoln NE (KUON)
