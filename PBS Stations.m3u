@@ -16,7 +16,7 @@ https://v-la.mybtv.net/live/110.m3u8
 https://d1mxoeplf1ak5a.cloudfront.net/index.m3u8
 #EXTINF:0 tvg-id="KUON" group-title="USA",PBS Nebraska Public Media (KUON-DT1)
 https://kuondt.lls.pbs.org/out/v1/91d8b5ffc5c1453c8a621508a07749a6/index.m3u8
-#EXTINF:0 tvg-id="WBIQDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png" group-title="USA (Eastern)",APT World (WBIQ-DT3)
+#EXTINF:0 tvg-id="WBIQDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png" group-title="USA",APT World (WBIQ-DT3)
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 #EXTINF:0 tvg-id="WNET" group-title="USA",PBS Thirteen (WNET-DT1)
 https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
