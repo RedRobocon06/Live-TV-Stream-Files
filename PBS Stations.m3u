@@ -1,0 +1,20 @@
+#EXTM3U
+
+#EXTINF:0 tvg-id="PBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1280px-PBS_logo.svg.png" group-title="USA",PBS (Eastern)
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:0 tvg-id="PBSKidsEasternCentral.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/PBS_Kids_(new_logo).svg/600px-PBS_Kids_(new_logo).svg.png" group-title="USA",PBS Kids (Eastern)
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+#EXTINF:0 tvg-id="PBSWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1280px-PBS_logo.svg.png" group-title="USA",PBS (Pacific)
+https://pbs.lls.cdn.pbs.org/pst/index.m3u8
+#EXTINF:0 tvg-id="KETSDT1.us" group-title="USA",Arkansas PBS (KETS-DT1)
+https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8
+#EXTINF:0 tvg-id="KHETDT1.us" group-title="USA",PBS Hawaii (KHET-DT1)
+https://khetdt.lls.pbs.org/out/v1/7ec7903413294b72bb64f83963d8ea9b/index.m3u8
+#EXTINF:0 tvg-id="KLCSDT2.us" group-title="USA",KLCS Kids (KLCS-DT2)
+https://v-la.mybtv.net/live/110.m3u8
+#EXTINF:0 tvg-id="KUONDT1.us" group-title="USA",PBS Lincoln NE (KUON-DT1)
+https://kuondt.lls.pbs.org/out/v1/91d8b5ffc5c1453c8a621508a07749a6/index.m3u8
+#EXTINF:0 tvg-id="WNETDT1.us" group-title="USA",PBS Thirteen (WNET-DT1)
+https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
+#EXTINF:0 tvg-id="WNJTDT1.us" group-title="USA",NJ PBS (WNJT-DT1)
+https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
