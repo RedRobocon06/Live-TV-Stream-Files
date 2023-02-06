@@ -54,6 +54,8 @@ https://v-pi.theus6tv.tk/hls/45.1/playlist.m3u8
 https://v-pi.theus6tv.tk/hls/51.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WTVEDT2.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/WTVE51.png" group-title="Philadelphia, Pennsylvania",51.2 - Timeless TV (WTVE-DT2)
 https://v-pi.theus6tv.tk/hls/51.2/playlist.m3u8
+#EXTINF:-1 tvg-id="WPSGDT1.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Wpsg_cw_current.PNG" group-title="Philadelphia, Pennsylvania",57.1 - The CW (WPSG-DT1)
+https://newtest.onlinewebtv.lol/ddy6/premium300/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="WPPXDT4.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/TrueReal_logo.png" group-title="Philadelphia, Pennsylvania",61.4 - TrueReal (WPPX-DT4)
 https://v-pi.theus6tv.tk/hls/61.4/playlist.m3u8
 #EXTINF:-1 tvg-id="WPPXDT5.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/LAFF_%28You_Know_You_Want_To%29.png/revision/latest?cb=20150810143650" group-title="Philadelphia, Pennsylvania",61.5 - Laff (WPPX-DT5)
