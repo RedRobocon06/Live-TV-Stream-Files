@@ -17,13 +17,13 @@ https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="USA (Eastern)",C-SPAN 3
 https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
 #EXTINF:0 tvg-id="CartoonNetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/330px-Cartoon_Network_2010_logo.svg.png" group-title="USA (Eastern)",Cartoon Network
-https://tve-live-lln.warnermediacdn.com/hls/live/2023167/tooneast/slate/VIDEO_0_3564000.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/2023167/tooneast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/800px-Cartoonito_-_Logo_2021.svg.png" group-title="USA (Eastern)",Cartoonito
 
 #EXTINF:0 tvg-id="BoomerangUS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/300px-Boomerang_2014_logo.svg.png" group-title="USA (Eastern)",Boomerang
-
+https://cdn.streamlive.to/vlc/lirvhoc1rj69ydq/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMjMgMTA6NTM6MTggUE0maGFzaF92YWx1ZT01bXEzNVZTR21CbGdhTDJMemdwV3lnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpZD0w
 #EXTINF:0 tvg-id="AdultSwimEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/660px-Adult_Swim_2003_logo.svg.png" group-title="USA (Eastern)",Adult Swim
-https://tve-live-lln.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:0 tvg-id="CNNUS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png" group-title="USA (Eastern)",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-id="ComedyCentralEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="USA (Eastern)",Comedy Central
@@ -33,9 +33,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:0 tvg-id="DiscoveryFamily.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Discovery_Family_logo.svg/100px-Discovery_Family_logo.svg.png" group-title="USA (Eastern)",Discovery Family
 
 #EXTINF:0 tvg-id="DisneyChannelEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/800px-2019_Disney_Channel_logo.svg.png" group-title="USA (Eastern)",Disney Channel
-
+https://cdn.streamlive.to/vlc/c8sazafmf0sxppc/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMjMgMTA6NTA6NDkgUE0maGFzaF92YWx1ZT14NkVqZS83Ty9ib1pHek1Ya1p4Zk13PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpZD0w
 #EXTINF:0 tvg-id="DisneyJuniorEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/531px-Disney_Junior.svg.png" group-title="USA (Eastern)",Disney Junior
-
+https://cdn.streamlive.to/vlc/db00b0at5cxqdfb/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMjMgMTA6Mzg6MDcgUE0maGFzaF92YWx1ZT1YNzk1cWNTUElHM0VUdTlDY2lrUzdRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpZD0w
 #EXTINF:0 tvg-id="DisneyXDEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/725px-Disney_XD_-_2015.svg.png" group-title="USA (Eastern)",Disney XD
 
 #EXTINF:0 tvg-id="ESPNUS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="USA (Eastern)",ESPN
@@ -67,9 +67,9 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 #EXTINF:0 tvg-id="MSNBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/MSNBC_2021.svg/1920px-MSNBC_2021.svg.png" group-title="USA (Eastern)",MSNBC
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/playlist.m3u8
 #EXTINF:0 tvg-id="NickelodeonUSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/798px-Nickelodeon_2009_logo.svg.png" group-title="USA (Eastern)",Nickelodeon
-
+https://cdn.streamlive.to/vlc/9irzsivwy1jfdg5/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMjMgMTA6NTg6MjkgUE0maGFzaF92YWx1ZT0zS3Z5N054NWVlYndWY2FWY1lBZnpRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpZD0w
 #EXTINF:0 tvg-id="NickJrUSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/216px-Nick_Jr._logo_2009.svg.png" group-title="USA (Eastern)",Nick Jr.
-
+https://cdn.streamlive.to/vlc/zmtfudkfx3neras/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMjMgMTA6NTk6NDYgUE0maGFzaF92YWx1ZT1ERG1qSEp4dFFzSHljRTRXbGhPZlp3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpZD0w
 #EXTINF:0 tvg-id="NicktoonsUSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Nicktoons_UK_Logo_2010.svg/344px-Nicktoons_UK_Logo_2010.svg.png" group-title="USA (Eastern)",Nicktoons
 
 #EXTINF:0 tvg-id="TeenNickUSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/512px-TeenNick_2019_logo.svg.png" group-title="USA (Eastern)",TeenNick
@@ -79,17 +79,17 @@ http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/playlist.m3u8
 #EXTINF:0 tvg-id="PopEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png" group-title="USA (Eastern)",Pop
 http://n1.klowdtv.net/live2/pop_720p/chunks.m3u8
 #EXTINF:0 tvg-id="SyfyEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/800px-SYFY.svg.png" group-title="USA (Eastern)",Syfy
-http://38.127.211.18/live/c2eds/SYFY/HLS/index.m3u8
+http://trn03.tulix.tv/teleup-syfy/playlist.m3u8
 #EXTINF:0 tvg-id="TBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1000px-TBS_logo_2016.svg.png" group-title="USA (Eastern)",TBS
-https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-id="TCMUS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1920px-TCM_logo.svg.png" group-title="USA (Eastern)",TCM
-https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:0 tvg-id="TLCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/185px-TLC_Logo.svg.png" group-title="USA (Eastern)",TLC
 
 #EXTINF:0 tvg-id="TNTEast.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/TNT_logo_White.png/revision/latest?cb=20210114211400" group-title="USA (Eastern)",TNT
-https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-id="TruTVEast.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/TruTV_2014_Green.svg/revision/latest/scale-to-width-down/800?cb=20170725091207" group-title="USA (Eastern)",TruTV
-https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-id="UniversalKids.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Universal_Kids_2019_Logo.svg/1200px-Universal_Kids_2019_Logo.svg.png" group-title="USA (Eastern)",Universal Kids
 
 #EXTINF:0 tvg-id="USANetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/800px-USA_Network_logo_%282016%29.svg.png" group-title="USA (Eastern)",USA Network
@@ -100,17 +100,17 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
 
 #EXTINF:0 tvg-id="CartoonNetworkWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/330px-Cartoon_Network_2010_logo.svg.png" group-title="USA (Pacific)",Cartoon Network (Pacific)
-https://tve-live-lln.warnermediacdn.com/hls/live/2023180/toonwest/slate/VIDEO_0_3564000.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/2023180/toonwest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-id="AdultSwimWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/660px-Adult_Swim_2003_logo.svg.png" group-title="USA (Pacific)",Adult Swim (Pacific)
-https://tve-live-lln.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:0 tvg-id="TBSWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1000px-TBS_logo_2016.svg.png" group-title="USA (Pacific)",TBS (Pacific)
-https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-id="TCMWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1920px-TCM_logo.svg.png" group-title="USA (Pacific)",TCM (Pacific)
-https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:0 tvg-id="TNTWest.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/TNT_logo_White.png/revision/latest?cb=20210114211400" group-title="USA (Pacific)",TNT (Pacific)
-https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-id="TruTVWest.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/TruTV_2014_Green.svg/revision/latest/scale-to-width-down/800?cb=20170725091207" group-title="USA (Pacific)",TruTV (Pacific)
-https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/798px-Nickelodeon_2009_logo.svg.png" group-title="Canada",Nickelodeon (Canada)
 
