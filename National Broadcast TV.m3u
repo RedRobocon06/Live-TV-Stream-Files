@@ -29,11 +29,11 @@ https://ion-qubo-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="IONPlusEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/800px-ION_Plus_logo.svg.png" group-title="USA (Eastern)",06.03 - Ion Plus
 https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="CourtTVMystery.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/800px-ION_Mystery_logo.svg.png" group-title="USA (Eastern)",06.04 - Ion Mystery
-https://5e6cea03e25b6.streamlock.net/live/QVC.stream/playlist.m3u8
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,ION-Mystery.m3u8
 #EXTINF:0 tvg-id="QVCUS.us" tvg-logo="https://i.imgur.com/CkIxX82.png" group-title="USA (Eastern)",06.05 - QVC
-https://qvc.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:0 tvg-id="HSN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="USA (Eastern)",06.06 - HSN
-https://hsn.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:0 tvg-id="Bounce.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/692px-Bounce_TV_logo.svg.png" group-title="USA (Eastern)",06.07 - Bounce TV
 
 #EXTINF:0 tvg-id="WPIXDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="USA (Eastern)",06.08 - Court TV
@@ -44,7 +44,7 @@ https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 
 #EXTINF:0 tvg-id="Laff.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/LAFF_%28You_Know_You_Want_To%29.png/revision/latest?cb=20150810143650" group-title="USA (Eastern)",06.11 - Laff
 
-#EXTINF:0 tvg-id="Newsy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/799px-Newsy_2021.svg.png" group-title="USA (Eastern)",06.12 - Scripps News
+#EXTINF:0 tvg-id="Newsy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Scripps_News_logo.png" group-title="USA (Eastern)",06.12 - Scripps News
 https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8
 #EXTINF:0 tvg-id="WUTVDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TBD_Logo_2019.svg/1200px-TBD_Logo_2019.svg.png" group-title="USA (Eastern)",07.01 - TBD
 https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
@@ -109,7 +109,7 @@ https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
 #EXTINF:0 tvg-id="ThisTV.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/THIS_TV_2021_LOGO.png/revision/latest?cb=20220328224305&format=original" group-title="USA (Eastern)",15.01 - This TV
 https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
 #EXTINF:0 tvg-id="WNYWDT4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/The_Grio_logo.png/220px-The_Grio_logo.png" group-title="USA (Eastern)",15.02 - TheGrio
-
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,BNC.m3u8
 #EXTINF:0 tvg-id="TheCountryNetwork.us" tvg-logo="https://tcntoday.com/wp-content/uploads/2022/05/2714-320x180-000000.png" group-title="USA (Eastern)",16.01 - The Country Network
 https://dai.google.com/linear/hls/event/3EEsfZhASryigfuSpHdfKg/master.m3u8
 #EXTINF:0 tvg-id="TrueCrimeNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/True_Crime_TV.png" group-title="USA (Eastern)",17.01 - True Crime Network
