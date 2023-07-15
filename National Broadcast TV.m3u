@@ -108,7 +108,7 @@ https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
 
 #EXTINF:0 tvg-id="ThisTV.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/THIS_TV_2021_LOGO.png/revision/latest?cb=20220328224305&format=original" group-title="USA (Eastern)",15.01 - This TV
 https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
-#EXTINF:0 tvg-id="WNYWDT4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/The_Grio_logo.png/220px-The_Grio_logo.png" group-title="USA (Eastern)",15.02 - TheGrio
+#EXTINF:0 tvg-id="WNYWDT4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/The_Grio.svg/595px-The_Grio.svg.png" group-title="USA (Eastern)",15.02 - TheGrio
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,BNC.m3u8
 #EXTINF:0 tvg-id="TheCountryNetwork.us" tvg-logo="https://tcntoday.com/wp-content/uploads/2022/05/2714-320x180-000000.png" group-title="USA (Eastern)",16.01 - The Country Network
 https://dai.google.com/linear/hls/event/3EEsfZhASryigfuSpHdfKg/master.m3u8
@@ -116,7 +116,7 @@ https://dai.google.com/linear/hls/event/3EEsfZhASryigfuSpHdfKg/master.m3u8
 
 #EXTINF:0 tvg-id="TelemundoEast.us" tvg-logo="https://i.imgur.com/0fbIM3o.png" group-title="USA (Eastern)",18.01 - Telemundo
 
-#EXTINF:0 tvg-id="TeleXitos.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/TeleXitos_TV.png" group-title="USA (Eastern)",18.02 - TeleXitos
+#EXTINF:0 tvg-id="TeleXitos.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Telexitos_logo.png" group-title="USA (Eastern)",18.02 - TeleXitos
 https://v-ca.mybtv.net/event/141/768x432.m3u8?start_time=2023-06-12T13%3A15%3A00Z&end_time=2023-06-12T16%3A00%3A00Z&env=prd&uid=157470&expires=21600&date=2023-06-12T13%3A42%3A21Z&sig=e628f7ca9fdc4d67bcb45b8a43f32d025193852c2bc0020869bbae1c2abbd7d0
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/800px-Universo_2017.svg.png" group-title="USA (Eastern)",18.03 - Universo
 
