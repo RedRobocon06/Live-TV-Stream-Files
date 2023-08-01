@@ -1,11 +1,11 @@
 #EXTM3U
 
 #EXTINF:0 tvg-id="ABCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/800px-ABC-2021-LOGO.svg.png" group-title="USA (Eastern)",01.01 - ABC
-
+http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3606
 #EXTINF:0 tvg-id="WABCDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Localish_Logo.png" group-title="USA (Eastern)",01.02 - Localish
 https://content.uplynk.com/channel/ext/c9aa5ed442aa42758f7788ecc0236e5e/Localish_National_Feed.m3u8
 #EXTINF:0 tvg-id="CBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/1176px-CBS_logo.svg.png" group-title="USA (Eastern)",02.01 - CBS
-
+http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3619
 #EXTINF:0 tvg-id="Dabl.us" tvg-logo="https://i.imgur.com/x0JzXdF.png" group-title="USA (Eastern)",02.02 - Dabl
 https://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
 #EXTINF:0 tvg-id="TheCWEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/1200px-The_CW.svg.png" group-title="USA (Eastern)",03.01 - The CW
@@ -13,11 +13,11 @@ https://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
 #EXTINF:0 tvg-id="TheCWPlusEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/2021_The_CW_Plus_Logo.png" group-title="USA (Eastern)",03.02 - The CW Plus
 
 #EXTINF:0 tvg-id="NBCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/1137px-NBC_logo_%282013%29.svg.png" group-title="USA (Eastern)",04.01 - NBC
-
+http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3668
 #EXTINF:0 tvg-id="CoziTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/1920px-Cozi_TV_logo.svg.png" group-title="USA (Eastern)",04.02 - Cozi TV
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 #EXTINF:0 tvg-id="FoxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="USA (Eastern)",05.01 - Fox
-
+http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3641
 #EXTINF:0 tvg-id="MyNetworkTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="USA (Eastern)",05.02 - MyNetworkTV
 
 #EXTINF:0 tvg-id="FoxSoul.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Fox_Soul.svg/revision/latest?cb=20201217180007" group-title="USA (Eastern)",05.03 - Fox Soul
