@@ -10,30 +10,30 @@ http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3631
 http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3636
 #EXTINF:0 tvg-id="ESPN2US.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="USA (Eastern)",ESPN2
 http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3637
-#EXTINF:0 tvg-id="ESPNews.us" tvg-logo="" group-title="USA (Eastern)",ESPNews
+#EXTINF:0 tvg-id="ESPNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/512px-ESPNews.svg.png" group-title="USA (Eastern)",ESPNews
 http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3640
-#EXTINF:0 tvg-id="ESPNU.us" tvg-logo="" group-title="USA (Eastern)",ESPNU
+#EXTINF:0 tvg-id="ESPNU.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/512px-ESPN_U_logo.svg.png" group-title="USA (Eastern)",ESPNU
 http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3638
-#EXTINF:0 tvg-id="ESPNDeportes.us" tvg-logo="" group-title="USA (Eastern)",ESPN Deportes
+#EXTINF:0 tvg-id="ESPNDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/300px-Espn_deportes.svg.png" group-title="USA (Eastern)",ESPN Deportes
 http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3639
-#EXTINF:0 tvg-id="FreeformEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Freeform_2018.svg/1920px-Freeform_2018.svg.png" group-title="USA (Eastern)",Freeform
+#EXTINF:0 tvg-id="FreeformEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Freeform_2022.svg/800px-Freeform_2022.svg.png" group-title="USA (Eastern)",Freeform
 http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3648
 #EXTINF:0 tvg-id="FXEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1024px-FX_International_logo.svg.png" group-title="USA (Eastern)",FX
 http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3642
 #EXTINF:0 tvg-id="FXXEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/751px-FXX_Logo.svg.png" group-title="USA (Eastern)",FXX
 http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3649
-#EXTINF:0 tvg-id="NationalGeographicEast.us" tvg-logo="" group-title="USA (Eastern)",National Geographic
+#EXTINF:0 tvg-id="NationalGeographicEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/800px-Natgeologo.svg.png" group-title="USA (Eastern)",National Geographic
 http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3665
-#EXTINF:0 tvg-id="NationalGeographicWildEast.us" tvg-logo="" group-title="USA (Eastern)",National Geographic Wild
+#EXTINF:0 tvg-id="NationalGeographicWildEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/100px-National_Geographic_Wild_logo.svg.png" group-title="USA (Eastern)",National Geographic Wild
 http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3666
 
-#EXTINF:0 tvg-id="CBSSportsNetworkUSA.us" tvg-logo="" group-title="USA (Eastern)",CBS Sports Network
+#EXTINF:0 tvg-id="CBSSportsNetworkUSA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CBS_Sports_Network_2021.svg/799px-CBS_Sports_Network_2021.svg.png" group-title="USA (Eastern)",CBS Sports Network
 http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3621
-#EXTINF:0 tvg-id="CMTEast.us" tvg-logo="" group-title="USA (Eastern)",CMT
+#EXTINF:0 tvg-id="CMTEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/CMT_2017_logo.png/771px-CMT_2017_logo.png" group-title="USA (Eastern)",CMT
 http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3623
 #EXTINF:0 tvg-id="ComedyCentralEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="USA (Eastern)",Comedy Central
 http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3626
-#EXTINF:0 tvg-id="MTVEast.us" tvg-logo="" group-title="USA (Eastern)",MTV
+#EXTINF:0 tvg-id="MTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/800px-MTV_2021_%28brand_version%29.svg.png" group-title="USA (Eastern)",MTV
 http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3664
 #EXTINF:0 tvg-id="NickelodeonUSEast.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Nickelodeon_Splat_2023.png/revision/latest?cb=20230724150722" group-title="USA (Eastern)",Nickelodeon
 http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3673
@@ -62,7 +62,7 @@ http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3616
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:0 tvg-id="CNNUS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png" group-title="USA (Eastern)",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/800px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="USA (Eastern)",HLN
+#EXTINF:0 tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/HLNLogo2023.svg/750px-HLNLogo2023.svg.png" group-title="USA (Eastern)",HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-id="TBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1000px-TBS_logo_2016.svg.png" group-title="USA (Eastern)",TBS
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
