@@ -104,7 +104,7 @@ https://buzzr-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png" group-title="USA (Eastern)",15.01 - Heartland
 https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
 #EXTINF:0 tvg-id="RetroTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" group-title="USA (Eastern)",15.02 - Retro TV
-
+https://hls-live-web-media.cdn01.net/default/stream_50177_1.m3u8?L9zBCoBTvbW64ptS3q4-9xj-MLzNpFCLkkM4tOqFS8JH0IYHXEX9kbMIlY194Ujtvq7ZxtooLtlIYMxaSBR6sA3TWRk2JfnW2aHIS8I6_YvdAitYcOA_p85u0mnqB_4QY8sT7l6896JYKxg9XoI_GDLycI7pH8duUj10dgvhF_kocHMhPAHTykpWMjgj4FcI-CLR04djVQ&channel_id=50177&source=othersites&device_id=0716889311-539307e32e1a0a714dbf37019ce9e268&lcp=2&client_id=321522917955505119&play_id=1702426030137777
 #EXTINF:0 tvg-id="REVNEastern.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Rev%27n_logo.jpg/800px-Rev%27n_logo.jpg" group-title="USA (Eastern)",15.03 - Rev'n
 
 #EXTINF:0 tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/v1/5554e507e4b0d44531f00df2/1536000734821-10A96RJKIVRHNEJ4MLC8/actionchlogo.png" group-title="USA (Eastern)",15.04 - The Action Channel
