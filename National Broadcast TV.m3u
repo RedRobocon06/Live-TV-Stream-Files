@@ -24,35 +24,35 @@ https://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="GetTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/GetTV-logo.png" group-title="USA (Eastern)",06.01 - Get
 
-#EXTINF:0 tvg-id="IONTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/1920px-Ion_logo.svg.png" group-title="USA (Eastern)",07.01 - Ion
+#EXTINF:0 tvg-id="ThisTVNetwork.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/THIS_TV_2021_LOGO.png/revision/latest?cb=20220328224305&format=original" group-title="USA (Eastern)",07.01 - This TV
+https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
+#EXTINF:0 tvg-id="WNYWDT4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/The_Grio.svg/595px-The_Grio.svg.png" group-title="USA (Eastern)",07.02 - TheGrio
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,BNC.m3u8
+#EXTINF:0 tvg-id="IONTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/1920px-Ion_logo.svg.png" group-title="USA (Eastern)",08.01 - Ion
 https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Qubo_logo.svg/432px-Qubo_logo.svg.png" group-title="USA (Eastern)",07.02 - Qubo
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Qubo_logo.svg/432px-Qubo_logo.svg.png" group-title="USA (Eastern)",08.02 - Qubo
 https://ion-qubo-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="IONPlusEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/800px-ION_Plus_logo.svg.png" group-title="USA (Eastern)",07.03 - Ion Plus
+#EXTINF:0 tvg-id="IONPlusEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/800px-ION_Plus_logo.svg.png" group-title="USA (Eastern)",08.03 - Ion Plus
 https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
-#EXTINF:0 tvg-id="CourtTVMystery.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/800px-ION_Mystery_logo.svg.png" group-title="USA (Eastern)",07.04 - Ion Mystery
+#EXTINF:0 tvg-id="CourtTVMystery.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/800px-ION_Mystery_logo.svg.png" group-title="USA (Eastern)",08.04 - Ion Mystery
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,ION-Mystery.m3u8
-#EXTINF:0 tvg-id="QVCUS.us" tvg-logo="https://i.imgur.com/CkIxX82.png" group-title="USA (Eastern)",07.05 - QVC
+#EXTINF:0 tvg-id="QVCUS.us" tvg-logo="https://i.imgur.com/CkIxX82.png" group-title="USA (Eastern)",08.05 - QVC
 
-#EXTINF:0 tvg-id="HSN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="USA (Eastern)",07.06 - HSN
+#EXTINF:0 tvg-id="HSN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="USA (Eastern)",08.06 - HSN
 
-#EXTINF:0 tvg-id="Bounce.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/692px-Bounce_TV_logo.svg.png" group-title="USA (Eastern)",07.07 - Bounce TV
+#EXTINF:0 tvg-id="Bounce.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/692px-Bounce_TV_logo.svg.png" group-title="USA (Eastern)",08.07 - Bounce TV
 
-#EXTINF:0 tvg-id="WPIXDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="USA (Eastern)",07.08 - Court TV
+#EXTINF:0 tvg-id="WPIXDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="USA (Eastern)",08.08 - Court TV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://en.wikipedia.org/wiki/File:Defy_TV_logo.png" group-title="USA (Eastern)",07.09 - Defy TV
+#EXTINF:0 tvg-id="" tvg-logo="https://en.wikipedia.org/wiki/File:Defy_TV_logo.png" group-title="USA (Eastern)",08.09 - Defy TV
 
-#EXTINF:0 tvg-id="Grit.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Gritl-ogo1.gif/revision/latest/scale-to-width-down/200?cb=20140814235648" group-title="USA (Eastern)",07.10 - Grit
+#EXTINF:0 tvg-id="Grit.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Gritl-ogo1.gif/revision/latest/scale-to-width-down/200?cb=20140814235648" group-title="USA (Eastern)",08.10 - Grit
 
-#EXTINF:0 tvg-id="Laff.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/LAFF_%28You_Know_You_Want_To%29.png/revision/latest?cb=20150810143650" group-title="USA (Eastern)",07.11 - Laff
+#EXTINF:0 tvg-id="Laff.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/LAFF_%28You_Know_You_Want_To%29.png/revision/latest?cb=20150810143650" group-title="USA (Eastern)",08.11 - Laff
 
-#EXTINF:0 tvg-id="Newsy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Scripps_News_logo.png" group-title="USA (Eastern)",07.12 - Scripps News
+#EXTINF:0 tvg-id="Newsy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Scripps_News_logo.png" group-title="USA (Eastern)",08.12 - Scripps News
 https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8
 
-#EXTINF:0 tvg-id="ThisTVNetwork.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/THIS_TV_2021_LOGO.png/revision/latest?cb=20220328224305&format=original" group-title="USA (Eastern)",08.01 - This TV
-https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
-#EXTINF:0 tvg-id="WNYWDT4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/The_Grio.svg/595px-The_Grio.svg.png" group-title="USA (Eastern)",08.02 - TheGrio
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,BNC.m3u8
 #EXTINF:0 tvg-id="WUTVDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TBD_Logo_2019.svg/1200px-TBD_Logo_2019.svg.png" group-title="USA (Eastern)",09.01 - TBD
 https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 #EXTINF:0 tvg-id="KidsClick.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/KidsClickLogo.png" group-title="USA (Eastern)",09.02 - KidsClick
