@@ -37,11 +37,11 @@ http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3626
 http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3664
 #EXTINF:0 tvg-id="NickelodeonUSEast.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Nickelodeon_Splat_2023.png/revision/latest?cb=20230724150722" group-title="USA (Eastern)",Nickelodeon
 http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3673
-#EXTINF:0 tvg-id="NickJrUSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Nick_Jr_2023.webp/638px-Nick_Jr_2023.webp.png" group-title="USA (Eastern)",Nick Jr.
+#EXTINF:0 tvg-id="NickJrUSEast.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png/revision/latest?cb=20231122165643" group-title="USA (Eastern)",Nick Jr.
 
-#EXTINF:0 tvg-id="NicktoonsUSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Nicktoons_UK_Logo_2010.svg/344px-Nicktoons_UK_Logo_2010.svg.png" group-title="USA (Eastern)",Nicktoons
+#EXTINF:0 tvg-id="NicktoonsUSEast.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/NickToons_US_2023_Splat_Variant.png/revision/latest?cb=20231109203100" group-title="USA (Eastern)",Nicktoons
 http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3674 
-#EXTINF:0 tvg-id="TeenNickUSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/512px-TeenNick_2019_logo.svg.png" group-title="USA (Eastern)",TeenNick
+#EXTINF:0 tvg-id="TeenNickUSEast.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/TeenNick_2023_splat.png/revision/latest?cb=20231121172422" group-title="USA (Eastern)",TeenNick
 
 #EXTINF:0 tvg-id="ParamountNetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png" group-title="USA (Eastern)",Paramount Network
 http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3677
@@ -126,6 +126,8 @@ http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3646
 
 #EXTINF:0 tvg-id="GameShowNetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/800px-Game_Show_Network_2018.svg.png" group-title="USA (Eastern)",Game Show Network
 http://n1.klowdtv.net/live2/gsn_720p/chunks.m3u8
+#EXTINF:0 tvg-id="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/598px-Sony_Movies_Logo.svg.png" group-title="USA (Eastern)",Sony Movies
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 
 #EXTINF:0 tvg-id="TennisChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/13px-Tennis_Channel_logo.svg.png" group-title="USA (Eastern)",Tennis Channel
 http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3685
