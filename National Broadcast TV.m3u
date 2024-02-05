@@ -7,7 +7,7 @@ https://content.uplynk.com/channel/ext/c9aa5ed442aa42758f7788ecc0236e5e/Localish
 #EXTINF:0 tvg-id="CBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/1176px-CBS_logo.svg.png" group-title="USA (Eastern)",02.01 - CBS
 
 #EXTINF:0 tvg-id="Dabl.us" tvg-logo="https://i.imgur.com/x0JzXdF.png" group-title="USA (Eastern)",02.02 - Dabl
-https://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
+
 #EXTINF:0 tvg-id="TheCWEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/1200px-The_CW.svg.png" group-title="USA (Eastern)",03.01 - The CW
 
 #EXTINF:0 tvg-id="TheCWPlusEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/2021_The_CW_Plus_Logo.png" group-title="USA (Eastern)",03.02 - The CW Plus
@@ -20,14 +20,12 @@ https://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
 
 #EXTINF:0 tvg-id="MyNetworkTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="USA (Eastern)",05.02 - MyNetworkTV
 
-#EXTINF:0 tvg-id="FoxSoul.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Fox_Soul.svg/revision/latest?cb=20201217180007" group-title="USA (Eastern)",05.03 - Fox Soul
-https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="GetTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/GetTV-logo.png" group-title="USA (Eastern)",06.01 - Get
+#EXTINF:0 tvg-id="GetTV.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/GET_2023.svg/revision/latest?cb=20230918231259" group-title="USA (Eastern)",06.01 - Get
 
 #EXTINF:0 tvg-id="ThisTVNetwork.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/THIS_TV_2021_LOGO.png/revision/latest?cb=20220328224305&format=original" group-title="USA (Eastern)",07.01 - This TV
 https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
 #EXTINF:0 tvg-id="WNYWDT4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/The_Grio.svg/595px-The_Grio.svg.png" group-title="USA (Eastern)",07.02 - TheGrio
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,BNC.m3u8
+https://r.mjh.nz/PlutoTV/5f1efad04320070007dbb60b-alt.m3u8
 #EXTINF:0 tvg-id="IONTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/1920px-Ion_logo.svg.png" group-title="USA (Eastern)",08.01 - Ion
 https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Qubo_logo.svg/432px-Qubo_logo.svg.png" group-title="USA (Eastern)",08.02 - Qubo
@@ -70,7 +68,7 @@ https://d1mxoeplf1ak5a.cloudfront.net/index.m3u8
 #EXTINF:0 tvg-id="WLIWDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/World_Channel_2023.svg/473px-World_Channel_2023.svg.png" group-title="USA (Eastern)",10.04 - World
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 #EXTINF:0 tvg-id="TBNEast.us" tvg-logo="https://help.yippee.tv/hs-fs/hubfs/TBN%20Logo.jpg?width=5674&name=TBN%20Logo.jpg" group-title="USA (Eastern)",11.01 - TBN
-https://ssai.jwplayer.com/v1/manifests/OZpATbsP.m3u8?jwp.ssai.media_type=live_bcl&jwp.ssai.feed_id=OZpATbsP&jwp.ssai.data=ygesJXvyl9OnN1I%2B85lfCGXpvSyG58Hlv7ty0nJRPw5mh46YqWXvizadMNyuSiXo1vQ8qelT371zJ8egLsdWpDERX7al9EtUJETpgQYOAxuBjiztRohS%2BucR&VCH.ID=6dd50b68-7440-4633-b4ad-79a8c663a711&VCH.EventState=LIVE_UNPUBLISHED&VCH.DRM=False&VCH.ScheduledStart=2023-05-16T17%3A43%3A00Z&VCH.ScheduledEnd=&VCH.M3U8=https%3A%2F%2Ftbn-jw.cdn.vustreams.com%2Flive%2Ftbn-ssai%2Flive.isml%2F6dd50b68-7440-4633-b4ad-79a8c663a711.m3u8&VCH.MPD=https%3A%2F%2Ftbn-jw.cdn.vustreams.com%2Flive%2Ftbn-ssai%2Flive.isml%2F6dd50b68-7440-4633-b4ad-79a8c663a711.mpd&VCH.SmoothStream=https%3A%2F%2Ftbn-jw.cdn.vustreams.com%2Flive%2Ftbn-ssai%2Flive.isml%2FManifest&ssai.genre=religion&backstage_transaction_id=3a0969cc-80e8-4d20-b077-d00ce41b3305&featuredVideoHideTitle=true&imgFeaturedTvBanner16x4=https%3A%2F%2Ftbn-prod-backstage.s3.us-west-2.amazonaws.com%2Ftenant%2F1%2Fcdn%2Fwatch%2Fepisodes%2FU8PjwRCr%2FPentecostSunday_23_VODFeatured_TV_Web_Banner_1732x433-bf8948c2-e98b-4989-91d6-a9eede280311-1732x433.jpg&imgFeaturedWebBanner16x9=https%3A%2F%2Ftbn-prod-backstage.s3.us-west-2.amazonaws.com%2Ftenant%2F1%2Fcdn%2Fwatch%2Fepisodes%2FU8PjwRCr%2FPentecostSunday_23_VOD_Thumbnail_1280x720-20f9763a-d221-45ce-a0e4-1ad89cfce255-1280x720.jpg&imgFlixMobileFeature6x9=https%3A%2F%2Ftbn-prod-backstage.s3.us-west-2.amazonaws.com%2Ftenant%2F1%2Fcdn%2Fwatch%2Fepisodes%2FU8PjwRCr%2FPentecostSunday_23_VODFeatured_MobileBanner_1200x1800-a476dd63-dacd-4f21-ab5e-6ff32e85de03-1200x1800.jpg&imgLiveFeedCircle=https%3A%2F%2Fassets.tbn.org%2Fimages%2Ftbn_circle-1693336752981.png&imgLiveFeedCircle_christmas=https%3A%2F%2Ftbn-prod-backstage.s3.us-west-2.amazonaws.com%2Ftenant%2F1%2Fcdn%2Fwatch%2Fepisodes%2FYnAJnrsu%2FTBN_LiveChannelIcon_Christmas-1e125e90-b281-4246-9a88-b9dd2808b5fb-1080x1080.png&imgLiveFeedCircle_easter=https%3A%2F%2Ftbn-prod-backstage.s3.us-west-2.amazonaws.com%2Ftenant%2F1%2Fcdn%2Fwatch%2Fepisodes%2FQV5nR7oh%2FTBN_Easter_Circle-4d104adb-6294-49e6-9415-c5d589ab4700-1080x1080.png&live=true&onAir=Live&rating=TV-G&requiresSubscription=true&scheduleUrl=https%3A%2F%2Fguide.tbncloud.org%2Flookup%3Fnetwork%3Dtbn%26start%3D1624233600%26end%3D1624323599&share_url=https%3A%2F%2Fshare.tbn.org%2FGHTv%2Foll4etoq&watchButtonLabel=Start+Watching
+https://d7ge95bb03xsu.cloudfront.net/out/v1/0c95a89614194912834019fc37d741ef/tbn-freecast.m3u8
 #EXTINF:0 tvg-id="SmileTV.us" tvg-logo="https://i.imgur.com/HL4phgR.png" group-title="USA (Eastern)",11.02 - TBN Smile
 https://tbn-jw.cdn.vustreams.com/live/smile/live.isml/playlist.m3u8
 #EXTINF:0 tvg-id="HillsongChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/TBN_Inspire_Logo.png" group-title="USA (Eastern)",11.03 - TBN Inspire
@@ -104,7 +102,7 @@ https://buzzr-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png" group-title="USA (Eastern)",15.01 - Heartland
 https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
 #EXTINF:0 tvg-id="RetroTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" group-title="USA (Eastern)",15.02 - Retro TV
-https://hls-live-web-media.cdn01.net/default/stream_50177_1.m3u8?L9zBCoBTvbW64ptS3q4-9xj-MLzNpFCLkkM4tOqFS8JH0IYHXEX9kbMIlY194Ujtvq7ZxtooLtlIYMxaSBR6sA3TWRk2JfnW2aHIS8I6_YvdAitYcOA_p85u0mnqB_4QY8sT7l6896JYKxg9XoI_GDLycI7pH8duUj10dgvhF_kocHMhPAHTykpWMjgj4FcI-CLR04djVQ&channel_id=50177&source=othersites&device_id=0716889311-539307e32e1a0a714dbf37019ce9e268&lcp=2&client_id=321522917955505119&play_id=1702426030137777
+
 #EXTINF:0 tvg-id="REVNEastern.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Rev%27n_logo.jpg/800px-Rev%27n_logo.jpg" group-title="USA (Eastern)",15.03 - Rev'n
 
 #EXTINF:0 tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/v1/5554e507e4b0d44531f00df2/1536000734821-10A96RJKIVRHNEJ4MLC8/actionchlogo.png" group-title="USA (Eastern)",15.04 - The Action Channel
@@ -156,8 +154,7 @@ https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_west/a
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/240px-Global_Television_Network_Logo.svg.png" group-title="Canada",Global
 
 #EXTINF:0 tvg-id="KnowledgeNetwork.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Knowledge_Network_2012.svg/703px-Knowledge_Network_2012.svg.png" group-title="Canada",Knowledge Network
-http://knstream1.azureedge.net/knlive/knlive_high.m3u8
+
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/TVO_logo.svg/1200px-TVO_logo.svg.png" group-title="Canada",TVO
 
 #EXTINF:0 tvg-id="" tvg-logo="https://stro.ycdsb.ca/wp-content/uploads/sites/86/2020/03/TVOKids.jpg" group-title="Canada",TVO Kids
-https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
