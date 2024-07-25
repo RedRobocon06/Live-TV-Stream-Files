@@ -30,7 +30,7 @@ https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
 https://lnc-ion.tubi.video/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Qubo_logo.svg/432px-Qubo_logo.svg.png" group-title="USA (Eastern)",08.02 - Qubo
 https://ion-qubo-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="IONPlusEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/800px-ION_Plus_logo.svg.png" group-title="USA (Eastern)",08.03 - Ion Plus
+#EXTINF:0 tvg-id="IONPlusEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ion_Plus_2024.svg/800px-Ion_Plus_2024.svg.png" group-title="USA (Eastern)",08.03 - Ion Plus
 https://lnc-ion-plus.tubi.video/playlist.m3u8
 #EXTINF:0 tvg-id="CourtTVMystery.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/800px-ION_Mystery_logo.svg.png" group-title="USA (Eastern)",08.04 - Ion Mystery
 https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8
@@ -121,15 +121,15 @@ https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/800px-Universo_2017.svg.png" group-title="USA (Eastern)",18.03 - Universo
 
 #EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/6/6e/Telemundo_Puerto_Rico.png/revision/latest?cb=20210613155940" group-title="USA (Eastern)",18.04 - Telemundo Puerto Rico
-
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:0 tvg-id="UnivisionEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="USA (Eastern)",19.01 - Univision
-https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/as/live/univision_east2_hd_pc.m3u8?hdnea=st=1721917031~exp=1721917331~acl=*~id=ccebd759-d917-4d0f-a2cd-9201870a19d1~hmac=121e5965c899f13dd00f83ea7f3543b9f042a31f18efc8891feecbf80dde22d9&originpath=/linear/hls/pa/event/6dOH8HqxTnqnHWQk6s174g/stream/35544d83-284e-4fff-a6a2-385be4f4a841:DLS/master.m3u8
+
 #EXTINF:0 tvg-id="UniMasEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/220px-Logo_UniM%C3%A1s.svg.png" group-title="USA (Eastern)",19.02 - UniMás
-https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_pc.m3u8?hdnea=st=1721917104~exp=1721917404~acl=*~id=47bd1c5c-8d3f-4456-9bd6-2646015c668e~hmac=0bce547a3f81fccab98a9dc49adb91d9bfabb0d5e1f2e55249dea85fb100de74&originpath=/linear/hls/pa/event/kN-6Zb0QTYqGyoRBRQRPOQ/stream/193b305a-71cd-4d90-8833-07eabb8fb4d8:CBF2/master.m3u8
+
 #EXTINF:0 tvg-id="GalavisionEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/172px-Galavision_Logo_2013.svg.png" group-title="USA (Eastern)",19.03 - Galavision
-https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_east/as/live/galavision_east_hd_pc.m3u8?hdnea=st=1721917156~exp=1721917456~acl=*~id=77dae964-f37e-44ce-8c55-161e1c8a69ea~hmac=5d835f5369cd20d1f23104b671063651723b0ebdcf0863bf41fb35b8d20da07f&originpath=/linear/hls/pa/event/1m1Sh5n3TuyxYDOjgHObWQ/stream/ea7d2c62-e422-4401-8970-26305a59d98a:CBF2/master.m3u8
+
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/500px-TUDN_Logo.svg.png" group-title="USA (Eastern)",19.04 - TUDN
-https://unidfp-nlds135.global.ssl.fastly.net/nlds/univisionnow/udn/as/live/udn_hd_pc.m3u8?hdnea=st=1721917126~exp=1721917426~acl=*~id=a263e056-1b77-4cbc-9064-812067fa88e0~hmac=e58f1e1556409b490fd0202a688218416ae964549b8327dc5a75b497bb0e6f40&originpath=/linear/hls/pa/event/Ndqu5X37QiCrmNACIbTXqA/stream/93511570-0c1c-4d18-888a-e0b95e4e9b13:CBF2/master.m3u8
+
 #EXTINF:0 tvg-id="Fusion.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Fusion_TV_logo_2018.svg/273px-Fusion_TV_logo_2018.svg.png" group-title="USA (Eastern)",19.05 - Fusion TV
 
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/800px-Univision_tlnovelas_%282019%29.svg.png" group-title="USA (Eastern)",19.06 - Univision Tlnovelas
