@@ -88,7 +88,7 @@ https://buzzr-samsungus.amagi.tv/playlist.m3u8
 https://d3m10mlzdolmch.cloudfront.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/metv_nr_rt/ec1a82ca1e6b438daf35445bfbec9ad8/index.m3u8
 #EXTINF:0 tvg-id="WAAYDT8.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MeTV_Toons.png/800px-MeTV_Toons.png" group-title="USA (Eastern)",14.02 - MeTV Toons
 https://d3m10mlzdolmch.cloudfront.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/metv_toon_nr/0d1dbf29e64e47bc991796cc24fbeb97/index.m3u8
-#EXTINF:0 tvg-id="WCIUDT5.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/MeTV%25_2B_%25_282021%25_29.png" group-title="USA (Eastern)",14.03 - MeTV+
+#EXTINF:0 tvg-id="WCIUDT5.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/MeTV%2B_%282021%29.png/800px-MeTV%2B_%282021%29.png" group-title="USA (Eastern)",14.03 - MeTV+
 https://d3m10mlzdolmch.cloudfront.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/metvplus_nr_rt/00ff704f1eef4845a59227cf31705a01/index.m3u8
 #EXTINF:0 tvg-id="Decades.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Catchy_Comedy_logo.svg/600px-Catchy_Comedy_logo.svg.png" group-title="USA (Eastern)",14.03 - Catchy Comedy
 
