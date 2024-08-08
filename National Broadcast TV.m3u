@@ -42,7 +42,7 @@ https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 
 #EXTINF:0 tvg-id="Grit.TV.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Gritl-ogo1.gif/revision/latest/scale-to-width-down/200?cb=20140814235648" group-title="USA (Eastern)",08.08 - Grit
 
-#EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/LAFF_%28You_Know_You_Want_To%29.png/revision/latest?cb=20150810143650" group-title="USA (Eastern)",08.09 - Laff
+#EXTINF:0 tvg-id="Laff.TV.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/LAFF_%28You_Know_You_Want_To%29.png/revision/latest?cb=20150810143650" group-title="USA (Eastern)",08.09 - Laff
 
 #EXTINF:0 tvg-id="Scripps.News.Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Scripps_News_logo.svg/473px-Scripps_News_logo.svg.png" group-title="USA (Eastern)",08.10 - Scripps News
 https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8
@@ -74,7 +74,7 @@ https://tbn-jw.cdn.vustreams.com/live/smile/live.isml/playlist.m3u8
 https://tbn-jw.cdn.vustreams.com/live/inspire/live.isml/playlist.m3u8
 #EXTINF:0 tvg-id="TBN.Enlace.USA.(ENLAC).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Enlace_Televisi%C3%B3n_logo.svg/100px-Enlace_Televisi%C3%B3n_logo.svg.png" group-title="USA (Eastern)",11.04 - Enlace
 https://tbn-jw.cdn.vustreams.com/live/enlace/live.isml/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Positiv_TV_Network_Logo.png" group-title="USA (Eastern)",11.05 - Positiv
+#EXTINF:0 tvg-id="Posi.TV.(POSITIVE.TV).us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Positiv_TV_Network_Logo.png" group-title="USA (Eastern)",11.05 - Positiv
 https://tbn-jw.cdn.vustreams.com/live/positivtv/live.isml/playlist.m3u8
 #EXTINF:0 tvg-id="Antenna.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/800px-Antenna_TV_logo.svg.png" group-title="USA (Eastern)",12.01 - Antenna TV
 
@@ -154,7 +154,7 @@ https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_west/a
 
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/240px-Global_Television_Network_Logo.svg.png" group-title="Canada",Global
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Knowledge_Network_2012.svg/703px-Knowledge_Network_2012.svg.png" group-title="Canada",Knowledge Network
+#EXTINF:0 tvg-id="Knowledge.Network.(KNOW).ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Knowledge_Network_2012.svg/703px-Knowledge_Network_2012.svg.png" group-title="Canada",Knowledge Network
 
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/TVO_logo.svg/1200px-TVO_logo.svg.png" group-title="Canada",TVO
 

@@ -179,6 +179,6 @@ https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_356
 #EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/TruTV_2014_Green.svg/revision/latest/scale-to-width-down/800?cb=20170725091207" group-title="USA (Pacific)",TruTV (Pacific)
 https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/798px-Nickelodeon_2009_logo.svg.png" group-title="Canada",Nickelodeon (Canada)
+#EXTINF:0 tvg-id="Nickelodeon.Canada.(NICK).ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/798px-Nickelodeon_2009_logo.svg.png" group-title="Canada",Nickelodeon (Canada)
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/660px-Adult_Swim_2003_logo.svg.png" group-title="Canada",Adult Swim (Canada)
+#EXTINF:0 tvg-id="Adult.Swim.(ADSM).ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/660px-Adult_Swim_2003_logo.svg.png" group-title="Canada",Adult Swim (Canada)
