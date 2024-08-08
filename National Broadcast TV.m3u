@@ -6,7 +6,7 @@
 https://content.uplynk.com/channel/ext/c9aa5ed442aa42758f7788ecc0236e5e/Localish_National_Feed.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/1176px-CBS_logo.svg.png" group-title="USA (Eastern)",02.01 - CBS
 
-#EXTINF:0 tvg-id="Dabl.us" tvg-logo="https://i.imgur.com/x0JzXdF.png" group-title="USA (Eastern)",02.02 - Dabl
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/x0JzXdF.png" group-title="USA (Eastern)",02.02 - Dabl
 
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/1200px-The_CW.svg.png" group-title="USA (Eastern)",03.01 - The CW
 
@@ -14,7 +14,7 @@ https://content.uplynk.com/channel/ext/c9aa5ed442aa42758f7788ecc0236e5e/Localish
 
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/1137px-NBC_logo_%282013%29.svg.png" group-title="USA (Eastern)",04.01 - NBC
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/1920px-Cozi_TV_logo.svg.png" group-title="USA (Eastern)",04.02 - Cozi TV
+#EXTINF:0 tvg-id="COZI.TV.(COZI).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/1920px-Cozi_TV_logo.svg.png" group-title="USA (Eastern)",04.02 - Cozi TV
 
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="USA (Eastern)",05.01 - Fox
 
@@ -36,7 +36,7 @@ https://lnc-ion-plus.tubi.video/playlist.m3u8
 https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8
 #EXTINF:0 tvg-id="Bounce.TV.(Bounce).us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/692px-Bounce_TV_logo.svg.png" group-title="USA (Eastern)",08.05 - Bounce TV
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="USA (Eastern)",08.06 - Court TV
+#EXTINF:0 tvg-id="Court.TV.US.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="USA (Eastern)",08.06 - Court TV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://en.wikipedia.org/wiki/File:Defy_TV_logo.png" group-title="USA (Eastern)",08.07 - Defy TV
 
@@ -46,9 +46,9 @@ https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 
 #EXTINF:0 tvg-id="Scripps.News.Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Scripps_News_logo.svg/473px-Scripps_News_logo.svg.png" group-title="USA (Eastern)",08.10 - Scripps News
 https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/CkIxX82.png" group-title="USA (Eastern)",08.11 - QVC
+#EXTINF:0 tvg-id="Quality.Value.Convenience.Network.HDTV.(QVCHD).us" tvg-logo="https://i.imgur.com/CkIxX82.png" group-title="USA (Eastern)",08.11 - QVC
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="USA (Eastern)",08.12 - HSN
+#EXTINF:0 tvg-id="Home.Shopping.Network.(HSN).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="USA (Eastern)",08.12 - HSN
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TBD_Logo_2019.svg/1200px-TBD_Logo_2019.svg.png" group-title="USA (Eastern)",09.01 - TBD
 https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
@@ -56,7 +56,7 @@ https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 https://content.uplynk.com/channel/1698bf57810a48c486b83d542bca298d.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/1920px-Charge%21_Logo_2020.svg.png" group-title="USA (Eastern)",09.03 - Charge!
 https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/407px-Comet_logo.svg.png" group-title="USA (Eastern)",09.04 - Comet
+#EXTINF:0 tvg-id="Comet.TV.(COMET).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/407px-Comet_logo.svg.png" group-title="USA (Eastern)",09.04 - Comet
 https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1280px-PBS_logo.svg.png" group-title="USA (Eastern)",10.01 - PBS
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
@@ -114,7 +114,7 @@ https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
 https://dai.google.com/linear/hls/event/3EEsfZhASryigfuSpHdfKg/master.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/True_Crime_TV.png" group-title="USA (Eastern)",17.01 - True Crime Network
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/0fbIM3o.png" group-title="USA (Eastern)",18.01 - Telemundo
+#EXTINF:0 tvg-id="Telemundo.Network.(East).(TELMUN).us" tvg-logo="https://i.imgur.com/0fbIM3o.png" group-title="USA (Eastern)",18.01 - Telemundo
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Telexitos_logo.png" group-title="USA (Eastern)",18.02 - TeleXitos
 
