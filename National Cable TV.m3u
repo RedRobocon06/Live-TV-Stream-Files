@@ -29,29 +29,29 @@ http://fl5.moveonjoy.com/FXX/index.m3u8
 #EXTINF:0 tvg-id="NatGeo.WILD.HDTV.(NGWILD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/100px-National_Geographic_Wild_logo.svg.png" group-title="USA (Eastern)",National Geographic Wild
 
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CBS_Sports_Network_2021.svg/799px-CBS_Sports_Network_2021.svg.png" group-title="USA (Eastern)",CBS Sports Network
+#EXTINF:0 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CBS_Sports_Network_2021.svg/799px-CBS_Sports_Network_2021.svg.png" group-title="USA (Eastern)",CBS Sports Network
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/CMT_2017_logo.png/771px-CMT_2017_logo.png" group-title="USA (Eastern)",CMT
+#EXTINF:0 tvg-id="CMT.HDTV.(East).(CMTHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/CMT_2017_logo.png/771px-CMT_2017_logo.png" group-title="USA (Eastern)",CMT
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="USA (Eastern)",Comedy Central
+#EXTINF:0 tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="USA (Eastern)",Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/800px-MTV_2021_%28brand_version%29.svg.png" group-title="USA (Eastern)",MTV
+#EXTINF:0 tvg-id="MTV.HDTV.(East).(MTVHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/800px-MTV_2021_%28brand_version%29.svg.png" group-title="USA (Eastern)",MTV
 
-#EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Nickelodeon_Splat_2023.png/revision/latest?cb=20230724150722" group-title="USA (Eastern)",Nickelodeon
+#EXTINF:0 tvg-id="Nickelodeon.HDTV.(East).(NICHD).us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Nickelodeon_Splat_2023.png/revision/latest?cb=20230724150722" group-title="USA (Eastern)",Nickelodeon
 http://143.244.60.30/NICKELODEON/index.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png/revision/latest?cb=20231122165643" group-title="USA (Eastern)",Nick Jr.
+#EXTINF:0 tvg-id="Nick.Jr..(NicJr).us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png/revision/latest?cb=20231122165643" group-title="USA (Eastern)",Nick Jr.
 https://fl5.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/NickToons_US_2023_Splat_Variant.png/revision/latest?cb=20231109203100" group-title="USA (Eastern)",Nicktoons
+#EXTINF:0 tvg-id="Nicktoons.Network.(East).(NICKTOON).us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/NickToons_US_2023_Splat_Variant.png/revision/latest?cb=20231109203100" group-title="USA (Eastern)",Nicktoons
 http://143.244.60.30/NICKTOONS/index.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/TeenNick_2023_splat.png/revision/latest?cb=20231121172422" group-title="USA (Eastern)",TeenNick
+#EXTINF:0 tvg-id="TeenNick.(East).(TNCK).us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/TeenNick_2023_splat.png/revision/latest?cb=20231121172422" group-title="USA (Eastern)",TeenNick
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png" group-title="USA (Eastern)",Paramount Network
+#EXTINF:0 tvg-id="Paramount.Network.HDTV.(East).(PARHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png" group-title="USA (Eastern)",Paramount Network
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png" group-title="USA (Eastern)",Pop
+#EXTINF:0 tvg-id="Pop.(East).(POP).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png" group-title="USA (Eastern)",Pop
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/800px-TV_Land_2015_logo.svg.png" group-title="USA (Eastern)",TV Land
+#EXTINF:0 tvg-id="TV.Land.(East).(TVLAND).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/800px-TV_Land_2015_logo.svg.png" group-title="USA (Eastern)",TV Land
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="USA (Eastern)",VH1
+#EXTINF:0 tvg-id="VH1.HDTV.(East).(VH1HD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="USA (Eastern)",VH1
 
 
 
