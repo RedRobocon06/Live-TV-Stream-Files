@@ -25,7 +25,7 @@ https://content.uplynk.com/channel/ext/c9aa5ed442aa42758f7788ecc0236e5e/Localish
 #EXTINF:0 tvg-id="THIS.TV.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/THIS_TV_2021_LOGO.png/revision/latest?cb=20220328224305&format=original" group-title="USA (Eastern)",07.01 - This TV
 https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
 #EXTINF:0 tvg-id="The.Grio.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/The_Grio.svg/595px-The_Grio.svg.png" group-title="USA (Eastern)",07.02 - TheGrio
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1efad04320070007dbb60b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f172462b-904d-4db7-9ec4-3b737f9c18c2
 #EXTINF:0 tvg-id="ION.TV.East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/1920px-Ion_logo.svg.png" group-title="USA (Eastern)",08.01 - Ion
 https://lnc-ion.tubi.video/playlist.m3u8
 #EXTINF:0 tvg-id="Qubo.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Qubo_logo.svg/432px-Qubo_logo.svg.png" group-title="USA (Eastern)",08.02 - Qubo
@@ -105,7 +105,7 @@ https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
 #EXTINF:0 tvg-id="Retro.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" group-title="USA (Eastern)",15.02 - Retro TV
 https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
 #EXTINF:0 tvg-id="REVN.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Rev%27n_logo.jpg/800px-Rev%27n_logo.jpg" group-title="USA (Eastern)",15.03 - Rev'n
-
+https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/v1/5554e507e4b0d44531f00df2/1536000734821-10A96RJKIVRHNEJ4MLC8/actionchlogo.png" group-title="USA (Eastern)",15.04 - The Action Channel
 https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/The_Family_Channel_Logo.png" group-title="USA (Eastern)",15.05 - The Family Channel
