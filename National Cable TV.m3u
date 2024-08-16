@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="The.Disney.Channel.HDTV.(East).(DISHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/800px-2019_Disney_Channel_logo.svg.png" group-title="USA (Eastern)",Disney Channel
+#EXTINF:0 tvg-id="The.Disney.Channel.HDTV.(East).(DISHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/DisneyChannelEMEA.svg/497px-DisneyChannelEMEA.svg.png" group-title="USA (Eastern)",Disney Channel
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:0 tvg-id="Disney.Junior.HDTV.East.(DISJr).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/512px-Disney_Jr._2024.svg.png" group-title="USA (Eastern)",Disney Jr.
 https://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
@@ -50,13 +50,13 @@ http://fl3.moveonjoy.com/Logo/index.m3u8
 #EXTINF:0 tvg-id="MTV.HDTV.(East).(MTVHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/800px-MTV_2021_%28brand_version%29.svg.png" group-title="USA (Eastern)",MTV
 
 #EXTINF:0 tvg-id="MTV2.HDTV.(East).(MTV2HD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/319px-MTV2_logo_2013.svg.png" group-title="USA (Eastern)",MTV2
-
+https://fl5.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:0 tvg-id="MTV.Classic.(East).(MTVCL).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/732px-MTV_Classic_US.svg.png" group-title="USA (Eastern)",MTV Classic
-
+https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:0 tvg-id="MTV.Live.HDTV.(MTVL).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MTV_Live.svg/600px-MTV_Live.svg.png" group-title="USA (Eastern)",MTV Live
-
+https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:0 tvg-id="MTV-U.(MTV-U).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/712px-MTVU_Logo_%282016%E2%80%93present%29.svg.png" group-title="USA (Eastern)",MTVU
-
+https://fl5.moveonjoy.com/MTV_U/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MTV_Tres_2010_logo.svg/800px-MTV_Tres_2010_logo.svg.png" group-title="USA (Eastern)",MTV Tres
 
 #EXTINF:0 tvg-id="Nickelodeon.HDTV.(East).(NICHD).us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Nickelodeon_Splat_2023.png/revision/latest?cb=20230724150722" group-title="USA (Eastern)",Nickelodeon
