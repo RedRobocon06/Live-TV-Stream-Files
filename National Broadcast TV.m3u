@@ -90,15 +90,15 @@ https://buzzr-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:0 tvg-id="MeTV.Plus.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/MeTV%2B_%282021%29.png/800px-MeTV%2B_%282021%29.png" group-title="USA (Eastern)",14.03 - MeTV+
 
-#EXTINF:0 tvg-id="Catchy.Comedy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Catchy_Comedy_logo.svg/600px-Catchy_Comedy_logo.svg.png" group-title="USA (Eastern)",14.03 - Catchy Comedy
+#EXTINF:0 tvg-id="Catchy.Comedy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Catchy_Comedy_logo.svg/600px-Catchy_Comedy_logo.svg.png" group-title="USA (Eastern)",14.04 - Catchy Comedy
 
-#EXTINF:0 tvg-id="Heroes.and.Icons.H.and.I.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Heroes_%26_Icons_logo.svg/442px-Heroes_%26_Icons_logo.svg.png" group-title="USA (Eastern)",14.04 - Heroes & Icons
+#EXTINF:0 tvg-id="Heroes.and.Icons.H.and.I.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Heroes_%26_Icons_logo.svg/442px-Heroes_%26_Icons_logo.svg.png" group-title="USA (Eastern)",14.05 - Heroes & Icons
 
-#EXTINF:0 tvg-id="Movies!.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png" group-title="USA (Eastern)",14.05 - Movies!
+#EXTINF:0 tvg-id="Movies!.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png" group-title="USA (Eastern)",14.06 - Movies!
 
-#EXTINF:0 tvg-id="Start.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Start_TV_logo.svg/679px-Start_TV_logo.svg.png" group-title="USA (Eastern)",14.06 - Start TV
+#EXTINF:0 tvg-id="Start.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Start_TV_logo.svg/679px-Start_TV_logo.svg.png" group-title="USA (Eastern)",14.07 - Start TV
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Story_television_logo.png" group-title="USA (Eastern)",14.07 - Story Television
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Story_television_logo.png" group-title="USA (Eastern)",14.08 - Story Television
 https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png" group-title="USA (Eastern)",15.01 - Heartland
 https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
