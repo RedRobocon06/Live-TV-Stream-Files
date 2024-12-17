@@ -16,7 +16,7 @@ https://content.uplynk.com/channel/ext/c9aa5ed442aa42758f7788ecc0236e5e/Localish
 
 #EXTINF:0 tvg-id="Cozi.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/1920px-Cozi_TV_logo.svg.png" group-title="USA (Eastern)",04.02 - Cozi TV
 https://cdn.igocast.com/wkrp_channel2_hls/wkrp_channel2_master.m3u8
-#EXTINF:0 tvg-id="Telemundo.Network.(East).(TELMUN).us" tvg-logo="https://i.imgur.com/0fbIM3o.png" group-title="USA (Eastern)",04.03 - Telemundo
+#EXTINF:0 tvg-id="Telemundo..-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/0fbIM3o.png" group-title="USA (Eastern)",04.03 - Telemundo
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 #EXTINF:0 tvg-id="Telexitos.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Telexitos_logo.png" group-title="USA (Eastern)",04.04 - TeleXitos
 
@@ -94,7 +94,7 @@ https://buzzr-samsungus.amagi.tv/playlist.m3u8
 https://cdn.tcncountry.net/scte35_aws/index.m3u8
 #EXTINF:0 tvg-id="True.Crime.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/True_Crime_TV.png" group-title="USA (Eastern)",16.01 - True Crime Network
 
-#EXTINF:0 tvg-id="Quality.Value.Convenience.Network.HDTV.(QVCHD).us" tvg-logo="https://i.imgur.com/CkIxX82.png" group-title="USA (Eastern)",17.01 - QVC
+#EXTINF:0 tvg-id="QVC.us" tvg-logo="https://i.imgur.com/CkIxX82.png" group-title="USA (Eastern)",17.01 - QVC
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 #EXTINF:0 tvg-id="HSN.Home.Shopping.Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="USA (Eastern)",17.02 - HSN
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
@@ -106,7 +106,7 @@ https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 https://d1mxoeplf1ak5a.cloudfront.net/index.m3u8
 #EXTINF:0 tvg-id="PBS.World.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/World_Channel_2023.svg/473px-World_Channel_2023.svg.png" group-title="USA (Eastern)",18.04 - World
 https://world.lls.pbs.org/index.m3u8
-#EXTINF:0 tvg-id="Trinity.Broadcasting.Network.(TBN).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Trinity_Broadcasting_Network_logo_(2015).svg/799px-Trinity_Broadcasting_Network_logo_(2015).svg.png" group-title="USA (Eastern)",19.01 - TBN
+#EXTINF:0 tvg-id="TBN..-.Trinity.Broadcasting.Network.-.East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Trinity_Broadcasting_Network_logo_(2015).svg/799px-Trinity_Broadcasting_Network_logo_(2015).svg.png" group-title="USA (Eastern)",19.01 - TBN
 https://d15gk5a13gdlfb.cloudfront.net/v1/master/36da43ef19a73084c6c27662c7531ffa75a2f69f/prod_fast_TBN/tbn-freecast.m3u8
 #EXTINF:0 tvg-id="Hillsong.Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/TBN_Inspire_Logo.png" group-title="USA (Eastern)",19.02 - TBN Inspire
 
@@ -115,13 +115,13 @@ https://d2bn87a3fwf8gr.cloudfront.net/v1/master/36da43ef19a73084c6c27662c7531ffa
 #EXTINF:0 tvg-id="TBN.Enlace.USA.(ENLAC).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Enlace_Televisi%C3%B3n_logo.svg/100px-Enlace_Televisi%C3%B3n_logo.svg.png" group-title="USA (Eastern)",19.04 - Enlace
 
 
-#EXTINF:0 tvg-id="Univision.Network.HDTV.(UNIHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="USA (Eastern)",20.01 - Univision
+#EXTINF:0 tvg-id="Univision.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="USA (Eastern)",20.01 - Univision
 https://dai.google.com/linear/hls/event/MpRfxL7YRce-hMKhzSB7Ow/master.m3u8
 #EXTINF:0 tvg-id="UniMÃ¡s.(East).(UNIMAS).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/220px-Logo_UniM%C3%A1s.svg.png" group-title="USA (Eastern)",20.02 - UniMás
 https://dai.google.com/linear/hls/event/EGOkHfP3QliognmK9maivw/master.m3u8
-#EXTINF:0 tvg-id="Galavision.HDTV.(East).(GALAH).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/172px-Galavision_Logo_2013.svg.png" group-title="USA (Eastern)",20.03 - Galavision
+#EXTINF:0 tvg-id="Galavision.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/172px-Galavision_Logo_2013.svg.png" group-title="USA (Eastern)",20.03 - Galavision
 https://dai.google.com/linear/hls/event/4SHc_fddRJKEQ6UG_mtpjQ/master.m3u8
-#EXTINF:0 tvg-id="Tu.Deportes.Network.(TUDN).U.S..HDTV.(TUDNHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/500px-TUDN_Logo.svg.png" group-title="USA (Eastern)",20.04 - TUDN
+#EXTINF:0 tvg-id="TUDN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/500px-TUDN_Logo.svg.png" group-title="USA (Eastern)",20.04 - TUDN
 
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Fusion_TV_logo_2018.svg/273px-Fusion_TV_logo_2018.svg.png" group-title="USA (Eastern)",20.05 - Fusion TV
 
