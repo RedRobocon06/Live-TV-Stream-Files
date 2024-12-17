@@ -35,7 +35,7 @@ https://apollo.production-public.tubi.io/live/ac-ion.m3u8
 #EXTINF:0 tvg-id="ION.Plus.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ion_Plus_2024.svg/800px-Ion_Plus_2024.svg.png" group-title="USA (Eastern)",08.02 - Ion Plus
 https://apollo.production-public.tubi.io/live/ac-ion-plus.m3u8
 #EXTINF:0 tvg-id="Ion.Mystery.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/800px-ION_Mystery_logo.svg.png" group-title="USA (Eastern)",08.03 - Ion Mystery
-https://apollo.production-public.tubi.io/live/ion-mystery.m3u8
+https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8
 #EXTINF:0 tvg-id="Bounce.TV.(Bounce).us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/692px-Bounce_TV_logo.svg.png" group-title="USA (Eastern)",08.04 - Bounce TV
 
 #EXTINF:0 tvg-id="Court.TV.US.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="USA (Eastern)",08.05 - Court TV
@@ -91,7 +91,7 @@ https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
 #EXTINF:0 tvg-id="Buzzr.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/600px-Buzzr_logo.svg.png" group-title="USA (Eastern)",14.01 - Buzzr
 https://buzzr-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://kathyharrisbooks.com/wp-content/uploads/2010/11/logo.png" group-title="USA (Eastern)",15.01 - The Country Network
-https://cdn.tcncountry.net/scte35_aws/index.m3u8
+https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist720p.m3u8
 #EXTINF:0 tvg-id="True.Crime.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/True_Crime_TV.png" group-title="USA (Eastern)",16.01 - True Crime Network
 
 #EXTINF:0 tvg-id="QVC.us" tvg-logo="https://i.imgur.com/CkIxX82.png" group-title="USA (Eastern)",17.01 - QVC
@@ -123,7 +123,7 @@ https://dai.google.com/linear/hls/event/EGOkHfP3QliognmK9maivw/master.m3u8
 https://dai.google.com/linear/hls/event/4SHc_fddRJKEQ6UG_mtpjQ/master.m3u8
 #EXTINF:0 tvg-id="TUDN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/500px-TUDN_Logo.svg.png" group-title="USA (Eastern)",20.04 - TUDN
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Fusion_TV_logo_2018.svg/273px-Fusion_TV_logo_2018.svg.png" group-title="USA (Eastern)",20.05 - Fusion TV
+#EXTINF:0 tvg-id="Fusion.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Fusion_TV_logo_2018.svg/273px-Fusion_TV_logo_2018.svg.png" group-title="USA (Eastern)",20.05 - Fusion TV
 
 #EXTINF:0 tvg-id="UnivisiÃ³n.tlnovelas.(TLNOV).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/800px-Univision_tlnovelas_%282019%29.svg.png" group-title="USA (Eastern)",20.06 - Univision Tlnovelas
 
