@@ -32,7 +32,7 @@ http://143.244.60.30/FOX_EAST/index.m3u8
 
 #EXTINF:0 tvg-id="ION.TV.East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/1920px-Ion_logo.svg.png" group-title="USA (Eastern)",08.01 - Ion
 https://apollo.production-public.tubi.io/live/ac-ion.m3u8
-#EXTINF:0 tvg-id="ION.Plus.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ion_Plus_2024.svg/800px-Ion_Plus_2024.svg.png" group-title="USA (Eastern)",08.02 - Ion Plus
+#EXTINF:0 tvg-id="ION.Plus.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ion_Plus_2024.svg/800px-Ion_Plus_2024.svg.png" group-title="USA (Eastern)",08.02 - Ion Plus
 https://apollo.production-public.tubi.io/live/ac-ion-plus.m3u8
 #EXTINF:0 tvg-id="Ion.Mystery.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/800px-ION_Mystery_logo.svg.png" group-title="USA (Eastern)",08.03 - Ion Mystery
 https://apollo.production-public.tubi.io/live/ion-mystery.m3u8
@@ -76,9 +76,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 
 #EXTINF:0 tvg-id="Start.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Start_TV_logo.svg/679px-Start_TV_logo.svg.png" group-title="USA (Eastern)",12.07 - Start TV
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Story_television_logo.png" group-title="USA (Eastern)",12.08 - Story Television
+#EXTINF:0 tvg-id="Story.(WNWT-LD).New.York,.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Story_television_logo.png" group-title="USA (Eastern)",12.08 - Story Television
 https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/The_Family_Channel_Logo.png" group-title="USA (Eastern)",13.01 - The Family Channel
+#EXTINF:0 tvg-id="FAM.Family.Channel.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/The_Family_Channel_Logo.png" group-title="USA (Eastern)",13.01 - The Family Channel
 
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png" group-title="USA (Eastern)",13.02 - Heartland
 https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
