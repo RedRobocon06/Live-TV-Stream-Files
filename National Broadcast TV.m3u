@@ -16,136 +16,127 @@ https://content.uplynk.com/channel/ext/c9aa5ed442aa42758f7788ecc0236e5e/Localish
 
 #EXTINF:0 tvg-id="Cozi.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/1920px-Cozi_TV_logo.svg.png" group-title="USA (Eastern)",04.02 - Cozi TV
 https://cdn.igocast.com/wkrp_channel2_hls/wkrp_channel2_master.m3u8
+#EXTINF:0 tvg-id="Telemundo.Network.(East).(TELMUN).us" tvg-logo="https://i.imgur.com/0fbIM3o.png" group-title="USA (Eastern)",04.03 - Telemundo
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
+#EXTINF:0 tvg-id="Telexitos.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Telexitos_logo.png" group-title="USA (Eastern)",04.04 - TeleXitos
+
+#EXTINF:0 tvg-id="UNIVERSO.HDTV.(East).(UNVSOHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/800px-Universo_2017.svg.png" group-title="USA (Eastern)",04.05 - Universo
+
+#EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/6/6e/Telemundo_Puerto_Rico.png/revision/latest?cb=20210613155940" group-title="USA (Eastern)",04.06 - Telemundo Puerto Rico
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="USA (Eastern)",05.01 - Fox
 http://143.244.60.30/FOX_EAST/index.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Fox-Soul-logo-network.png" group-title="USA (Eastern)",05.02 - Fox Soul
-https://apollo.production-public.tubi.io/live/ac-fox-soul-scte.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="USA (Eastern)",06.01 - MyNetworkTV
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="USA (Eastern)",05.02 - MyNetworkTV
 
-#EXTINF:0 tvg-id="Get.TV.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/GET_2023.svg/revision/latest?cb=20230918231259" group-title="USA (Eastern)",06.02 - Get
-https://osm.sr.roku.com/osm/v1/dash/init/0077a132-fc36-4406-abb9-5ce6bd931fcb/8595fd0e2d1c49ad9ad340f913e5cb71/index.mpd?traceId=2f15cd84a2ea16791c4e26e93419957d&ads.queryString=version%3D1.0%26inv_type%3Drr%26sz%3D1920x1080%26ssai_req%3D1%26partner_title_id%3DROKU_PARTNER_VIDEO_PROVIDER_ID%26coppa%3D0%26min_ad_duration%3D0%26max_ad_duration%3D92000%26is_raf%3D1%26is_roku%3D1%26rdid%3Daa6a6e6f-d2d8-5619-9c6f-1e6cc7cc06f1%26ottid%3DOTT_ADS_TRACKING_ID%26is_lat%3DOTT_ADS_LIMIT_TRACKING%26is_roku_lat%3D0%26idtype%3DOTT_ID_TYPE%26correlator%3DOTT_ADS_TIMESTAMP%26scor%3DOTT_ADS_TIMESTAMP%26pod_min%3D0%26pod_ads%3D6%26pod%3DPOD_NUM%26ppos%3DPOD_POSITION%26ad_vertical%3DOTT_AD_VERTICAL%26ad_roll%3DAD_ROLL%26genre%3Dentertainment%2Ccomedy%2Ccrime%26content%3Dd54dae14466b380a18d261ff2048e25e%26length%3DROKU_ADS_CONTENT_LENGTH%26device%3DOTT_DEVICE_MODEL%26ai%3D151908%26channel_id%3D151908%26ott_app_id%3DOTT_ADS_APP_ID%26roku_cust_param%3Dchannelstore%253Dus%2526tags%253DROKU_CONTENT_TAGS%2526bmodel%253Dbm1%2526device_lang%253DROKU_ADS_LOCALE%2526unlocked%253D0%2526indirect_app_id%253D151908%26series_id%3DROKU_ADS_SERIES_ID%26platform%3Dweb%26studio_id%3Dgsn%26season_id%3DROKU_ADS_SEASON_ID%26content_rating%3DTV14%26content_type%3Dlivefeed%26iab_content_cat%3D640%252C646%252C380%26content_language%3Den%26content_subtitle%3DROKU_CONTENT_SUBTITLE%26tag_type%3DVAST%26rtid%3DJeCoVK7gLSPjxF6KfMBl%26is_pod%3D1%26tag_category%3DTRC%26tag_sub_category%3DLIVE%26family_directed%3DOTT_CONTENT_FAMILY_DIRECTED%26givn%3DROKU_ADS_GOOGLE_GIVN%26enable_demand_boost%3D1%26tamRequestId%3D62970ba3-ecab-5bb0-8b37-672af6f200d7%26tamPolicyId%3D132
-#EXTINF:0 tvg-id="THIS.TV.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/THIS_TV_2021_LOGO.png/revision/latest?cb=20220328224305&format=original" group-title="USA (Eastern)",07.01 - This TV
-https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
-#EXTINF:0 tvg-id="The.Grio.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/The_Grio.svg/595px-The_Grio.svg.png" group-title="USA (Eastern)",07.02 - TheGrio
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1efad04320070007dbb60b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f172462b-904d-4db7-9ec4-3b737f9c18c2
+#EXTINF:0 tvg-id="Get.TV.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/GET_2023.svg/revision/latest?cb=20230918231259" group-title="USA (Eastern)",06.01 - Get
+
 #EXTINF:0 tvg-id="ION.TV.East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/1920px-Ion_logo.svg.png" group-title="USA (Eastern)",08.01 - Ion
 https://apollo.production-public.tubi.io/live/ac-ion.m3u8
-#EXTINF:0 tvg-id="Qubo.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Qubo_logo.svg/432px-Qubo_logo.svg.png" group-title="USA (Eastern)",08.02 - Qubo
-https://ion-qubo-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ION.Plus.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ion_Plus_2024.svg/800px-Ion_Plus_2024.svg.png" group-title="USA (Eastern)",08.03 - Ion Plus
+#EXTINF:0 tvg-id="ION.Plus.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ion_Plus_2024.svg/800px-Ion_Plus_2024.svg.png" group-title="USA (Eastern)",08.02 - Ion Plus
 https://apollo.production-public.tubi.io/live/ac-ion-plus.m3u8
-#EXTINF:0 tvg-id="Ion.Mystery.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/800px-ION_Mystery_logo.svg.png" group-title="USA (Eastern)",08.04 - Ion Mystery
+#EXTINF:0 tvg-id="Ion.Mystery.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/800px-ION_Mystery_logo.svg.png" group-title="USA (Eastern)",08.03 - Ion Mystery
 https://apollo.production-public.tubi.io/live/ion-mystery.m3u8
-#EXTINF:0 tvg-id="Bounce.TV.(Bounce).us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/692px-Bounce_TV_logo.svg.png" group-title="USA (Eastern)",08.05 - Bounce TV
+#EXTINF:0 tvg-id="Bounce.TV.(Bounce).us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/692px-Bounce_TV_logo.svg.png" group-title="USA (Eastern)",08.04 - Bounce TV
 
-#EXTINF:0 tvg-id="Court.TV.US.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="USA (Eastern)",08.06 - Court TV
+#EXTINF:0 tvg-id="Court.TV.US.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="USA (Eastern)",08.05 - Court TV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
-#EXTINF:0 tvg-id="Defy.TV.us" tvg-logo="https://en.wikipedia.org/wiki/File:Defy_TV_logo.png" group-title="USA (Eastern)",08.07 - Defy TV
+#EXTINF:0 tvg-id="Defy.TV.us" tvg-logo="https://en.wikipedia.org/wiki/File:Defy_TV_logo.png" group-title="USA (Eastern)",08.06 - Defy TV
 
-#EXTINF:0 tvg-id="Grit.TV.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Gritl-ogo1.gif/revision/latest/scale-to-width-down/200?cb=20140814235648" group-title="USA (Eastern)",08.08 - Grit
+#EXTINF:0 tvg-id="Grit.TV.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Gritl-ogo1.gif/revision/latest/scale-to-width-down/200?cb=20140814235648" group-title="USA (Eastern)",08.07 - Grit
 
-#EXTINF:0 tvg-id="Laff.TV.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/LAFF_%28You_Know_You_Want_To%29.png/revision/latest?cb=20150810143650" group-title="USA (Eastern)",08.09 - Laff
+#EXTINF:0 tvg-id="Laff.TV.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/LAFF_%28You_Know_You_Want_To%29.png/revision/latest?cb=20150810143650" group-title="USA (Eastern)",08.08 - Laff
 
-#EXTINF:0 tvg-id="Scripps.News.Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Scripps_News_logo.svg/473px-Scripps_News_logo.svg.png" group-title="USA (Eastern)",08.10 - Scripps News
+#EXTINF:0 tvg-id="Scripps.News.Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Scripps_News_logo.svg/473px-Scripps_News_logo.svg.png" group-title="USA (Eastern)",08.09 - Scripps News
 https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8
-#EXTINF:0 tvg-id="Quality.Value.Convenience.Network.HDTV.(QVCHD).us" tvg-logo="https://i.imgur.com/CkIxX82.png" group-title="USA (Eastern)",08.11 - QVC
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
-#EXTINF:0 tvg-id="HSN.Home.Shopping.Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="USA (Eastern)",08.12 - HSN
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
 #EXTINF:0 tvg-id="TBD.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TBD_Logo_2019.svg/1200px-TBD_Logo_2019.svg.png" group-title="USA (Eastern)",09.01 - TBD
 https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/KidsClickLogo.png" group-title="USA (Eastern)",09.02 - KidsClick
-https://content.uplynk.com/channel/1698bf57810a48c486b83d542bca298d.m3u8
-#EXTINF:0 tvg-id="Charge.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/1920px-Charge%21_Logo_2020.svg.png" group-title="USA (Eastern)",09.03 - Charge!
+#EXTINF:0 tvg-id="Charge.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/1920px-Charge%21_Logo_2020.svg.png" group-title="USA (Eastern)",09.02 - Charge!
 https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:0 tvg-id="Comet.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/407px-Comet_logo.svg.png" group-title="USA (Eastern)",09.04 - Comet
+#EXTINF:0 tvg-id="Comet.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/407px-Comet_logo.svg.png" group-title="USA (Eastern)",09.03 - Comet
 https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
-#EXTINF:0 tvg-id="PBS.Eastern.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1280px-PBS_logo.svg.png" group-title="USA (Eastern)",10.01 - PBS
-https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:0 tvg-id="PBS.Kids.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_(2022).svg/600px-PBS_Kids_logo_(2022).svg.png" group-title="USA (Eastern)",10.02 - PBS Kids
-https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
-#EXTINF:0 tvg-id="Create.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/800px-Create_TV_network_logo.svg.png" group-title="USA (Eastern)",10.03 - PBS Create
-https://d1mxoeplf1ak5a.cloudfront.net/index.m3u8
-#EXTINF:0 tvg-id="PBS.World.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/World_Channel_2023.svg/473px-World_Channel_2023.svg.png" group-title="USA (Eastern)",10.04 - PBS World
-https://world.lls.pbs.org/index.m3u8
-#EXTINF:0 tvg-id="Trinity.Broadcasting.Network.(TBN).us" tvg-logo="https://help.yippee.tv/hs-fs/hubfs/TBN%20Logo.jpg?width=5674&name=TBN%20Logo.jpg" group-title="USA (Eastern)",11.01 - TBN
-https://d7ge95bb03xsu.cloudfront.net/out/v1/0c95a89614194912834019fc37d741ef/tbn-freecast.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/HL4phgR.png" group-title="USA (Eastern)",11.02 - TBN Smile
-https://tbn-jw.cdn.vustreams.com/live/smile/live.isml/playlist.m3u8
-#EXTINF:0 tvg-id="Hillsong.Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/TBN_Inspire_Logo.png" group-title="USA (Eastern)",11.03 - TBN Inspire
-https://tbn-jw.cdn.vustreams.com/live/inspire/live.isml/playlist.m3u8
-#EXTINF:0 tvg-id="TBN.Enlace.USA.(ENLAC).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Enlace_Televisi%C3%B3n_logo.svg/100px-Enlace_Televisi%C3%B3n_logo.svg.png" group-title="USA (Eastern)",11.04 - Enlace
-https://tbn-jw.cdn.vustreams.com/live/enlace/live.isml/playlist.m3u8
-#EXTINF:0 tvg-id="Posi.TV.(POSITIVE.TV).us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Positiv_TV_Network_Logo.png" group-title="USA (Eastern)",11.05 - Positiv
-https://tbn-jw.cdn.vustreams.com/live/positivtv/live.isml/playlist.m3u8
-#EXTINF:0 tvg-id="Antenna.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/800px-Antenna_TV_logo.svg.png" group-title="USA (Eastern)",12.01 - Antenna TV
+#EXTINF:0 tvg-id="Antenna.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/800px-Antenna_TV_logo.svg.png" group-title="USA (Eastern)",10.01 - Antenna TV
 
-#EXTINF:0 tvg-id="Rewind.TV.East.(WPIX-DT4).us" tvg-logo="https://rewindtv.com/wp-content/uploads/2021/08/RewindTV_logo_primary_white_withtagline-1024x313.png" group-title="USA (Eastern)",12.02 - Rewind TV
+#EXTINF:0 tvg-id="Rewind.TV.East.(WPIX-DT4).us" tvg-logo="https://rewindtv.com/wp-content/uploads/2021/08/RewindTV_logo_primary_white_withtagline-1024x313.png" group-title="USA (Eastern)",10.02 - Rewind TV
 
-#EXTINF:0 tvg-id="NewsNation.HDTV.(NEWSNTN).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/NewsNation_logo.svg/512px-NewsNation_logo.svg.png" group-title="USA (Eastern)",12.03 - NewsNation
+#EXTINF:0 tvg-id="NewsNation.HDTV.(NEWSNTN).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/NewsNation_logo.svg/512px-NewsNation_logo.svg.png" group-title="USA (Eastern)",10.03 - NewsNation
 
-#EXTINF:0 tvg-id="Buzzr.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/600px-Buzzr_logo.svg.png" group-title="USA (Eastern)",13.01 - Buzzr
-https://buzzr-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="Me.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/1920px-MeTV_Logo.svg.png" group-title="USA (Eastern)",14.01 - MeTV
+#EXTINF:0 tvg-id="The.Grio.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/The_Grio.svg/595px-The_Grio.svg.png" group-title="USA (Eastern)",11.01 - TheGrio
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1efad04320070007dbb60b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f172462b-904d-4db7-9ec4-3b737f9c18c2
+#EXTINF:0 tvg-id="Me.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/1920px-MeTV_Logo.svg.png" group-title="USA (Eastern)",12.01 - MeTV
 
-#EXTINF:0 tvg-id="MeTV.Toons.(WJLP2).NJ.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MeTV_Toons.png/800px-MeTV_Toons.png" group-title="USA (Eastern)",14.02 - MeTV Toons
+#EXTINF:0 tvg-id="MeTV.Toons.(WJLP2).NJ.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MeTV_Toons.png/800px-MeTV_Toons.png" group-title="USA (Eastern)",12.02 - MeTV Toons
 
-#EXTINF:0 tvg-id="MeTV.Plus.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/MeTV%2B_%282021%29.png/800px-MeTV%2B_%282021%29.png" group-title="USA (Eastern)",14.03 - MeTV+
+#EXTINF:0 tvg-id="MeTV.Plus.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/MeTV%2B_%282021%29.png/800px-MeTV%2B_%282021%29.png" group-title="USA (Eastern)",12.03 - MeTV+
 
-#EXTINF:0 tvg-id="Catchy.Comedy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Catchy_Comedy_logo.svg/600px-Catchy_Comedy_logo.svg.png" group-title="USA (Eastern)",14.04 - Catchy Comedy
+#EXTINF:0 tvg-id="Catchy.Comedy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Catchy_Comedy_logo.svg/600px-Catchy_Comedy_logo.svg.png" group-title="USA (Eastern)",12.04 - Catchy Comedy
 
-#EXTINF:0 tvg-id="Heroes.and.Icons.H.and.I.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Heroes_%26_Icons_logo.svg/442px-Heroes_%26_Icons_logo.svg.png" group-title="USA (Eastern)",14.05 - Heroes & Icons
+#EXTINF:0 tvg-id="Heroes.and.Icons.H.and.I.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Heroes_%26_Icons_logo.svg/442px-Heroes_%26_Icons_logo.svg.png" group-title="USA (Eastern)",12.05 - Heroes & Icons
 
-#EXTINF:0 tvg-id="Movies!.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png" group-title="USA (Eastern)",14.06 - Movies!
+#EXTINF:0 tvg-id="Movies!.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png" group-title="USA (Eastern)",12.06 - Movies!
 
-#EXTINF:0 tvg-id="Start.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Start_TV_logo.svg/679px-Start_TV_logo.svg.png" group-title="USA (Eastern)",14.07 - Start TV
+#EXTINF:0 tvg-id="Start.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Start_TV_logo.svg/679px-Start_TV_logo.svg.png" group-title="USA (Eastern)",12.07 - Start TV
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Story_television_logo.png" group-title="USA (Eastern)",14.08 - Story Television
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Story_television_logo.png" group-title="USA (Eastern)",12.08 - Story Television
 https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png" group-title="USA (Eastern)",15.01 - Heartland
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/The_Family_Channel_Logo.png" group-title="USA (Eastern)",13.01 - The Family Channel
+
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png" group-title="USA (Eastern)",13.02 - Heartland
 https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
-#EXTINF:0 tvg-id="Retro.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" group-title="USA (Eastern)",15.02 - Retro TV
+#EXTINF:0 tvg-id="Retro.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" group-title="USA (Eastern)",13.03 - Retro TV
 https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
-#EXTINF:0 tvg-id="REVN.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Rev%27n_logo.jpg/800px-Rev%27n_logo.jpg" group-title="USA (Eastern)",15.03 - Rev'n
+#EXTINF:0 tvg-id="REVN.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Rev%27n_logo.jpg/800px-Rev%27n_logo.jpg" group-title="USA (Eastern)",13.04 - Rev'n
 https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/v1/5554e507e4b0d44531f00df2/1536000734821-10A96RJKIVRHNEJ4MLC8/actionchlogo.png" group-title="USA (Eastern)",15.04 - The Action Channel
+#EXTINF:0 tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/v1/5554e507e4b0d44531f00df2/1536000734821-10A96RJKIVRHNEJ4MLC8/actionchlogo.png" group-title="USA (Eastern)",13.05 - The Action Channel
 https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/The_Family_Channel_Logo.png" group-title="USA (Eastern)",15.05 - The Family Channel
-
-#EXTINF:0 tvg-id="" tvg-logo="https://kathyharrisbooks.com/wp-content/uploads/2010/11/logo.png" group-title="USA (Eastern)",16.01 - The Country Network
+#EXTINF:0 tvg-id="Buzzr.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/600px-Buzzr_logo.svg.png" group-title="USA (Eastern)",14.01 - Buzzr
+https://buzzr-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://kathyharrisbooks.com/wp-content/uploads/2010/11/logo.png" group-title="USA (Eastern)",15.01 - The Country Network
 https://cdn.tcncountry.net/scte35_aws/index.m3u8
-#EXTINF:0 tvg-id="True.Crime.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/True_Crime_TV.png" group-title="USA (Eastern)",17.01 - True Crime Network
+#EXTINF:0 tvg-id="True.Crime.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/True_Crime_TV.png" group-title="USA (Eastern)",16.01 - True Crime Network
 
-#EXTINF:0 tvg-id="Telemundo.Network.(East).(TELMUN).us" tvg-logo="https://i.imgur.com/0fbIM3o.png" group-title="USA (Eastern)",18.01 - Telemundo
-https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
-#EXTINF:0 tvg-id="Telexitos.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Telexitos_logo.png" group-title="USA (Eastern)",18.02 - TeleXitos
+#EXTINF:0 tvg-id="Quality.Value.Convenience.Network.HDTV.(QVCHD).us" tvg-logo="https://i.imgur.com/CkIxX82.png" group-title="USA (Eastern)",17.01 - QVC
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
+#EXTINF:0 tvg-id="HSN.Home.Shopping.Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="USA (Eastern)",17.02 - HSN
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
+#EXTINF:0 tvg-id="PBS.Eastern.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1280px-PBS_logo.svg.png" group-title="USA (Eastern)",18.01 - PBS
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:0 tvg-id="PBS.Kids.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_(2022).svg/600px-PBS_Kids_logo_(2022).svg.png" group-title="USA (Eastern)",18.02 - PBS Kids
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+#EXTINF:0 tvg-id="Create.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/800px-Create_TV_network_logo.svg.png" group-title="USA (Eastern)",18.03 - Create
+https://d1mxoeplf1ak5a.cloudfront.net/index.m3u8
+#EXTINF:0 tvg-id="PBS.World.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/World_Channel_2023.svg/473px-World_Channel_2023.svg.png" group-title="USA (Eastern)",18.04 - World
+https://world.lls.pbs.org/index.m3u8
+#EXTINF:0 tvg-id="Trinity.Broadcasting.Network.(TBN).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Trinity_Broadcasting_Network_logo_(2015).svg/799px-Trinity_Broadcasting_Network_logo_(2015).svg.png" group-title="USA (Eastern)",19.01 - TBN
+https://d15gk5a13gdlfb.cloudfront.net/v1/master/36da43ef19a73084c6c27662c7531ffa75a2f69f/prod_fast_TBN/tbn-freecast.m3u8
+#EXTINF:0 tvg-id="Hillsong.Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/TBN_Inspire_Logo.png" group-title="USA (Eastern)",19.02 - TBN Inspire
 
-#EXTINF:0 tvg-id="UNIVERSO.HDTV.(East).(UNVSOHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/800px-Universo_2017.svg.png" group-title="USA (Eastern)",18.03 - Universo
+#EXTINF:0 tvg-id="Posi.TV.(POSITIVE.TV).us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Positiv_TV_Network_Logo.png" group-title="USA (Eastern)",19.03 - Positiv
+https://d2bn87a3fwf8gr.cloudfront.net/v1/master/36da43ef19a73084c6c27662c7531ffa75a2f69f/prod_fast_Positiv/positive-freecast.m3u8
+#EXTINF:0 tvg-id="TBN.Enlace.USA.(ENLAC).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Enlace_Televisi%C3%B3n_logo.svg/100px-Enlace_Televisi%C3%B3n_logo.svg.png" group-title="USA (Eastern)",19.04 - Enlace
 
-#EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/6/6e/Telemundo_Puerto_Rico.png/revision/latest?cb=20210613155940" group-title="USA (Eastern)",18.04 - Telemundo Puerto Rico
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:0 tvg-id="Univision.Network.HDTV.(UNIHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="USA (Eastern)",19.01 - Univision
+
+#EXTINF:0 tvg-id="Univision.Network.HDTV.(UNIHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="USA (Eastern)",20.01 - Univision
 https://dai.google.com/linear/hls/event/MpRfxL7YRce-hMKhzSB7Ow/master.m3u8
-#EXTINF:0 tvg-id="UniMÃ¡s.(East).(UNIMAS).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/220px-Logo_UniM%C3%A1s.svg.png" group-title="USA (Eastern)",19.02 - UniMás
+#EXTINF:0 tvg-id="UniMÃ¡s.(East).(UNIMAS).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/220px-Logo_UniM%C3%A1s.svg.png" group-title="USA (Eastern)",20.02 - UniMás
 https://dai.google.com/linear/hls/event/EGOkHfP3QliognmK9maivw/master.m3u8
-#EXTINF:0 tvg-id="Galavision.HDTV.(East).(GALAH).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/172px-Galavision_Logo_2013.svg.png" group-title="USA (Eastern)",19.03 - Galavision
+#EXTINF:0 tvg-id="Galavision.HDTV.(East).(GALAH).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/172px-Galavision_Logo_2013.svg.png" group-title="USA (Eastern)",20.03 - Galavision
 https://dai.google.com/linear/hls/event/4SHc_fddRJKEQ6UG_mtpjQ/master.m3u8
-#EXTINF:0 tvg-id="Tu.Deportes.Network.(TUDN).U.S..HDTV.(TUDNHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/500px-TUDN_Logo.svg.png" group-title="USA (Eastern)",19.04 - TUDN
-https://unidfp-nlds135.global.ssl.fastly.net/nlds/univisionnow/udn/as/live/udn_hd_pc.m3u8?t1=test_token
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Fusion_TV_logo_2018.svg/273px-Fusion_TV_logo_2018.svg.png" group-title="USA (Eastern)",19.05 - Fusion TV
+#EXTINF:0 tvg-id="Tu.Deportes.Network.(TUDN).U.S..HDTV.(TUDNHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/500px-TUDN_Logo.svg.png" group-title="USA (Eastern)",20.04 - TUDN
 
-#EXTINF:0 tvg-id="UnivisiÃ³n.tlnovelas.(TLNOV).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/800px-Univision_tlnovelas_%282019%29.svg.png" group-title="USA (Eastern)",19.06 - Univision Tlnovelas
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Fusion_TV_logo_2018.svg/273px-Fusion_TV_logo_2018.svg.png" group-title="USA (Eastern)",20.05 - Fusion TV
 
-#EXTINF:0 tvg-id="Vme.(Vme).us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/V-me_Channel_Logo.png" group-title="USA (Eastern)",20.01 - V-me
+#EXTINF:0 tvg-id="UnivisiÃ³n.tlnovelas.(TLNOV).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/800px-Univision_tlnovelas_%282019%29.svg.png" group-title="USA (Eastern)",20.06 - Univision Tlnovelas
 
-#EXTINF:0 tvg-id="Vme.Kids.(VKIDS).us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Vme_Kids_Logo.png" group-title="USA (Eastern)",20.02 - V-me Kids
+#EXTINF:0 tvg-id="Vme.(Vme).us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/V-me_Channel_Logo.png" group-title="USA (Eastern)",21.01 - V-me
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Primo_TV_logo.png" group-title="USA (Eastern)",20.03 - Primo TV
+#EXTINF:0 tvg-id="Vme.Kids.(VKIDS).us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Vme_Kids_Logo.png" group-title="USA (Eastern)",21.02 - V-me Kids
+
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Primo_TV_logo.png" group-title="USA (Eastern)",21.03 - Primo TV
 
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1280px-PBS_logo.svg.png" group-title="USA (Pacific)",10.01 - PBS (Pacific)
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1280px-PBS_logo.svg.png" group-title="USA (Pacific)",18.01 - PBS (Pacific)
 https://pbs.lls.cdn.pbs.org/pst/index.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/172px-Galavision_Logo_2013.svg.png" group-title="USA (Pacific)",19.03 - Galavision (Pacific)
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/172px-Galavision_Logo_2013.svg.png" group-title="USA (Pacific)",20.03 - Galavision (Pacific)
 https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_west/as/live/galavision_west_hd_pc.m3u8?t1=test_token
 
 #EXTINF:0 tvg-id="" tvg-logo="https://uploads-ssl.webflow.com/58bc812f0a7c9e445e1dc555/60be78a4119ed3b4d0746fd6_CBC-Television-Logo.png" group-title="Canada",CBC
