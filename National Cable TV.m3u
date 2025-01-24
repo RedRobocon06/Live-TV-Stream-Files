@@ -1,21 +1,21 @@
 #EXTM3U
 
 #EXTINF:0 tvg-id="The.Disney.Channel.HDTV.(East).(DISHD).us" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/04/Disney_Channel_2D_Logo_2024.png/revision/latest?cb=20241115003318" group-title="USA (Eastern)",Disney Channel
-
+https://xyzdddd.mizhls.ru/lb/premium312/index.m3u8
 #EXTINF:0 tvg-id="Disney.Junior.HDTV.East.(DISJr).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/512px-Disney_Jr._2024.svg.png" group-title="USA (Eastern)",Disney Jr.
 https://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:0 tvg-id="Disney.XD.(East).(DISXD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/725px-Disney_XD_-_2015.svg.png" group-title="USA (Eastern)",Disney XD
-
+https://xyzdddd.mizhls.ru/lb/premium314/index.m3u8
 #EXTINF:0 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="USA (Eastern)",ESPN
-
+https://xyzdddd.mizhls.ru/lb/premium44/index.m3u8
 #EXTINF:0 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="USA (Eastern)",ESPN2
-
+https://xyzdddd.mizhls.ru/lb/premium45/index.m3u8
 #EXTINF:0 tvg-id="ESPN.News.HDTV.(ESNEWSHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/512px-ESPNews.svg.png" group-title="USA (Eastern)",ESPNews
-
+https://xyzdddd.mizhls.ru/lb/premium288/index.m3u8
 #EXTINF:0 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/512px-ESPN_U_logo.svg.png" group-title="USA (Eastern)",ESPNU
-
+https://xyzdddd.mizhls.ru/lb/premium316/index.m3u8
 #EXTINF:0 tvg-id="ESPN.Deportes.HDTV.(EDEPHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/300px-Espn_deportes.svg.png" group-title="USA (Eastern)",ESPN Deportes
-
+https://xyzdddd.mizhls.ru/lb/premium375/index.m3u8
 #EXTINF:0 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Freeform_2022.svg/800px-Freeform_2022.svg.png" group-title="USA (Eastern)",Freeform
 http://143.244.60.97/FREE_FORM/index.m3u8
 #EXTINF:0 tvg-id="FX.HDTV.(East).(FX.HD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1024px-FX_International_logo.svg.png" group-title="USA (Eastern)",FX
@@ -25,12 +25,12 @@ http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:0 tvg-id="FXX.HDTV.(East).(FXXHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/751px-FXX_Logo.svg.png" group-title="USA (Eastern)",FXX
 http://143.244.60.97/FXX/index.m3u8
 #EXTINF:0 tvg-id="National.Geographic.Channel.HDTV.(NGCHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/800px-Natgeologo.svg.png" group-title="USA (Eastern)",National Geographic
-
+https://xyzdddd.mizhls.ru/lb/premium328/index.m3u8
 #EXTINF:0 tvg-id="NatGeo.WILD.HDTV.(NGWILD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/100px-National_Geographic_Wild_logo.svg.png" group-title="USA (Eastern)",National Geographic Wild
-
+https://xyzdddd.mizhls.ru/lb/premium745/index.m3u8
 
 #EXTINF:0 tvg-id="Black.Entertainment.Television.HDTV.(East).(BET-HD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/BET-2021Logo.svg/600px-BET-2021Logo.svg.png" group-title="USA (Eastern)",BET
-
+https://xyzdddd.mizhls.ru/lb/premium306/index.m3u8
 #EXTINF:0 tvg-id="BET.Gospel.(GOSP).us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/BET_Gospel_2022.png" group-title="USA (Eastern)",BET Gospel
 http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
 #EXTINF:0 tvg-id="BET.Her.HDTV.(BHERHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/BET_Her_2021.png" group-title="USA (Eastern)",BET Her
@@ -42,13 +42,13 @@ http://fl3.moveonjoy.com/BET_Jams/index.m3u8
 #EXTINF:0 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CBS_Sports_Network_2021.svg/799px-CBS_Sports_Network_2021.svg.png" group-title="USA (Eastern)",CBS Sports Network
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:0 tvg-id="CMT.HDTV.(East).(CMTHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/CMT_2017_logo.png/771px-CMT_2017_logo.png" group-title="USA (Eastern)",CMT
-
+https://xyzdddd.mizhls.ru/lb/premium647/index.m3u8
 #EXTINF:0 tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="USA (Eastern)",Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:0 tvg-id="LOGO.HDTV.(East).(LGOHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/582px-Logo_TV_2015.svg.png" group-title="USA (Eastern)",Logo TV
 http://fl3.moveonjoy.com/Logo/index.m3u8
 #EXTINF:0 tvg-id="MTV.HDTV.(East).(MTVHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/800px-MTV_2021_%28brand_version%29.svg.png" group-title="USA (Eastern)",MTV
-
+http://170.254.18.106/MTV/index.m3u8
 #EXTINF:0 tvg-id="MTV2.HDTV.(East).(MTV2HD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/319px-MTV2_logo_2013.svg.png" group-title="USA (Eastern)",MTV2
 https://fl5.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:0 tvg-id="MTV.Classic.(East).(MTVCL).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/732px-MTV_Classic_US.svg.png" group-title="USA (Eastern)",MTV Classic
@@ -66,80 +66,88 @@ https://fl5.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:0 tvg-id="Nicktoons.Network.(East).(NICKTOON).us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/NickToons_US_2023_Splat_Variant.png/revision/latest?cb=20231109203100" group-title="USA (Eastern)",Nicktoons
 http://143.244.60.30/NICKTOONS/index.m3u8
 #EXTINF:0 tvg-id="TeenNick.(East).(TNCK).us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/TeenNick_2023_splat.png/revision/latest?cb=20231121172422" group-title="USA (Eastern)",TeenNick
-
+https://xyzdddd.mizhls.ru/lb/premium650/index.m3u8
 #EXTINF:0 tvg-id="Nick.Music.(NICM).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/800px-NickMusic.svg.png" group-title="USA (Eastern)",NickMusic
 http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:0 tvg-id="Paramount.Network.HDTV.(East).(PARHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png" group-title="USA (Eastern)",Paramount Network
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:0 tvg-id="Pop.(East).(POP).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png" group-title="USA (Eastern)",Pop
-
+https://xyzdddd.mizhls.ru/lb/premium653/index.m3u8
 #EXTINF:0 tvg-id="Smithsonian.Channel.HDTV.(East).(SMITHHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Smithsonian_Channel_current_logo.png" group-title="USA (Eastern)",Smithsonian Channel
 
 #EXTINF:0 tvg-id="TV.Land.(East).(TVLAND).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/800px-TV_Land_2015_logo.svg.png" group-title="USA (Eastern)",TV Land
-
+https://xyzdddd.mizhls.ru/lb/premium342/index.m3u8
 #EXTINF:0 tvg-id="VH1.HDTV.(East).(VH1HD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="USA (Eastern)",VH1
-
-
+https://xyzdddd.mizhls.ru/lb/premium344/index.m3u8
 
 #EXTINF:0 tvg-id="Animal.Planet.HDTV.(East).(APHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/800px-2018_Animal_Planet_logo.svg.png" group-title="USA (Eastern)",Animal Planet
-
+https://xyzdddd.mizhls.ru/lb/premium304/index.m3u8
 #EXTINF:0 tvg-id="Cartoon.Network.HDTV.(East).(TOONHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/330px-Cartoon_Network_2010_logo.svg.png" group-title="USA (Eastern)",Cartoon Network
 http://143.244.60.97/CARTOON_NETWORK/index.m3u8
 #EXTINF:0 tvg-id="Discovery.Family.Channel.HDTV.(DFCHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Discovery_Family_logo.svg/100px-Discovery_Family_logo.svg.png" group-title="USA (Eastern)",Discovery Family
-
+https://xyzdddd.mizhls.ru/lb/premium657/index.m3u8
 #EXTINF:0 tvg-id="Boomerang.(BOOM).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/300px-Boomerang_2014_logo.svg.png" group-title="USA (Eastern)",Boomerang
-
+https://xyzdddd.mizhls.ru/lb/premium648/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/660px-Adult_Swim_2003_logo.svg.png" group-title="USA (Eastern)",Adult Swim
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:0 tvg-id="Cable.News.Network.HDTV.(CNNHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png" group-title="USA (Eastern)",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-id="Destination.America.HDTV.(DESTAMHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Destination_America_logo.svg/300px-Destination_America_logo.svg.png" group-title="USA (Eastern)",Destination America
-
+https://xyzdddd.mizhls.ru/lb/premium651/index.m3u8
 #EXTINF:0 tvg-id="The.Discovery.Channel.HDTV.(East).(DSCHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png" group-title="USA (Eastern)",Discovery Channel
-
+https://xyzdddd.mizhls.ru/lb/premium313/index.m3u8
 #EXTINF:0 tvg-id="Food.Network.HDTV.(East).(FOODHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/260px-Food_Network_logo.svg.png" group-title="USA (Eastern)",Food Network
-
+https://xyzdddd.mizhls.ru/lb/premium384/index.m3u8
 #EXTINF:0 tvg-id="Home.and.Garden.Television.HDTV.(East).(HGTVD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/800px-HGTV_2010.svg.png" group-title="USA (Eastern)",HGTV
-
+https://xyzdddd.mizhls.ru/lb/premium382/index.m3u8
 #EXTINF:0 tvg-id="HLN.HDTV.(HLNHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/HLNLogo2023.svg/750px-HLNLogo2023.svg.png" group-title="USA (Eastern)",HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-id="Motor.Trend.HDTV.(MTHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Motor_Trend.svg/718px-Motor_Trend.svg.png" group-title="USA (Eastern)",Motor Trend
-
+https://xyzdddd.mizhls.ru/lb/premium661/index.m3u8
 #EXTINF:0 tvg-id="The.Oprah.Winfrey.Network.HDTV.(East).(OWNHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/OWN_2011_logo.svg" group-title="USA (Eastern)",OWN
-
+https://xyzdddd.mizhls.ru/lb/premium331/index.m3u8
 #EXTINF:0 tvg-id="Science.HDTV.(SCIHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png" group-title="USA (Eastern)",Science Channel
-
+https://xyzdddd.mizhls.ru/lb/premium294/index.m3u8
 #EXTINF:0 tvg-id="TBS.Superstation.HDTV.(East).(TBSHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1000px-TBS_logo_2016.svg.png" group-title="USA (Eastern)",TBS
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-id="Turner.Classic.Movies.HDTV.(TCMHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1920px-TCM_logo.svg.png" group-title="USA (Eastern)",TCM
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:0 tvg-id="The.Learning.Channel.HDTV.(East).(TLCHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/185px-TLC_Logo.svg.png" group-title="USA (Eastern)",TLC
-
+https://xyzdddd.mizhls.ru/lb/premium337/index.m3u8
 #EXTINF:0 tvg-id="Turner.Network.Television.HDTV.(East).(TNTHD).us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/TNT_logo_White.png/revision/latest?cb=20210114211400" group-title="USA (Eastern)",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-id="Travel.Channel.HDTV.(East).(TRAVD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/100px-2018_Travel_Channel_logo.svg.png" group-title="USA (Eastern)",Travel Channel
-
+https://xyzdddd.mizhls.ru/lb/premium340/index.m3u8
 #EXTINF:0 tvg-id="truTV.HDTV.(East).(TruTVD).us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/TruTV_2014_Green.svg/revision/latest/scale-to-width-down/800?cb=20170725091207" group-title="USA (Eastern)",TruTV
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:0 tvg-id="Bravo.HDTV.(East).(BRAVOD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/800px-Bravo_2017_logo.svg.png" group-title="USA (Eastern)",Bravo
-
+https://xyzdddd.mizhls.ru/lb/premium307/index.m3u8
 #EXTINF:0 tvg-id="Consumer.News.and.Business.Channel.HDTV.(CNBCH).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/744px-CNBC_2023.svg.png" group-title="USA (Eastern)",CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:0 tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/E%21_Logo_Flat_2023.svg/187px-E%21_Logo_Flat_2023.svg.png" group-title="USA (Eastern)",E!
-
+https://xyzdddd.mizhls.ru/lb/premium315/index.m3u8
 #EXTINF:0 tvg-id="msnbc.HDTV.(msnbcH).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/MSNBC_2023.svg/701px-MSNBC_2023.svg.png" group-title="USA (Eastern)",MSNBC
-
+https://xyzdddd.mizhls.ru/lb/premium327/index.m3u8
 #EXTINF:0 tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png" group-title="USA (Eastern)",NBC Golf Channel
-
+https://xyzdddd.mizhls.ru/lb/premium318/index.m3u8
 #EXTINF:0 tvg-id="Oxygen.(East).(OXYGN).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/480px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="USA (Eastern)",Oxygen
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 #EXTINF:0 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/800px-SYFY.svg.png" group-title="USA (Eastern)",Syfy
 http://fl2.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:0 tvg-id="Universal.Kids.HDTV.(SPROUTHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Universal_Kids_2019_Logo.svg/1200px-Universal_Kids_2019_Logo.svg.png" group-title="USA (Eastern)",Universal Kids
-
+https://xyzdddd.mizhls.ru/lb/premium668/index.m3u8
 #EXTINF:0 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/800px-USA_Network_logo_%282016%29.svg.png" group-title="USA (Eastern)",USA Network
+https://xyzdddd.mizhls.ru/lb/premium343/index.m3u8
 
+#EXTINF:0 tvg-id="Fox.Business.Network.HDTV.(FBNHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="USA (Eastern)",Fox Business
+http://41.205.93.154/FOXBUSINESS/index.m3u8
+#EXTINF:0 tvg-id="Fox.News.Channel.HDTV.(East).(FNCHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/800px-Fox_News_Channel_logo.svg.png" group-title="USA (Eastern)",Fox News Channel
+https://xyzdddd.mizhls.ru/lb/premium347/index.m3u8
+#EXTINF:0 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/150px-2015_Fox_Sports_1_logo.svg.png" group-title="USA (Eastern)",FS1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:0 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/192px-FS2_logo_2015.svg.png" group-title="USA (Eastern)",FS2
+https://xyzdddd.mizhls.ru/lb/premium758/index.m3u8
 
 #EXTINF:0 tvg-id="Game.Show.Network.HDTV.(EAST).(GMSHWHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/800px-Game_Show_Network_2018.svg.png" group-title="USA (Eastern)",Game Show Network
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
@@ -149,23 +157,14 @@ https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 #EXTINF:0 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Tennis_Channel_2022.svg/revision/latest/scale-to-width-down/403?cb=20221201171651" group-title="USA (Eastern)",Tennis Channel
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 
-#EXTINF:0 tvg-id="Fox.Business.Network.HDTV.(FBNHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="USA (Eastern)",Fox Business
-http://41.205.93.154/FOXBUSINESS/index.m3u8
-#EXTINF:0 tvg-id="Fox.News.Channel.HDTV.(East).(FNCHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/800px-Fox_News_Channel_logo.svg.png" group-title="USA (Eastern)",Fox News Channel
-
-#EXTINF:0 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/150px-2015_Fox_Sports_1_logo.svg.png" group-title="USA (Eastern)",FS1
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:0 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/192px-FS2_logo_2015.svg.png" group-title="USA (Eastern)",FS2
-
-
 #EXTINF:0 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png" group-title="USA (Eastern)",A&E
-
+https://xyzdddd.mizhls.ru/lb/premium302/index.m3u8
 #EXTINF:0 tvg-id="History.HDTV.(East).(HISHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/433px-History_%282021%29.svg.png" group-title="USA (Eastern)",History Channel
-
+https://xyzdddd.mizhls.ru/lb/premium322/index.m3u8
 #EXTINF:0 tvg-id="Lifetime.Television.HDTV.(East).(LIFEH).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/800px-Logo_Lifetime_2020.svg.png" group-title="USA (Eastern)",Lifetime
-
+https://xyzdddd.mizhls.ru/lb/premium326/index.m3u8
 #EXTINF:0 tvg-id="Lifetime.Movies.HDTV.(East).(LIFEMOV).us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/LMN_logo_2019.svg/480px-LMN_logo_2019.svg.png" group-title="USA (Eastern)",Lifetime Movie Network
-
+https://xyzdddd.mizhls.ru/lb/premium389/index.m3u8
 
 #EXTINF:0 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/800px-AMC_logo_2019.svg.png" group-title="USA (Eastern)",AMC
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
@@ -175,7 +174,7 @@ http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:0 tvg-id="Hallmark.Channel.HDTV.(East).(HALLHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/800px-Hallmark_Channel.svg.png" group-title="USA (Eastern)",Hallmark Channel
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:0 tvg-id="Hallmark.Movies.and.Mysteries.HDTV.(HMMHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hallmark_movies_mysteries.png/800px-Hallmark_movies_mysteries.png" group-title="USA (Eastern)",Hallmark Movies & Mysteries
-
+https://xyzdddd.mizhls.ru/lb/premium296/index.m3u8
 
 #EXTINF:0 tvg-id="Bloomberg.in.HDTV.(BTVHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/512px-New_Bloomberg_Logo.svg.png" group-title="USA (Eastern)",Bloomberg TV
 https://bloomberg.com/media-manifest/streams/us.m3u8
