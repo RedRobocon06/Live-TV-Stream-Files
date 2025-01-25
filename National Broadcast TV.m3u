@@ -49,11 +49,11 @@ https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 #EXTINF:0 tvg-id="Scripps.News.Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Scripps_News_logo.svg/473px-Scripps_News_logo.svg.png" group-title="USA (Eastern)",07.09 - Scripps News
 https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8
 #EXTINF:0 tvg-id="TBD.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TBD_Logo_2019.svg/1200px-TBD_Logo_2019.svg.png" group-title="USA (Eastern)",08.01 - TBD
-https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 #EXTINF:0 tvg-id="Charge.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/1920px-Charge%21_Logo_2020.svg.png" group-title="USA (Eastern)",08.02 - Charge!
-https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 #EXTINF:0 tvg-id="Comet.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/407px-Comet_logo.svg.png" group-title="USA (Eastern)",08.03 - Comet
-https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 #EXTINF:0 tvg-id="Antenna.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/800px-Antenna_TV_logo.svg.png" group-title="USA (Eastern)",09.01 - Antenna TV
 
 #EXTINF:0 tvg-id="Rewind.TV.East.(WPIX-DT4).us" tvg-logo="https://rewindtv.com/wp-content/uploads/2021/08/RewindTV_logo_primary_white_withtagline-1024x313.png" group-title="USA (Eastern)",09.02 - Rewind TV
@@ -136,9 +136,9 @@ https://dai.google.com/linear/hls/event/LKaz-eTgQvawHshATl-Qdw/master.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Primo_TV_logo.png" group-title="USA (Eastern)",20.03 - Primo TV
 
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/135px-PBS_logo_2019.svg.png" group-title="USA (Pacific)",18.01 - PBS (Pacific)
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/135px-PBS_logo_2019.svg.png" group-title="USA (Pacific)",17.01 - PBS (Pacific)
 https://pbs.lls.cdn.pbs.org/pst/index.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/172px-Galavision_Logo_2013.svg.png" group-title="USA (Pacific)",20.03 - Galavision (Pacific)
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/172px-Galavision_Logo_2013.svg.png" group-title="USA (Pacific)",19.03 - Galavision (Pacific)
 https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_west/as/live/galavision_west_hd_pc.m3u8?t1=test_token
 
 #EXTINF:0 tvg-id="" tvg-logo="https://uploads-ssl.webflow.com/58bc812f0a7c9e445e1dc555/60be78a4119ed3b4d0746fd6_CBC-Television-Logo.png" group-title="Canada",CBC
