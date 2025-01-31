@@ -30,7 +30,7 @@ http://143.244.60.30/FOX_EAST/index.m3u8
 
 #EXTINF:0 tvg-id="Get.TV.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/GET_2023.svg/revision/latest?cb=20230918231259" group-title="USA (Eastern)",06.01 - Get
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="USA (Eastern)",06.02 - Game Show Central
+#EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Game_Show_Central.svg/revision/latest/scale-to-width-down/676?cb=20210629160000" group-title="USA (Eastern)",06.02 - Game Show Central
 https://apollo.production-public.tubi.io/live/game-show-central2.m3u8
 #EXTINF:0 tvg-id="ION.TV.East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/1920px-Ion_logo.svg.png" group-title="USA (Eastern)",07.01 - Ion
 https://apollo.production-public.tubi.io/live/ac-ion.m3u8
