@@ -46,7 +46,7 @@ http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:0 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="USA (Eastern)",Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:0 tvg-id="LOGO.-.East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/582px-Logo_TV_2015.svg.png" group-title="USA (Eastern)",Logo TV
-http://fl3.moveonjoy.com/Logo/index.m3u8
+
 #EXTINF:0 tvg-id="MTV.USA.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/800px-MTV_2021_%28brand_version%29.svg.png" group-title="USA (Eastern)",MTV
 http://170.254.18.106/MTV/index.m3u8
 #EXTINF:0 tvg-id="MTV.2.-.East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/319px-MTV2_logo_2013.svg.png" group-title="USA (Eastern)",MTV2
