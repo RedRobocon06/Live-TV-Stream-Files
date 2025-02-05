@@ -204,20 +204,31 @@ https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_356
 #EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/TruTV_2014_Green.svg/revision/latest/scale-to-width-down/800?cb=20170725091207" group-title="USA (Pacific)",TruTV (Pacific)
 https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Canada",YTV (Canada)
+#EXTINF:0 tvg-id="YTV.(Youth.Television).-.East.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/YTV_Canada_logo.png" group-title="Canada",YTV (Canada)
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Canada",Treehouse (Canada)
+#EXTINF:0 tvg-id="Treehouse.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Treehouse_TV_logo.svg/449px-Treehouse_TV_logo.svg.png" group-title="Canada",Treehouse (Canada)
 
-#EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/04/Disney_Channel_2D_Logo_2024.png/revision/latest?cb=20241115003318" group-title="Canada",Disney Channel (Canada)
+#EXTINF:0 tvg-id="Family.Channel.Canada.-.East.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/Family_Channel_2017.png" group-title="Canada",Family Channel (Canada)
+
+#EXTINF:0 tvg-id="Family.Jr..ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Family_Jr._logo.svg/411px-Family_Jr._logo.svg.png" group-title="Canada",Family Jr. (Canada)
+
+#EXTINF:0 tvg-id="WildBrainTV.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/WildBrain_TV_logo.png" group-title="Canada",WildBrain TV (Canada)
+
+
+#EXTINF:0 tvg-id="Disney.Channel.Canada.-.East.ca" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/04/Disney_Channel_2D_Logo_2024.png/revision/latest?cb=20241115003318" group-title="Canada",Disney Channel (Canada)
 http://143.244.60.97/DISNEY_CHANNEL/index.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/512px-Disney_Jr._2024.svg.png" group-title="Canada",Disney Jr. (Canada)
+#EXTINF:0 tvg-id="Disney.Junior.Canada.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/512px-Disney_Jr._2024.svg.png" group-title="Canada",Disney Jr. (Canada)
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/725px-Disney_XD_-_2015.svg.png" group-title="Canada",Disney XD (Canada)
+#EXTINF:0 tvg-id="Disney.XD.Canada.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/725px-Disney_XD_-_2015.svg.png" group-title="Canada",Disney XD (Canada)
 http://143.244.60.97/DISNEY_XD/index.m3u8
-#EXTINF:0 tvg-id="Nickelodeon.Canada.(NICK).ca" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Nickelodeon_Splat_2023.png/revision/latest?cb=20230724150722" group-title="Canada",Nickelodeon (Canada)
+#EXTINF:0 tvg-id="ABC.Spark.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/ABC_Spark_Logo.png" group-title="Canada",ABC Spark (Canada)
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/330px-Cartoon_Network_2010_logo.svg.png" group-title="Canada",Cartoon Network (Canada)
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/300px-Boomerang_2014_logo.svg.png" group-title="Canada",Boomerang (Canada)
+#EXTINF:0 tvg-id="Nickelodeon.Canada.ca" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Nickelodeon_Splat_2023.png/revision/latest?cb=20230724150722" group-title="Canada",Nickelodeon (Canada)
 
-#EXTINF:0 tvg-id="Adult.Swim.(ADSM).ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/660px-Adult_Swim_2003_logo.svg.png" group-title="Canada",Adult Swim (Canada)
+
+#EXTINF:0 tvg-id="Cartoon.Network.Canada.-.East.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/330px-Cartoon_Network_2010_logo.svg.png" group-title="Canada",Cartoon Network (Canada)
+
+#EXTINF:0 tvg-id="Boomerang.Canada.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/300px-Boomerang_2014_logo.svg.png" group-title="Canada",Boomerang (Canada)
+
+#EXTINF:0 tvg-id="Adult.Swim.-.East.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/660px-Adult_Swim_2003_logo.svg.png" group-title="Canada",Adult Swim (Canada)

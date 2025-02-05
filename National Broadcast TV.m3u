@@ -38,7 +38,7 @@ https://apollo.production-public.tubi.io/live/ac-ion.m3u8
 https://apollo.production-public.tubi.io/live/ac-ion-plus.m3u8
 #EXTINF:0 tvg-id="Ion.Mystery.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/800px-ION_Mystery_logo.svg.png" group-title="USA (Eastern)",07.03 - Ion Mystery
 https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8
-#EXTINF:0 tvg-id="Bounce.TV.(Bounce).us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/692px-Bounce_TV_logo.svg.png" group-title="USA (Eastern)",07.04 - Bounce TV
+#EXTINF:0 tvg-id="Bounce.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/692px-Bounce_TV_logo.svg.png" group-title="USA (Eastern)",07.04 - Bounce TV
 https://apollo.production-public.tubi.io/live/ac-bounce-xl.m3u8
 #EXTINF:0 tvg-id="Court.TV.US.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="USA (Eastern)",07.05 - Court TV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
@@ -86,11 +86,11 @@ https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
 https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
 #EXTINF:0 tvg-id="REVN.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Rev%27n_logo.jpg/800px-Rev%27n_logo.jpg" group-title="USA (Eastern)",12.04 - Rev'n
 
-#EXTINF:0 tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/v1/5554e507e4b0d44531f00df2/1536000734821-10A96RJKIVRHNEJ4MLC8/actionchlogo.png" group-title="USA (Eastern)",12.05 - The Action Channel
+#EXTINF:0 tvg-id="Action..(WYBN-LD7).Albany,.NY.us" tvg-logo="https://images.squarespace-cdn.com/content/v1/5554e507e4b0d44531f00df2/1536000734821-10A96RJKIVRHNEJ4MLC8/actionchlogo.png" group-title="USA (Eastern)",12.05 - The Action Channel
 
 #EXTINF:0 tvg-id="Buzzr.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/600px-Buzzr_logo.svg.png" group-title="USA (Eastern)",13.01 - Buzzr
-https://buzzr-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://kathyharrisbooks.com/wp-content/uploads/2010/11/logo.png" group-title="USA (Eastern)",14.01 - The Country Network
+https://buzzrota-ono.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="The.Country.Network.(WDVB).Edison,.NJ.us" tvg-logo="https://kathyharrisbooks.com/wp-content/uploads/2010/11/logo.png" group-title="USA (Eastern)",14.01 - The Country Network
 https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist720p.m3u8
 #EXTINF:0 tvg-id="True.Crime.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/True_Crime_TV.png" group-title="USA (Eastern)",15.01 - True Crime Network
 
@@ -98,7 +98,7 @@ https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/play
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 #EXTINF:0 tvg-id="HSN.Home.Shopping.Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="USA (Eastern)",16.02 - HSN
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
-#EXTINF:0 tvg-id="PBS.-.Network.HD.-.Eastern.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/135px-PBS_logo_2019.svg.png" group-title="USA (Eastern)",17.01 - PBS
+#EXTINF:0 tvg-id="PBS.Eastern.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/135px-PBS_logo_2019.svg.png" group-title="USA (Eastern)",17.01 - PBS
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:0 tvg-id="PBS.Kids.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_(2022).svg/600px-PBS_Kids_logo_(2022).svg.png" group-title="USA (Eastern)",17.02 - PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
@@ -108,7 +108,7 @@ https://d1mxoeplf1ak5a.cloudfront.net/index.m3u8
 https://world.lls.pbs.org/index.m3u8
 #EXTINF:0 tvg-id="TBN..-.Trinity.Broadcasting.Network.-.East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Trinity_Broadcasting_Network_logo_(2015).svg/799px-Trinity_Broadcasting_Network_logo_(2015).svg.png" group-title="USA (Eastern)",18.01 - TBN
 https://d15gk5a13gdlfb.cloudfront.net/v1/master/36da43ef19a73084c6c27662c7531ffa75a2f69f/prod_fast_TBN/tbn-freecast.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Yippee_TV_Logo_2024.png" group-title="USA (Eastern)",18.02 - TBN Yippee
+#EXTINF:0 tvg-id="Yippee.Kids.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Yippee_TV_Logo_2024.png" group-title="USA (Eastern)",18.02 - TBN Yippee
 https://amg01700-tbn-amg01700c4-tbn-worldwide-965.playouts.now.amagi.tv/playlist/amg01700-trinitybroadcastingoftexas-yippee-tbnworldwide/playlist.m3u8?user_id=00unps8hzoUXvY0om696
 #EXTINF:0 tvg-id="TBN.Inspire.(K64FT).Alexandria,.LA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/TBN_Inspire_Logo.png" group-title="USA (Eastern)",18.03 - TBN Inspire
 
@@ -119,7 +119,7 @@ https://d2bn87a3fwf8gr.cloudfront.net/v1/master/36da43ef19a73084c6c27662c7531ffa
 
 #EXTINF:0 tvg-id="Univision.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="USA (Eastern)",19.01 - Univision
 https://dai.google.com/linear/hls/event/MpRfxL7YRce-hMKhzSB7Ow/master.m3u8
-#EXTINF:0 tvg-id="UniMÃ¡s.(East).(UNIMAS).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/220px-Logo_UniM%C3%A1s.svg.png" group-title="USA (Eastern)",19.02 - UniMás
+#EXTINF:0 tvg-id="UniMÃ¡s.(WFUT).New.York,.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/220px-Logo_UniM%C3%A1s.svg.png" group-title="USA (Eastern)",19.02 - UniMás
 https://dai.google.com/linear/hls/event/EGOkHfP3QliognmK9maivw/master.m3u8
 #EXTINF:0 tvg-id="Galavision.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/172px-Galavision_Logo_2013.svg.png" group-title="USA (Eastern)",19.03 - Galavision
 https://dai.google.com/linear/hls/event/4SHc_fddRJKEQ6UG_mtpjQ/master.m3u8
@@ -141,17 +141,17 @@ https://pbs.lls.cdn.pbs.org/pst/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/172px-Galavision_Logo_2013.svg.png" group-title="USA (Pacific)",19.03 - Galavision (Pacific)
 https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_west/as/live/galavision_west_hd_pc.m3u8?t1=test_token
 
-#EXTINF:0 tvg-id="" tvg-logo="https://uploads-ssl.webflow.com/58bc812f0a7c9e445e1dc555/60be78a4119ed3b4d0746fd6_CBC-Television-Logo.png" group-title="Canada",CBC
+#EXTINF:0 tvg-id="CBC.(CBLT).Toronto,.ON.ca" tvg-logo="https://uploads-ssl.webflow.com/58bc812f0a7c9e445e1dc555/60be78a4119ed3b4d0746fd6_CBC-Television-Logo.png" group-title="Canada",CBC
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/1920px-Citytv_logo.svg.png" group-title="Canada",CityTV
+#EXTINF:0 tvg-id="CITY.Toronto,.ON.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/1920px-Citytv_logo.svg.png" group-title="Canada",CityTV
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/1920px-CTV_logo_2018.svg.png" group-title="Canada",CTV
+#EXTINF:0 tvg-id="CTV.(CFTO).Toronto,.ON.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/1920px-CTV_logo_2018.svg.png" group-title="Canada",CTV
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/240px-Global_Television_Network_Logo.svg.png" group-title="Canada",Global
+#EXTINF:0 tvg-id="Global.(CIII-DT-41).Toronto.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/240px-Global_Television_Network_Logo.svg.png" group-title="Canada",Global
 
 #EXTINF:0 tvg-id="Knowledge.Network.(KNOW).ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Knowledge_Network_2012.svg/703px-Knowledge_Network_2012.svg.png" group-title="Canada",Knowledge Network
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/TVO_logo.svg/1200px-TVO_logo.svg.png" group-title="Canada",TVO
+#EXTINF:0 tvg-id="TVO.(CICA-DT).Toronto,.ON.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/TVO_logo.svg/1200px-TVO_logo.svg.png" group-title="Canada",TVO
 
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Tvokids-logo.png/799px-Tvokids-logo.png" group-title="Canada",TVO Kids
 
