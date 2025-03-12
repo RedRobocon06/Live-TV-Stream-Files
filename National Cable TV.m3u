@@ -137,8 +137,6 @@ http://fl2.moveonjoy.com/CNBC/index.m3u8
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 #EXTINF:0 tvg-id="Syfy.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/800px-SYFY.svg.png" group-title="USA (Eastern)",Syfy
 http://fl2.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:0 tvg-id="Universal.Kids.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Universal_Kids_2019_Logo.svg/1200px-Universal_Kids_2019_Logo.svg.png" group-title="USA (Eastern)",Universal Kids
-
 #EXTINF:0 tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/800px-USA_Network_logo_%282016%29.svg.png" group-title="USA (Eastern)",USA Network
 
 
