@@ -28,7 +28,7 @@ https://content.uplynk.com/channel/ext/c9aa5ed442aa42758f7788ecc0236e5e/Localish
 
 #EXTINF:0 tvg-id="Get.TV.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/GET_2023.svg/revision/latest?cb=20230918231259" group-title="USA (Eastern)",06.02 - Get
 
-#EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Game_Show_Central.svg/revision/latest/scale-to-width-down/676?cb=20210629160000" group-title="USA (Eastern)",06.03 - Game Show Central
+#EXTINF:0 tvg-id="plex.tv.Game.Show.Central.plex" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Game_Show_Central.svg/revision/latest/scale-to-width-down/676?cb=20210629160000" group-title="USA (Eastern)",06.03 - Game Show Central
 https://apollo.production-public.tubi.io/live/game-show-central2-Y4JuYR.m3u8
 #EXTINF:0 tvg-id="ION.TV.East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/1920px-Ion_logo.svg.png" group-title="USA (Eastern)",07.01 - Ion
 https://apollo.production-public.tubi.io/live/ac-ion.m3u8
@@ -126,7 +126,7 @@ https://d2bn87a3fwf8gr.cloudfront.net/v1/master/36da43ef19a73084c6c27662c7531ffa
 #EXTINF:0 tvg-id="Galavision.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/172px-Galavision_Logo_2013.svg.png" group-title="USA (Eastern)",19.03 - Galavision
 
 #EXTINF:0 tvg-id="TUDN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/500px-TUDN_Logo.svg.png" group-title="USA (Eastern)",19.04 - TUDN
-https://tkx.mp.lura.live/rest/v2/mcp/video/adstkZj0NvKqzB6e?anvack=NVQrq6a3oZfdBzkefWT1rvdRCoj9XOyx&token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJOVlFycTZhM29aZmRCemtlZldUMXJ2ZFJDb2o5WE95eCIsImV4cCI6MTY1NjE5ODE4NSwiYWRfcGFycyI6eyJkZnAiOnsiaXVfdmFsdWVfZnJvbV9wYWdlIjoiL3VuZGVmaW5lZC9yZC51bml2aXNpb25fdmlkZW9fZGVwb3J0ZXMvZGFpIiwidXJsIjoiaHR0cHM6Ly93d3cudHVkbi5jb20vdHVkbi1saXZlc3RyZWFtLTI0LTciLCJwbGF5ZXJfd2lkdGgiOiI3NTMiLCJwbGF5ZXJfaGVpZ2h0IjoiNDI0IiwicHAiOiJEZXNrdG9wQml0UmF0ZXMiLCJtdnBkIjoidGVtcF9wYXNzIn19LCJ2aWQiOiJhZHN0a1pqME52S3F6QjZlIiwidXNlcl9wYXJzIjp7InByZWZlcnJlZF9jZG4iOnsibmFtZSI6ImFrYW1haSIsImZvcmNlIjp0cnVlfX19.Y9JMF-b_SUsCZ3WMkjU1cmNkiHvT7lmvYLsVbCx-Dhg
+
 #EXTINF:0 tvg-id="Fusion.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Fusion_TV_logo_2018.svg/273px-Fusion_TV_logo_2018.svg.png" group-title="USA (Eastern)",19.05 - Fusion TV
 
 #EXTINF:0 tvg-id="Univision.Telenovelas.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/800px-Univision_tlnovelas_%282019%29.svg.png" group-title="USA (Eastern)",19.06 - Univision Tlnovelas

@@ -4,6 +4,8 @@
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:0 tvg-id="PBS.Kids.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_(2022).svg/600px-PBS_Kids_logo_(2022).svg.png" group-title="USA",PBS Kids (Eastern)
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+#EXTINF:0 tvg-id="plex.tv.PBS.Retro.plex" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/544627ef-b613-4f03-86c9-037e51bd8747/dhjmwh7-2fb98933-71ed-43e8-8c15-f82ce8cdb0fc.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU0NDYyN2VmLWI2MTMtNGYwMy04NmM5LTAzN2U1MWJkODc0N1wvZGhqbXdoNy0yZmI5ODkzMy03MWVkLTQzZTgtOGMxNS1mODJjZThjZGIwZmMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Jx8UeZfEm-f9Ijk-qRRGJIU8MASUfnGAYa-FVxqwHT0" group-title="USA",PBS Retro
+https://amg02333-pbs-amg02333c6-firetv-us-4236.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="Create.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/800px-Create_TV_network_logo.svg.png" group-title="USA",Create
 https://create.lls.pbs.org/index.m3u8
 #EXTINF:0 tvg-id="PBS.World.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/World_Channel_2023.svg/473px-World_Channel_2023.svg.png" group-title="USA",World
