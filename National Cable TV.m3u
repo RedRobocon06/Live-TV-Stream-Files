@@ -5,7 +5,7 @@
 #EXTINF:0 tvg-id="Disney.Junior.USA.-.East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/512px-Disney_Jr._2024.svg.png" group-title="USA (Eastern)",Disney Jr.
 https://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:0 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/725px-Disney_XD_-_2015.svg.png" group-title="USA (Eastern)",Disney XD
-
+http://143.244.60.97/DISNEY_XD/index.m3u8
 #EXTINF:0 tvg-id="ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="USA (Eastern)",ESPN
 
 #EXTINF:0 tvg-id="ESPN2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="USA (Eastern)",ESPN2
@@ -46,7 +46,7 @@ http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:0 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="USA (Eastern)",Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:0 tvg-id="LOGO.-.East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/582px-Logo_TV_2015.svg.png" group-title="USA (Eastern)",Logo TV
-
+https://5a8308add0b31.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="MTV.USA.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/800px-MTV_2021_%28brand_version%29.svg.png" group-title="USA (Eastern)",MTV
 http://170.254.18.106/MTV/index.m3u8
 #EXTINF:0 tvg-id="MTV.2.-.East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/319px-MTV2_logo_2013.svg.png" group-title="USA (Eastern)",MTV2
@@ -62,7 +62,7 @@ https://fl5.moveonjoy.com/MTV_U/index.m3u8
 #EXTINF:0 tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Nickelodeon_Splat_2023.png/revision/latest?cb=20230724150722" group-title="USA (Eastern)",Nickelodeon
 http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:0 tvg-id="Nick.Jr..-.East.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png/revision/latest?cb=20231122165643" group-title="USA (Eastern)",Nick Jr.
-https://fl5.moveonjoy.com/NICK_JR/index.m3u8
+
 #EXTINF:0 tvg-id="Nicktoons.-.East.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/NickToons_US_2023_Splat_Variant.png/revision/latest?cb=20231109203100" group-title="USA (Eastern)",Nicktoons
 http://143.244.60.30/NICKTOONS/index.m3u8
 #EXTINF:0 tvg-id="TeenNick.-.Eastern.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/TeenNick_2023_splat.png/revision/latest?cb=20231121172422" group-title="USA (Eastern)",TeenNick
@@ -169,7 +169,7 @@ http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:0 tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/800px-AMC_logo_2019.svg.png" group-title="USA (Eastern)",AMC
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:0 tvg-id="BBC.America.-.East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/572px-BBC_America_logo_2021.svg.png" group-title="USA (Eastern)",BBC America
-http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+
 
 #EXTINF:0 tvg-id="Hallmark.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/800px-Hallmark_Channel.svg.png" group-title="USA (Eastern)",Hallmark Channel
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
@@ -214,11 +214,11 @@ https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_356
 
 
 #EXTINF:0 tvg-id="Disney.Channel.Canada.-.East.ca" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/04/Disney_Channel_2D_Logo_2024.png/revision/latest?cb=20241115003318" group-title="Canada",Disney Channel (Canada)
-http://143.244.60.97/DISNEY_CHANNEL/index.m3u8
+
 #EXTINF:0 tvg-id="Disney.Junior.Canada.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/512px-Disney_Jr._2024.svg.png" group-title="Canada",Disney Jr. (Canada)
 
 #EXTINF:0 tvg-id="Disney.XD.Canada.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/725px-Disney_XD_-_2015.svg.png" group-title="Canada",Disney XD (Canada)
-http://143.244.60.97/DISNEY_XD/index.m3u8
+
 #EXTINF:0 tvg-id="ABC.Spark.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/ABC_Spark_Logo.png" group-title="Canada",ABC Spark (Canada)
 
 
