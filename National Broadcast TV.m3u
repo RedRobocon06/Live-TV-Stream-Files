@@ -78,12 +78,12 @@ https://apollo.production-public.tubi.io/live/thegrio-P3Aiya.m3u8
 https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
 #EXTINF:0 tvg-id="FAM.Family.Channel.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/The_Family_Channel_Logo.png" group-title="USA (Eastern)",12.01 - The Family Channel
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png" group-title="USA (Eastern)",12.02 - Heartland
-
-#EXTINF:0 tvg-id="Retro.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" group-title="USA (Eastern)",12.03 - Retro TV
-https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
+#EXTINF:0 tvg-id="Retro.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" group-title="USA (Eastern)",12.02 - Retro TV
+https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278952/4fSn-VgVYGWm9wKU_teFCQ/1743028268/media_mpegts_0.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png" group-title="USA (Eastern)",12.03 - Heartland
+https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278943/sg4rOh5BTSliawe8MyNTaQ/1743028528/media_mpegts_0.m3u8
 #EXTINF:0 tvg-id="REVN.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Rev%27n_logo.jpg/800px-Rev%27n_logo.jpg" group-title="USA (Eastern)",12.04 - Rev'n
-
+https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278937/aEHv0QfDv7bsxe3nNMV0fg/1743028608/media_mpegts_0.m3u8
 #EXTINF:0 tvg-id="Action..(WYBN-LD7).Albany,.NY.us" tvg-logo="https://images.squarespace-cdn.com/content/v1/5554e507e4b0d44531f00df2/1536000734821-10A96RJKIVRHNEJ4MLC8/actionchlogo.png" group-title="USA (Eastern)",12.05 - The Action Channel
 
 #EXTINF:0 tvg-id="Buzzr.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/600px-Buzzr_logo.svg.png" group-title="USA (Eastern)",13.01 - Buzzr
