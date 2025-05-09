@@ -46,7 +46,7 @@ https://livetv-fa.tubi.video/grit-extra/playlist.m3u8
 https://amg01438-ewscripps-amg01438c45-cw-us-2389.playouts.now.amagi.tv/playlist/amg01438-ewscrippscompany-ewscrippslaffmore-cwus/cb563a196570618f84cd3d78d9f162ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aac6852db80148b6f4adafb8c2360625f5c98435ee3b24aa3f6e85c46dd6aa6ac481e9d7d58e683179fc94db884d746cc458e75a247cbc7f98f801588bcab50fd09f6466a32432dc3ea13f0c550a2a8f90358cc2b512c7551e3b59afd4b0388464e598a95a1d766f01ede9c318472055761f237ecb121f6c873c5d47de2c08ed14b553ca084687526b4e0b3f8835f5193478b6f6d401106f4d81b6a53c12df92f2e2a99feca6ee9abf5256e41f7d2400930c19244d9eeda5d0c69ef38fe0bf3bd9cb638550e5a0b108d17c5f0088a7d852df89c5a493d3cf0e69f2c46defc7e499fafc022b8ab20bbf910efc9af2f36cf721259e92ff75e1253f53b7e77dfe098f03341863c0389393cb40d7bd002b48f25fba3d4f2157b9bea8713af21bfee4ae5ff0cff3967191ae5a6651f645c6ddceb51083252ca51ab8699b6395a56acbfe6d6f47e144b791b5b078ea2c0759885cf605d35c941296d715f46c5559839915007506efa1fd5ad1b7dca53727aa8f4692f2f06fcffb88f83d9dd57f52e83bd9a171b7b0833f3637f6504b5918256fa344e040a7e881d6b4eb8471702dd9cc7e196977d8cfb40af2b69006cd5fa7513594a12836b6750f90b38f7c0b435fafeb7142cc39373608e2574/20/640x360_791841/index.m3u8
 #EXTINF:0 tvg-id="Scripps.News.Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Scripps_News_logo.svg/473px-Scripps_News_logo.svg.png" group-title="USA (Eastern)",07.08 - Scripps News
 https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8
-#EXTINF:0 tvg-id="TBD.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TBD_Logo_2019.svg/1200px-TBD_Logo_2019.svg.png" group-title="USA (Eastern)",08.01 - TBD
+#EXTINF:0 tvg-id="TBD.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Roar_%282025%29.svg/960px-Roar_%282025%29.svg.png" group-title="USA (Eastern)",08.01 - Roar
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 #EXTINF:0 tvg-id="Charge.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/1920px-Charge%21_Logo_2020.svg.png" group-title="USA (Eastern)",08.02 - Charge!
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
@@ -112,9 +112,9 @@ https://nhk.lls.pbs.org/index.m3u8
 https://d15gk5a13gdlfb.cloudfront.net/v1/master/36da43ef19a73084c6c27662c7531ffa75a2f69f/prod_fast_TBN/tbn-freecast.m3u8
 https://cdn.jwplayer.com/v2/sites/Yal8cmyO/media/fCGf6ROk/ssai.m3u8?ad_config_id=Sq3muexW&content_id=fCGf6ROk&content_title=TBN&app_domain=https%3A%2F%2Fwww.tbnplus.com&custom_10=web&user_id=00unps8hzoUXvY0om696&app_name=tbn&min_ad_duration=6&max_ad_duration=60&format=vast&ssai_enabled=1&ssai_vendor=jwplayer&livestream=1&content_genre=Entertainment&content_channel=TBN&content_network=TBN&height=1080&width=1920&content_cat=IAB1&page_url=https%3A%2F%2Fwww.tbnplus.com%2Fm%2FfCGf6ROk%2Ftbn%3Fr%3DwUwJ86KF%26play%3D1&device_type=2
 #EXTINF:0 tvg-id="Yippee.Kids.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Yippee_TV_Logo_2024.png" group-title="USA (Eastern)",18.02 - TBN Yippee
-https://amg01700-tbn-amg01700c4-tbn-worldwide-965.playouts.now.amagi.tv/playlist/amg01700-trinitybroadcastingoftexas-yippee-tbnworldwide/playlist.m3u8?user_id=00unps8hzoUXvY0om696
+
 #EXTINF:0 tvg-id="TBN.Inspire.(K64FT).Alexandria,.LA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/TBN_Inspire_Logo.png" group-title="USA (Eastern)",18.03 - TBN Inspire
-https://tgn.bozztv.com/dvrfl05/gin-tbninspire/index.m3u8
+
 #EXTINF:0 tvg-id="Posi.TV.(POSITIVE.TV).us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Positiv_TV_Network_Logo.png" group-title="USA (Eastern)",18.04 - Positiv
 https://d2bn87a3fwf8gr.cloudfront.net/v1/master/36da43ef19a73084c6c27662c7531ffa75a2f69f/prod_fast_Positiv/positive-freecast.m3u8
 #EXTINF:0 tvg-id="Enlace.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Enlace_Televisi%C3%B3n_logo.svg/100px-Enlace_Televisi%C3%B3n_logo.svg.png" group-title="USA (Eastern)",18.05 - Enlace
