@@ -109,14 +109,13 @@ https://world.lls.pbs.org/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/512px-NHK_World.svg.png" group-title="USA (Eastern)",17.06 - NHK World
 https://nhk.lls.pbs.org/index.m3u8
 #EXTINF:0 tvg-id="TBN..-.Trinity.Broadcasting.Network.-.East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Trinity_Broadcasting_Network_logo_(2015).svg/799px-Trinity_Broadcasting_Network_logo_(2015).svg.png" group-title="USA (Eastern)",18.01 - TBN
-https://d15gk5a13gdlfb.cloudfront.net/v1/master/36da43ef19a73084c6c27662c7531ffa75a2f69f/prod_fast_TBN/tbn-freecast.m3u8
-https://cdn.jwplayer.com/v2/sites/Yal8cmyO/media/fCGf6ROk/ssai.m3u8?ad_config_id=Sq3muexW&content_id=fCGf6ROk&content_title=TBN&app_domain=https%3A%2F%2Fwww.tbnplus.com&custom_10=web&user_id=00unps8hzoUXvY0om696&app_name=tbn&min_ad_duration=6&max_ad_duration=60&format=vast&ssai_enabled=1&ssai_vendor=jwplayer&livestream=1&content_genre=Entertainment&content_channel=TBN&content_network=TBN&height=1080&width=1920&content_cat=IAB1&page_url=https%3A%2F%2Fwww.tbnplus.com%2Fm%2FfCGf6ROk%2Ftbn%3Fr%3DwUwJ86KF%26play%3D1&device_type=2
+https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8
 #EXTINF:0 tvg-id="Yippee.Kids.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Yippee_TV_Logo_2024.png" group-title="USA (Eastern)",18.02 - TBN Yippee
 
 #EXTINF:0 tvg-id="TBN.Inspire.(K64FT).Alexandria,.LA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/TBN_Inspire_Logo.png" group-title="USA (Eastern)",18.03 - TBN Inspire
-
+https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.isml/.m3u8
 #EXTINF:0 tvg-id="Posi.TV.(POSITIVE.TV).us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Positiv_TV_Network_Logo.png" group-title="USA (Eastern)",18.04 - Positiv
-https://d2bn87a3fwf8gr.cloudfront.net/v1/master/36da43ef19a73084c6c27662c7531ffa75a2f69f/prod_fast_Positiv/positive-freecast.m3u8
+https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8
 #EXTINF:0 tvg-id="Enlace.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Enlace_Televisi%C3%B3n_logo.svg/100px-Enlace_Televisi%C3%B3n_logo.svg.png" group-title="USA (Eastern)",18.05 - Enlace
 
 
