@@ -31,13 +31,13 @@ https://content.uplynk.com/channel/ext/c9aa5ed442aa42758f7788ecc0236e5e/Localish
 #EXTINF:0 tvg-id="plex.tv.Game.Show.Central.plex" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Game_Show_Central.svg/revision/latest/scale-to-width-down/676?cb=20210629160000" group-title="USA (Eastern)",06.03 - Game Show Central
 https://apollo.production-public.tubi.io/live/game-show-central2-Y4JuYR.m3u8
 #EXTINF:0 tvg-id="ION.TV.East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/1920px-Ion_logo.svg.png" group-title="USA (Eastern)",07.01 - Ion
-https://apollo.production-public.tubi.io/live/ac-ion.m3u8
+https://livetv-fa.tubi.video/ion/playlist.m3u8
 #EXTINF:0 tvg-id="ION.Plus.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ion_Plus_2024.svg/800px-Ion_Plus_2024.svg.png" group-title="USA (Eastern)",07.02 - Ion Plus
-https://apollo.production-public.tubi.io/live/ac-ion-plus.m3u8
+https://livetv-fa.tubi.video/ion-plus/playlist.m3u8
 #EXTINF:0 tvg-id="Ion.Mystery.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/800px-ION_Mystery_logo.svg.png" group-title="USA (Eastern)",07.03 - Ion Mystery
 https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8
 #EXTINF:0 tvg-id="Bounce.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/692px-Bounce_TV_logo.svg.png" group-title="USA (Eastern)",07.04 - Bounce TV
-https://apollo.production-public.tubi.io/live/ac-bounce-xl.m3u8
+https://livetv-fa.tubi.video/bounce-xl/playlist.m3u8
 #EXTINF:0 tvg-id="Court.TV.US.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="USA (Eastern)",07.05 - Court TV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 #EXTINF:0 tvg-id="Grit.TV.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Gritl-ogo1.gif/revision/latest/scale-to-width-down/200?cb=20140814235648" group-title="USA (Eastern)",07.06 - Grit
@@ -131,11 +131,13 @@ https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.is
 
 #EXTINF:0 tvg-id="Univision.Telenovelas.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/800px-Univision_tlnovelas_%282019%29.svg.png" group-title="USA (Eastern)",19.06 - Univision Tlnovelas
 
-#EXTINF:0 tvg-id="V-Me.Television.HD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/V-me_Channel_Logo.png" group-title="USA (Eastern)",20.01 - V-me
+#EXTINF:0 tvg-id="Estrella (KZJL) Houston, TX HD (3024).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Estrella_TV_2020_Logo.svg/500px-Estrella_TV_2020_Logo.svg.png" group-title="USA (Eastern)",20.01 - Estrella TV
+https://livetv-fa.tubi.video/estrellatv/playlist.m3u8
+#EXTINF:0 tvg-id="V-Me.Television.HD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/V-me_Channel_Logo.png" group-title="USA (Eastern)",21.01 - V-me
 
-#EXTINF:0 tvg-id="Vme.Kids.(VKIDS).us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Vme_Kids_Logo.png" group-title="USA (Eastern)",20.02 - V-me Kids
+#EXTINF:0 tvg-id="Vme.Kids.(VKIDS).us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Vme_Kids_Logo.png" group-title="USA (Eastern)",21.02 - V-me Kids
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Primo_TV_logo.png" group-title="USA (Eastern)",20.03 - Primo TV
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Primo_TV_logo.png" group-title="USA (Eastern)",21.03 - Primo TV
 
 
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/135px-PBS_logo_2019.svg.png" group-title="USA (Pacific)",17.01 - PBS (Pacific)
