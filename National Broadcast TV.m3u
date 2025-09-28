@@ -87,7 +87,7 @@ https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
 #EXTINF:0 tvg-id="Action..(WYBN-LD7).Albany,.NY.us" tvg-logo="https://images.squarespace-cdn.com/content/v1/5554e507e4b0d44531f00df2/1536000734821-10A96RJKIVRHNEJ4MLC8/actionchlogo.png" group-title="USA (Eastern)",12.05 - The Action Channel
 
 #EXTINF:0 tvg-id="Buzzr.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/600px-Buzzr_logo.svg.png" group-title="USA (Eastern)",13.01 - Buzzr
-https://apollo.production-public.tubi.io/live/ac-buzzr.m3u8
+https://livetv-fa.tubi.video/buzzr/playlist.m3u8
 #EXTINF:0 tvg-id="The.Country.Network.(WDVB).Edison,.NJ.us" tvg-logo="https://kathyharrisbooks.com/wp-content/uploads/2010/11/logo.png" group-title="USA (Eastern)",14.01 - The Country Network
 https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist720p.m3u8
 #EXTINF:0 tvg-id="True.Crime.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/True_Crime_TV.png" group-title="USA (Eastern)",15.01 - True Crime Network
