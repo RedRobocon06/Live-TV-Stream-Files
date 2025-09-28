@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="The Disney Channel (East).us" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/04/Disney_Channel_2D_Logo_2024.png/revision/latest?cb=20241115003318" group-title="USA (Eastern)",Disney Channel
+#EXTINF:0 tvg-id="The Disney Channel HDTV (East).us" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/04/Disney_Channel_2D_Logo_2024.png/revision/latest?cb=20241115003318" group-title="USA (Eastern)",Disney Channel
 https://fl7.moveonjoy.com/DISNEY/index.m3u8
 #EXTINF:0 tvg-id="Disney Junior SD East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/512px-Disney_Jr._2024.svg.png" group-title="USA (Eastern)",Disney Jr.
 https://fl7.moveonjoy.com/DISNEY_JR/index.m3u8
@@ -126,7 +126,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.
 https://fl7.moveonjoy.com/BRAVO/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/744px-CNBC_2023.svg.png" group-title="USA (Eastern)",CNBC
 https://fl7.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:0 tvg-id="E! Entertainment Television (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/E%21_Logo_Flat_2023.svg/187px-E%21_Logo_Flat_2023.svg.png" group-title="USA (Eastern)",E!
+#EXTINF:0 tvg-id="E! Entertainment Television (East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/E%21_Logo_Flat_2012.svg/250px-E%21_Logo_Flat_2012.svg.png" group-title="USA (Eastern)",E!
 https://fl7.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png" group-title="USA (Eastern)",Golf Channel
 https://fl7.moveonjoy.com/GOLF/index.m3u8
