@@ -101,7 +101,7 @@ https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:0 tvg-id="PBS Kids.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_(2022).svg/600px-PBS_Kids_logo_(2022).svg.png" group-title="USA (Eastern)",17.02 - PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:0 tvg-id="plex.tv.PBS.Retro.plex" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/544627ef-b613-4f03-86c9-037e51bd8747/dhjmwh7-2fb98933-71ed-43e8-8c15-f82ce8cdb0fc.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU0NDYyN2VmLWI2MTMtNGYwMy04NmM5LTAzN2U1MWJkODc0N1wvZGhqbXdoNy0yZmI5ODkzMy03MWVkLTQzZTgtOGMxNS1mODJjZThjZGIwZmMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Jx8UeZfEm-f9Ijk-qRRGJIU8MASUfnGAYa-FVxqwHT0" group-title="USA (Eastern)",17.03 - PBS Retro
-https://amg02333-pbs-amg02333c6-firetv-us-4236.playouts.now.amagi.tv/playlist.m3u8
+https://osm.sr.roku.com/osm/v1/hls/master/2af92247-9fb2-430d-bc45-f066023092f6/live.m3u8?jwt=eyJraWQiOiI4YTRmMGI0YiIsInR5cCI6IkpXVCIsImFsZyI6IkhTMjU2In0.eyJzdWIiOiJlY2QxZDc2MzFjNmYzOWQwMTRmYjNmYjYyYjRkZGRiNSIsImF1ZCI6Im9zbS5zci5yb2t1LmNvbSIsImNvbnRlbnRJZCI6IjM0MzM1ZWYzMmMwMjUxOWQ4OTc2NjRhNzg3NjdjYzU5IiwiZXhwIjoxNzcwNDkyODc3LCJpYXQiOjE3NzA0NzEyNzcsInBsYXRmb3JtIjoid2ViIn0.jqyhGoLgVzKnrIfQumqLj9lnbIaG5zhvJJd6dcZM4GA
 #EXTINF:0 tvg-id="Create.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/800px-Create_TV_network_logo.svg.png" group-title="USA (Eastern)",17.04 - Create
 https://create.lls.pbs.org/index.m3u8
 #EXTINF:0 tvg-id="World Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/World_Channel_2023.svg/473px-World_Channel_2023.svg.png" group-title="USA (Eastern)",17.05 - World
@@ -158,4 +158,4 @@ https://pbs.lls.cdn.pbs.org/pst/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/TVO_logo.svg/1200px-TVO_logo.svg.png" group-title="Canada",TVO
 
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Tvokids-logo.png/960px-Tvokids-logo.png" group-title="Canada",TVO Kids
-https://bcovlive-a.akamaihd.net/re18e5f525d1149abbf630fdeee84d023/us-east-1/15364602001/playlist.m3u8
+https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8
