@@ -1,23 +1,19 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="Disney Channel.us" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/04/Disney_Channel_2D_Logo_2024.png/revision/latest?cb=20241115003318" group-title="USA (Eastern)",Disney Channel
-https://fl7.moveonjoy.com/DISNEY/index.m3u8
-#EXTINF:0 tvg-id="Disney Junior.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/512px-Disney_Jr._2024.svg.png" group-title="USA (Eastern)",Disney Jr.
-https://fl7.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:0 tvg-id="Disney XD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/725px-Disney_XD_-_2015.svg.png" group-title="USA (Eastern)",Disney XD
-https://fl7.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:0 tvg-id="Freeform.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Freeform_2022.svg/800px-Freeform_2022.svg.png" group-title="USA (Eastern)",Freeform
-https://fl7.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:0 tvg-id="Disney Junior.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png" group-title="USA (Eastern)",Disney Jr.
+https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/disneyjr/index.m3u8
+#EXTINF:0 tvg-id="Disney XD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png" group-title="USA (Eastern)",Disney XD
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:0 tvg-id="FX.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1024px-FX_International_logo.svg.png" group-title="USA (Eastern)",FX
-https://fl7.moveonjoy.com/FX/index.m3u8
+http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:0 tvg-id="FX Movie Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/800px-FXM_Logo.svg.png" group-title="USA (Eastern)",FXM
 https://fl7.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:0 tvg-id="FXX.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/751px-FXX_Logo.svg.png" group-title="USA (Eastern)",FXX
 https://fl7.moveonjoy.com/FXX/index.m3u8
 #EXTINF:0 tvg-id="Nat Geo.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/800px-Natgeologo.svg.png" group-title="USA (Eastern)",National Geographic
-https://fl7.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:0 tvg-id="Nat Geo Wild.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/100px-National_Geographic_Wild_logo.svg.png" group-title="USA (Eastern)",National Geographic Wild
-https://fl7.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+http://198.58.104.90:8989/natgeo/index.m3u8
+#EXTINF:0 tvg-id="Nat Geo Wild.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/100px-National_Geographic_Wild_logo.svg.png" group-title="USA (Eastern)",Nat Geo Wild
+http://198.58.104.90:8989/natgeowild/index.m3u8
 #EXTINF:0 tvg-id="ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="USA (Eastern)",ESPN
 
 #EXTINF:0 tvg-id="ESPN2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="USA (Eastern)",ESPN2
@@ -25,28 +21,24 @@ https://fl7.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/512px-ESPNews.svg.png" group-title="USA (Eastern)",ESPNews
 https://fl7.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:0 tvg-id="ESPNU.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/512px-ESPN_U_logo.svg.png" group-title="USA (Eastern)",ESPNU
-https://fl7.moveonjoy.com/ESPN_U/index.m3u8
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:0 tvg-id="ESPN Deportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/300px-Espn_deportes.svg.png" group-title="USA (Eastern)",ESPN Deportes
 
 
-#EXTINF:0 tvg-id="Nickelodeon.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Nickelodeon_Splat_2023.png/revision/latest?cb=20230724150722" group-title="USA (Eastern)",Nickelodeon
-https://fl7.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:0 tvg-id="Nick Jr..us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png/revision/latest?cb=20231122165643" group-title="USA (Eastern)",Nick Jr.
-https://fl7.moveonjoy.com/NICK_JR/index.m3u8
+http://84.17.50.102/nickjr/index.m3u8
 #EXTINF:0 tvg-id="Nicktoons.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/NickToons_US_2023_Splat_Variant.png/revision/latest?cb=20231109203100" group-title="USA (Eastern)",Nicktoons
-https://fl7.moveonjoy.com/NICKTOONS/index.m3u8
+http://41.205.93.154/NICKTOONS/index.m3u8
 #EXTINF:0 tvg-id="TeenNick.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/TeenNick_2023_splat.png/revision/latest?cb=20231121172422" group-title="USA (Eastern)",TeenNick
-https://fl7.moveonjoy.com/Teen_Nick/index.m3u8
+
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/800px-NickMusic.svg.png" group-title="USA (Eastern)",NickMusic
-https://fl7.moveonjoy.com/NICK_MUSIC/index.m3u8
-#EXTINF:0 tvg-id="Comedy Central.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="USA (Eastern)",Comedy Central
-http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+
 #EXTINF:0 tvg-id="CMT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/CMT_2017_logo.png/771px-CMT_2017_logo.png" group-title="USA (Eastern)",CMT
 https://fl7.moveonjoy.com/CMT/index.m3u8
 #EXTINF:0 tvg-id="Logo.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/582px-Logo_TV_2015.svg.png" group-title="USA (Eastern)",Logo TV
 
 #EXTINF:0 tvg-id="MTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/800px-MTV_2021_%28brand_version%29.svg.png" group-title="USA (Eastern)",MTV
-https://fl7.moveonjoy.com/MTV/index.m3u8
+
 #EXTINF:0 tvg-id="MTV2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/319px-MTV2_logo_2013.svg.png" group-title="USA (Eastern)",MTV2
 https://fl7.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:0 tvg-id="MTV Classic.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/732px-MTV_Classic_US.svg.png" group-title="USA (Eastern)",MTV Classic
@@ -80,15 +72,10 @@ https://fl7.moveonjoy.com/BET_SOUL/index.m3u8
 #EXTINF:0 tvg-id="CBS Sports Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CBS_Sports_Network_2021.svg/799px-CBS_Sports_Network_2021.svg.png" group-title="USA (Eastern)",CBS Sports Network
 https://fl7.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
-
-#EXTINF:0 tvg-id="Cartoon Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/330px-Cartoon_Network_2010_logo.svg.png" group-title="USA (Eastern)",Cartoon Network
-
 #EXTINF:0 tvg-id="Discovery Family.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Discovery_Family_logo.svg/100px-Discovery_Family_logo.svg.png" group-title="USA (Eastern)",Discovery Family
 
 #EXTINF:0 tvg-id="Boomerang.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/300px-Boomerang_2014_logo.svg.png" group-title="USA (Eastern)",Boomerang
 
-#EXTINF:0 tvg-id="Adult Swim.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/660px-Adult_Swim_2003_logo.svg.png" group-title="USA (Eastern)",Adult Swim
-https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:0 tvg-id="TBS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1000px-TBS_logo_2016.svg.png" group-title="USA (Eastern)",TBS
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-id="Turner Classic Movies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1920px-TCM_logo.svg.png" group-title="USA (Eastern)",TCM
@@ -184,7 +171,7 @@ https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:0 tvg-id="C-SPAN 3.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/CSPAN3_Navy-and-Amber.svg/revision/latest?cb=20190318192203" group-title="USA (Eastern)",C-SPAN 3
 
 #EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Screenshot_2022-05-25_1.19.30_PM.png/revision/latest/scale-to-width-down/1000?cb=20221123021745" group-title="USA (Eastern)",Kids Street
-
+http://181.78.121.15:8000/play/a00a/index.m3u8
 #EXTINF:0 tvg-id="The Weather Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="USA (Eastern)",The Weather Channel
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
 
