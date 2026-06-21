@@ -27,8 +27,8 @@ https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_51
 
 #EXTINF:0 tvg-id="NBC.East.Stream.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/1137px-NBC_logo_%282013%29.svg.png" group-title="USA (Eastern)",04.01 - NBC
 
-#EXTINF:0 tvg-id="COZI.TV.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/1920px-Cozi_TV_logo.svg.png" group-title="USA (Eastern)",04.03 - Cozi TV
-
+#EXTINF:0 tvg-id="COZI.TV.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/250px-Cozi_TV_logo.svg.png" group-title="USA (Eastern)",04.03 - Cozi TV
+http://173.225.32.123/Cozi-2358/index.m3u8
 #EXTINF:0 tvg-id="NBC.True.CRMZ.us2" tvg-logo="" group-title="USA (Eastern)",04.04 - True CRMZ
 
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="USA (Eastern)",05.01 - Fox
