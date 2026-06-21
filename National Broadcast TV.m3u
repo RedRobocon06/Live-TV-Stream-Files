@@ -106,7 +106,7 @@ https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/play
 
 #EXTINF:0 tvg-id="QVC.HD.us2" tvg-logo="https://i.imgur.com/CkIxX82.png" group-title="USA (Eastern)",16.01 - QVC
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/120px-HSN_logo.svg.png" group-title="USA (Eastern)",16.02 - HSN
+#EXTINF:0 tvg-id="Home.Shopping.Network.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/120px-HSN_logo.svg.png" group-title="USA (Eastern)",16.02 - HSN
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
 #EXTINF:0 tvg-id="PBS.Stream.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/960px-PBS_logo_2019.svg.png" group-title="USA (Eastern)",17.01 - PBS
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
@@ -118,17 +118,17 @@ https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 https://create.lls.pbs.org/index.m3u8
 #EXTINF:0 tvg-id="WORLD.Channel.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/World_Channel_2023.svg/500px-World_Channel_2023.svg.png" group-title="USA (Eastern)",17.05 - World
 https://world.lls.pbs.org/index.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/960px-NHK_World.svg.png" group-title="USA (Eastern)",17.06 - NHK World
+#EXTINF:0 tvg-id="NHK.World.TV.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/960px-NHK_World.svg.png" group-title="USA (Eastern)",17.06 - NHK World
 https://nhk.lls.pbs.org/index.m3u8
 #EXTINF:0 tvg-id="Trinity.Broadcasting.Network.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Trinity_Broadcasting_Network_logo_%282016%29.svg/960px-Trinity_Broadcasting_Network_logo_%282016%29.svg.png" group-title="USA (Eastern)",18.01 - TBN
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Yippee_TV_Logo_2024.png" group-title="USA (Eastern)",18.02 - TBN Yippee
+#EXTINF:0 tvg-id="Yippee.Kids.TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Yippee_TV_Logo_2024.png" group-title="USA (Eastern)",18.02 - TBN Yippee
 https://cdn.jwplayer.com/live/broadcast/otzRBin1.m3u8
 #EXTINF:0 tvg-id="TBN.Inspire.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/TBN_Inspire_Logo.png" group-title="USA (Eastern)",18.03 - TBN Inspire
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.isml/.m3u8
 #EXTINF:0 tvg-id="Positiv.TV.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Positiv_TV_Network_Logo.png" group-title="USA (Eastern)",18.04 - Positiv
 https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Enlace_Televisi%C3%B3n_logo.svg/100px-Enlace_Televisi%C3%B3n_logo.svg.png" group-title="USA (Eastern)",18.05 - Enlace
+#EXTINF:0 tvg-id="Enlace.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Enlace_Televisi%C3%B3n_logo.svg/100px-Enlace_Televisi%C3%B3n_logo.svg.png" group-title="USA (Eastern)",18.05 - Enlace
 
 
 #EXTINF:0 tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://i.imgur.com/0fbIM3o.png" group-title="USA (Eastern)",19.01 - Telemundo
