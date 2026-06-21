@@ -35,7 +35,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_51
 
 #EXTINF:0 tvg-id="My.Network.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="USA (Eastern)",06.01 - MyNetworkTV
 
-#EXTINF:0 tvg-id="get.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Great_Entertainment_Television_2026.webp/960px-Great_Entertainment_Television_2026.webp.png" group-title="USA (Eastern)",06.02 - Great
+#EXTINF:0 tvg-id="get.us2" tvg-logo="https://images.prismic.io/gettv/aZX-m8FoBIGEgiJX_great_logo_magenta_no_ET.png?auto=format%2Ccompress&rect=0%2C109%2C1500%2C488&w=1500&h=488&q=85" group-title="USA (Eastern)",06.02 - Great
 https://a-cdn.klowdtv.com/live2/greattv_720p/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Game_Show_Central.svg/revision/latest/scale-to-width-down/676?cb=20210629160000" group-title="USA (Eastern)",06.03 - Game Show Central
 https://pb-bunear28tuvaw.akamaized.net/v1/gsn_gameshowchannnel_1/samsungheadend_us/latest/main/hls/playlist.m3u8
