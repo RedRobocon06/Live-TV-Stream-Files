@@ -132,7 +132,7 @@ http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 #EXTINF:0 tvg-id="NewsNation.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/NewsNation_logo.svg/512px-NewsNation_logo.svg.png" group-title="USA (Eastern)",NewsNation
 
 
-#EXTINF:0 tvg-id="The.Weather.Channel.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="USA (Eastern)",The Weather Channel
+#EXTINF:0 tvg-id="The.Weather.Channel.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/330px-The_Weather_Channel_logo_2005-present.svg.png" group-title="USA (Eastern)",The Weather Channel
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
 
 #EXTINF:0 tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/E%21_Logo_Flat_2012.svg/250px-E%21_Logo_Flat_2012.svg.png" group-title="USA (Eastern)",E!
@@ -150,9 +150,9 @@ http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:0 tvg-id="Golf.Channel.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png" group-title="USA (Eastern)",Golf Channel
 
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="USA (Eastern)",A&E
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="USA (Eastern)",A&E
 http://23.239.31.26:8989/aande/index.m3u8
-#EXTINF:0 tvg-id="History.HD.us2" tvg-logo="" group-title="USA (Eastern)",History Channel
+#EXTINF:0 tvg-id="History.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="USA (Eastern)",History Channel
 http://84.17.50.102/history/index.m3u8
 #EXTINF:0 tvg-id="Lifetime.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/800px-Logo_Lifetime_2020.svg.png" group-title="USA (Eastern)",Lifetime
 http://rezofoot.tv/LIFETIME/index.m3u8
@@ -161,7 +161,7 @@ http://rezofoot.tv/LIFETIME/index.m3u8
 
 #EXTINF:0 tvg-id="AMC.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/800px-AMC_logo_2019.svg.png" group-title="USA (Eastern)",AMC
 http://84.17.50.102/amc/index.m3u8
-#EXTINF:0 tvg-id="BBC.America.HD.us2" tvg-logo="" group-title="USA (Eastern)",BBC America
+#EXTINF:0 tvg-id="BBC.America.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/960px-BBC_America_logo_2021.svg.png" group-title="USA (Eastern)",BBC America
 http://23.239.31.26:8989/bbcamerica/index.m3u8
 
 #EXTINF:0 tvg-id="Hallmark.Channel.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/800px-Hallmark_Channel.svg.png" group-title="USA (Eastern)",Hallmark Channel
