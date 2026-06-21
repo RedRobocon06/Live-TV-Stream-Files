@@ -7,9 +7,9 @@ http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:0 tvg-id="FX.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1024px-FX_International_logo.svg.png" group-title="USA (Eastern)",FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:0 tvg-id="FX Movie Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/800px-FXM_Logo.svg.png" group-title="USA (Eastern)",FXM
-https://fl7.moveonjoy.com/FX_MOVIE/index.m3u8
+
 #EXTINF:0 tvg-id="FXX.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/751px-FXX_Logo.svg.png" group-title="USA (Eastern)",FXX
-https://fl7.moveonjoy.com/FXX/index.m3u8
+
 #EXTINF:0 tvg-id="Nat Geo.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/800px-Natgeologo.svg.png" group-title="USA (Eastern)",National Geographic
 http://198.58.104.90:8989/natgeo/index.m3u8
 #EXTINF:0 tvg-id="Nat Geo Wild.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/100px-National_Geographic_Wild_logo.svg.png" group-title="USA (Eastern)",Nat Geo Wild
@@ -19,7 +19,7 @@ http://198.58.104.90:8989/natgeowild/index.m3u8
 #EXTINF:0 tvg-id="ESPN2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="USA (Eastern)",ESPN2
 
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/512px-ESPNews.svg.png" group-title="USA (Eastern)",ESPNews
-https://fl7.moveonjoy.com/ESPN_NEWS/index.m3u8
+
 #EXTINF:0 tvg-id="ESPNU.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/512px-ESPN_U_logo.svg.png" group-title="USA (Eastern)",ESPNU
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:0 tvg-id="ESPN Deportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/300px-Espn_deportes.svg.png" group-title="USA (Eastern)",ESPN Deportes
