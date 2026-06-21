@@ -4,25 +4,25 @@
 https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/disneyjr/index.m3u8
 #EXTINF:0 tvg-id="Disney.XD.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png" group-title="USA (Eastern)",Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-#EXTINF:0 tvg-id="FX.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1024px-FX_International_logo.svg.png" group-title="USA (Eastern)",FX
+#EXTINF:0 tvg-id="FX.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="USA (Eastern)",FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
-#EXTINF:0 tvg-id="FX.Movie.Channel.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/800px-FXM_Logo.svg.png" group-title="USA (Eastern)",FXM
+#EXTINF:0 tvg-id="FX.Movie.Channel.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/120px-FX_Movies_logo.svg.png" group-title="USA (Eastern)",FXM
 
-#EXTINF:0 tvg-id="FXX.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/751px-FXX_Logo.svg.png" group-title="USA (Eastern)",FXX
+#EXTINF:0 tvg-id="FXX.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png" group-title="USA (Eastern)",FXX
 
-#EXTINF:0 tvg-id="Nat Geo.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/800px-Natgeologo.svg.png" group-title="USA (Eastern)",National Geographic
+#EXTINF:0 tvg-id="National.Geographic.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="USA (Eastern)",National Geographic
 http://198.58.104.90:8989/natgeo/index.m3u8
-#EXTINF:0 tvg-id="Nat Geo Wild.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/100px-National_Geographic_Wild_logo.svg.png" group-title="USA (Eastern)",Nat Geo Wild
+#EXTINF:0 tvg-id="National.Geographic.Wild.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/120px-National_Geographic_Wild_logo.svg.png" group-title="USA (Eastern)",Nat Geo Wild
 http://198.58.104.90:8989/natgeowild/index.m3u8
-#EXTINF:0 tvg-id="ESPN.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="USA (Eastern)",ESPN
+#EXTINF:0 tvg-id="ESPN.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="USA (Eastern)",ESPN
 
-#EXTINF:0 tvg-id="ESPN2.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="USA (Eastern)",ESPN2
+#EXTINF:0 tvg-id="ESPN2.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="USA (Eastern)",ESPN2
 
-#EXTINF:0 tvg-id="ESPNEWS.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/512px-ESPNews.svg.png" group-title="USA (Eastern)",ESPNews
+#EXTINF:0 tvg-id="ESPNEWS.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png" group-title="USA (Eastern)",ESPNews
 
-#EXTINF:0 tvg-id="ESPNU.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/512px-ESPN_U_logo.svg.png" group-title="USA (Eastern)",ESPNU
+#EXTINF:0 tvg-id="ESPNU.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/960px-ESPN_U_logo.svg.png" group-title="USA (Eastern)",ESPNU
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
-#EXTINF:0 tvg-id="ESPN.Deportes.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/300px-Espn_deportes.svg.png" group-title="USA (Eastern)",ESPN Deportes
+#EXTINF:0 tvg-id="ESPN.Deportes.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/330px-ESPN_Deportes.svg.png" group-title="USA (Eastern)",ESPN Deportes
 
 
 #EXTINF:0 tvg-id="Nick Jr..us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png/revision/latest?cb=20231122165643" group-title="USA (Eastern)",Nick Jr.
