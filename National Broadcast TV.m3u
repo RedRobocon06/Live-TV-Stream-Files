@@ -69,8 +69,8 @@ https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 
 #EXTINF:0 tvg-id="Quest.us2" tvg-logo="" group-title="USA (Eastern)",09.03 - Quest
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/True_Crime_TV.png" group-title="USA (Eastern)",09.04 - True Crime Network
-
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/True_Crime_Network_logo.svg/960px-True_Crime_Network_logo.svg.png" group-title="USA (Eastern)",09.04 - True Crime Network
+https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="The.Grio.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/The_Grio.svg/960px-The_Grio.svg.png" group-title="USA (Eastern)",10.01 - TheGrio
 https://apollo.production-public.tubi.io/live/thegrio-P3Aiya.m3u8
 #EXTINF:0 tvg-id="Me.TV.Network.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/1920px-MeTV_Logo.svg.png" group-title="USA (Eastern)",11.01 - MeTV
