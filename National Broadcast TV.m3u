@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:0 tvg-id="ABC.National.Feed.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/960px-ABC-2021-LOGO.svg.png" group-title="USA (Eastern)",01.01 - ABC
-http://41.205.93.154/ABC/index.m3u8
+
 #EXTINF:0 tvg-id="Disney.Channel.HD.us2" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/04/Disney_Channel_2D_Logo_2024.png/revision/latest?cb=20241115003318" group-title="USA (Eastern)",01.02 - Disney Channel
-https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/disney/index.m3u8
+
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Localish_Logo.png" group-title="USA (Eastern)",01.03 - Localish
 https://dnmfq3sh1jipj.cloudfront.net/DisneyLocalish.m3u8
 #EXTINF:0 tvg-id="Freeform.HD.us2" tvg-logo="" group-title="USA (Eastern)",01.04 - Freeform
@@ -32,7 +32,11 @@ http://173.225.32.123/Cozi-2358/index.m3u8
 #EXTINF:0 tvg-id="NBC.True.CRMZ.us2" tvg-logo="" group-title="USA (Eastern)",04.04 - True CRMZ
 
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/960px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="USA (Eastern)",05.01 - Fox
-http://84.17.50.102/fox/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://foxsoul.tv/img/foxsoul-logo.png" group-title="USA (Eastern)",05.02 - Fox Soul
+https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Fox-weather-logo-stacked-color.svg/960px-Fox-weather-logo-stacked-color.svg.png" group-title="USA (Eastern)",05.03 - Fox Weather
+https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:0 tvg-id="My.Network.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="USA (Eastern)",06.01 - MyNetworkTV
 
 #EXTINF:0 tvg-id="get.us2" tvg-logo="https://images.prismic.io/gettv/aZX-m8FoBIGEgiJX_great_logo_magenta_no_ET.png?auto=format%2Ccompress&rect=0%2C109%2C1500%2C488&w=1500&h=488&q=85" group-title="USA (Eastern)",06.02 - Great
