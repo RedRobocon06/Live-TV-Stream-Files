@@ -96,7 +96,7 @@ https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png" group-title="USA (Eastern)",12.01 - Heartland
 https://lukentvlive.vgcdn.net/v1/manifest/cef183924f24adfa3d5d7601c3a17769082c0c2b/heartland/915c3d4a-85a8-41f8-995a-b1a39fc31a34/1.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://www.tablotv.com/wp-content/uploads/2026/04/Hasbro-Legends.png" group-title="USA (Eastern)",12.02 - Hasbro Legends
-https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02713-amg02713c11-amgplt0852/4a3eb2f4-7148-11f1-be37-7e495d8d5b10/36/1920x1080_5129264/index.m3u8
+https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02713-amg02713c11-amgplt0852/playlist.m3u8
 #EXTINF:0 tvg-id="RETRO.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" group-title="USA (Eastern)",12.03 - Retro TV
 https://lukentvlive.vgcdn.net/v1/manifest/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/c7505e53-6c5c-4e89-bd2e-afdbf821e50e/1.m3u8
 #EXTINF:0 tvg-id="The.Family.Channel.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/The_Family_Channel_Logo.png" group-title="USA (Eastern)",12.04 - The Family Channel
