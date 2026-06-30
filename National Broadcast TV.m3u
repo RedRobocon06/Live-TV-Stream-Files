@@ -11,7 +11,7 @@ http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
 #EXTINF:0 tvg-id="CBS.Streaming.SD.East.feed.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/1176px-CBS_logo.svg.png" group-title="USA (Eastern)",02.01 - CBS
 
 #EXTINF:0 tvg-id="Nickelodeon.HD.us2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Nickelodeon_Splat_2023.png/revision/latest?cb=20230724150722" group-title="USA (Eastern)",02.02 - Nickelodeon
-http://198.58.104.90:8989/nickelodeon/index.m3u8
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:0 tvg-id="Dabl.us2" tvg-logo="https://i.imgur.com/x0JzXdF.png" group-title="USA (Eastern)",02.03 - Dabl
 
 #EXTINF:0 tvg-id="Comedy.Central.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="USA (Eastern)",02.04 - Comedy Central
