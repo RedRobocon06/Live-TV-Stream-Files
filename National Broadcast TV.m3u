@@ -34,7 +34,7 @@ https://pb-kdyzf3w51y7oz.akamaized.net/master.m3u8
 https://pb-o6czxr182vtiv.akamaized.net/master.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/960px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="USA (Eastern)",04.01 - Fox
 
-#EXTINF:0 tvg-id="FOX.SOUL.us2" tvg-logo="https://foxsoul.tv/img/foxsoul-logo.png" group-title="USA (Eastern)",05.02 - Fox Soul
+#EXTINF:0 tvg-id="FOX.SOUL.us2" tvg-logo="https://foxsoul.tv/img/foxsoul-logo.png" group-title="USA (Eastern)",04.02 - Fox Soul
 https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Fox-weather-logo-stacked-color.svg/960px-Fox-weather-logo-stacked-color.svg.png" group-title="USA (Eastern)",04.03 - Fox Weather
 https://247wlive.foxweather.com/stream/index.m3u8
