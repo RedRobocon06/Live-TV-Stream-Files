@@ -3,7 +3,7 @@
 #EXTINF:0 tvg-id="ABC.National.Feed.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/960px-ABC-2021-LOGO.svg.png" group-title="USA (Eastern)",01.01 - ABC
 
 #EXTINF:0 tvg-id="Disney.Channel.HD.us2" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/04/Disney_Channel_2D_Logo_2024.png/revision/latest?cb=20241115003318" group-title="USA (Eastern)",01.02 - Disney Channel
-
+http://40.160.24.52/Disney_Channel_HD/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Localish_Logo.png" group-title="USA (Eastern)",01.03 - Localish
 https://dnmfq3sh1jipj.cloudfront.net/DisneyLocalish.m3u8
 #EXTINF:0 tvg-id="Freeform.HD.us2" tvg-logo="" group-title="USA (Eastern)",01.04 - Freeform
@@ -15,7 +15,7 @@ https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8
 #EXTINF:0 tvg-id="Nickelodeon.HD.us2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Nickelodeon_Splat_2023.png/revision/latest?cb=20230724150722" group-title="USA (Eastern)",02.02 - Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:0 tvg-id="Dabl.us2" tvg-logo="https://i.imgur.com/x0JzXdF.png" group-title="USA (Eastern)",02.03 - Dabl
-
+http://40.160.24.56/DABL/index.m3u8
 #EXTINF:0 tvg-id="Comedy.Central.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="USA (Eastern)",02.04 - Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:0 tvg-id="CBS.News.National.Stream.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/CBS_News_2020_%28Stacked_II%29.svg/960px-CBS_News_2020_%28Stacked_II%29.svg.png" group-title="USA (Eastern)",02.05 - CBS News
@@ -81,7 +81,7 @@ https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 #EXTINF:0 tvg-id="Quest.us2" tvg-logo="" group-title="USA (Eastern)",08.05 - Quest
 
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/True_Crime_Network_logo.svg/960px-True_Crime_Network_logo.svg.png" group-title="USA (Eastern)",08.06 - True Crime Network
-https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8
+
 #EXTINF:0 tvg-id="The.Grio.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/The_Grio.svg/960px-The_Grio.svg.png" group-title="USA (Eastern)",09.01 - TheGrio
 https://apollo.production-public.tubi.io/live/thegrio-P3Aiya.m3u8
 #EXTINF:0 tvg-id="Me.TV.Network.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/1920px-MeTV_Logo.svg.png" group-title="USA (Eastern)",10.01 - MeTV
@@ -101,15 +101,15 @@ https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffb
 #EXTINF:0 tvg-id="Story.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Story_television_logo.png" group-title="USA (Eastern)",10.08 - Story Television
 https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png" group-title="USA (Eastern)",11.01 - Heartland
-https://lukentvlive.vgcdn.net/v1/manifest/cef183924f24adfa3d5d7601c3a17769082c0c2b/heartland/915c3d4a-85a8-41f8-995a-b1a39fc31a34/1.m3u8
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/heartland/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://www.tablotv.com/wp-content/uploads/2026/04/Hasbro-Legends.png" group-title="USA (Eastern)",11.02 - Hasbro Legends
 https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02713-amg02713c11-amgplt0852/playlist.m3u8
 #EXTINF:0 tvg-id="RETRO.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" group-title="USA (Eastern)",11.03 - Retro TV
-https://lukentvlive.vgcdn.net/v1/manifest/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/c7505e53-6c5c-4e89-bd2e-afdbf821e50e/1.m3u8
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8
 #EXTINF:0 tvg-id="The.Family.Channel.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/The_Family_Channel_Logo.png" group-title="USA (Eastern)",11.04 - The Family Channel
 
 #EXTINF:0 tvg-id="RevN.us2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Rev%27n_Action_%282026%29.png/revision/latest/scale-to-width-down/800?cb=20260508131659" group-title="USA (Eastern)",12.05 - Rev'n Action
-https://lukentvlive.vgcdn.net/v1/manifest/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/631bb256-95d1-48be-bbe0-26f654b1a713/1.m3u8
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8
 #EXTINF:0 tvg-id="BUZZR.Stream.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/960px-Buzzr_logo.svg.png" group-title="USA (Eastern)",12.01 - Buzzr
 https://apollo.production-public.tubi.io/live/buzzr-KU8lhO.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://kathyharrisbooks.com/wp-content/uploads/2010/11/logo.png" group-title="USA (Eastern)",13.01 - The Country Network
