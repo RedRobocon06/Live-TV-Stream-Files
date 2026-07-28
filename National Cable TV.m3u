@@ -119,9 +119,9 @@ http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:0 tvg-id="Fox.Business.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="USA (Eastern)",Fox Business
 https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8
 #EXTINF:0 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/150px-2015_Fox_Sports_1_logo.svg.png" group-title="USA (Eastern)",FS1
-
+https://fa.edge.foxdtc.digitalvideoplatform.com/ZXhwPTE3ODUzNDY4ODk7YWNsPS8qO3dzaWQ9Njg1MDY0OTZiM2NkY2FjYTI0ZGY2OGFiNDhkYjI1MzBfZm94ZHRjX3dlYl9lbi1VUztobWFjPUUwNHNRNGswT21DdGtXZ3NYblpLamEwcFhSVW9kNkhVMjF1Mm1OSGZzYkU9/live/fs1-ue2/index.m3u8
 #EXTINF:0 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/192px-FS2_logo_2015.svg.png" group-title="USA (Eastern)",FS2
-
+https://cf.edge.foxdtc.digitalvideoplatform.com/ZXhwPTE3ODUzNDY5MzE7YWNsPS8qO3dzaWQ9YmVlN2MxODdiYmE0OWM1ZjUwOWU3M2U1Y2ZmOTExYWVfZm94ZHRjX3dlYl9lbi1VUztobWFjPVhNMkNRSXdZcWxkRGJ6QkswOG11NVJiZEgrV2FQKzQzaldrdm1QYnA4dGM9/live/fs2-ue2/index.m3u8
 
 #EXTINF:0 tvg-id="Sony.Movie.Channel.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/598px-Sony_Movies_Logo.svg.png" group-title="USA (Eastern)",Sony Movies
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
@@ -180,6 +180,8 @@ https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:0 tvg-id="CSPAN3.us2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/CSPAN3_Navy-and-Amber.svg/revision/latest?cb=20190318192203" group-title="USA (Eastern)",C-SPAN 3
 
 #EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Screenshot_2022-05-25_1.19.30_PM.png/revision/latest/scale-to-width-down/1000?cb=20221123021745" group-title="USA (Eastern)",Kids Street
+
+#EXTINF:0 tvg-id="Univision.TL.Novelas.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/800px-Univision_tlnovelas_%282019%29.svg.png" group-title="USA (Eastern)",19.05 - Univision Tlnovelas
 
 
 #EXTINF:0 tvg-id="TBS.HD.(Pacific).us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/960px-TBS_2020.svg.png" group-title="USA (Pacific)",TBS (Pacific)
