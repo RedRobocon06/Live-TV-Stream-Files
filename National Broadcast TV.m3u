@@ -13,7 +13,7 @@ https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8
 #EXTINF:0 tvg-id="CBS.Streaming.SD.East.feed.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/1176px-CBS_logo.svg.png" group-title="USA (Eastern)",02.01 - CBS
 
 #EXTINF:0 tvg-id="Nickelodeon.HD.us2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Nickelodeon_Splat_2023.png/revision/latest?cb=20230724150722" group-title="USA (Eastern)",02.02 - Nickelodeon
-https://sra72yz.s.gy/NICKELODEON_EAST_US.m3u8
+http://198.58.104.90:8989/nickelodeon/index.m3u8
 #EXTINF:0 tvg-id="Dabl.us2" tvg-logo="https://i.imgur.com/x0JzXdF.png" group-title="USA (Eastern)",02.03 - Dabl
 http://40.160.24.56/DABL/index.m3u8
 #EXTINF:0 tvg-id="Comedy.Central.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="USA (Eastern)",02.04 - Comedy Central
@@ -181,8 +181,8 @@ https://pbs.lls.cdn.pbs.org/pst/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/240px-Global_Television_Network_Logo.svg.png" group-title="Canada",Global
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Knowledge_Network_2012.svg/703px-Knowledge_Network_2012.svg.png" group-title="Canada",Knowledge Network
-
+#EXTINF:0 tvg-id="" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Knowledge_Network_2012.svg/960px-Knowledge_Network_2012.svg.png" group-title="Canada",Knowledge Network
+https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 #EXTINF:0 tvg-id="TVO.ca2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/TVO_logo.svg/1200px-TVO_logo.svg.png" group-title="Canada",TVO
 
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Tvokids-logo.png/960px-Tvokids-logo.png" group-title="Canada",TVO Kids
