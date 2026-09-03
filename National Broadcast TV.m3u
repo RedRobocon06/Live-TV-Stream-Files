@@ -13,11 +13,11 @@ https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8
 #EXTINF:0 tvg-id="CBS.Streaming.SD.East.feed.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/1176px-CBS_logo.svg.png" group-title="USA (Eastern)",02.01 - CBS
 
 #EXTINF:0 tvg-id="Nickelodeon.HD.us2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Nickelodeon_Splat_2023.png/revision/latest?cb=20230724150722" group-title="USA (Eastern)",02.02 - Nickelodeon
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+https://sra72yz.s.gy/NICKELODEON_EAST_US.m3u8
 #EXTINF:0 tvg-id="Dabl.us2" tvg-logo="https://i.imgur.com/x0JzXdF.png" group-title="USA (Eastern)",02.03 - Dabl
 http://40.160.24.56/DABL/index.m3u8
 #EXTINF:0 tvg-id="Comedy.Central.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="USA (Eastern)",02.04 - Comedy Central
-http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+https://tvsen3.aynaott.com/5fUWDMxZ/index.m3u8
 #EXTINF:0 tvg-id="CBS.News.National.Stream.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/CBS_News_2020_%28Stacked_II%29.svg/960px-CBS_News_2020_%28Stacked_II%29.svg.png" group-title="USA (Eastern)",02.05 - CBS News
 https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8
 #EXTINF:0 tvg-id="NBC.East.Stream.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/1137px-NBC_logo_%282013%29.svg.png" group-title="USA (Eastern)",03.01 - NBC
@@ -155,8 +155,6 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/umaeast/umaeast.isml/hls/um
 https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
 #EXTINF:0 tvg-id="TUDN.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/500px-TUDN_Logo.svg.png" group-title="USA (Eastern)",19.04 - TUDN
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-#EXTINF:0 tvg-id="Univision.TL.Novelas.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/800px-Univision_tlnovelas_%282019%29.svg.png" group-title="USA (Eastern)",19.05 - Univision Tlnovelas
-
 #EXTINF:0 tvg-id="Estrella.TV.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Estrella_TV_2020_Logo.svg/500px-Estrella_TV_2020_Logo.svg.png" group-title="USA (Eastern)",20.01 - Estrella TV
 https://d1accqs1infy2u.cloudfront.net/EstrellaTV.m3u8
 #EXTINF:0 tvg-id="VME.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/V-me_Channel_Logo.png" group-title="USA (Eastern)",21.01 - V-me
